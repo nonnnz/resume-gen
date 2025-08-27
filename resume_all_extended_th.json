@@ -25,6 +25,20 @@
         ],
         "technologies": ["Excel", "Bloomberg Terminal", "FactSet", "SQL"]
       }
+        ,
+        {
+          "positionName": "นักวิเคราะห์การเงิน",
+          "companyName": "Goldman Sachs",
+          "location": "นิวยอร์ก, สหรัฐอเมริกา",
+          "startPeriod": "2015-07-01T00:00:00.000Z",
+          "endPeriod": "2018-05-31T00:00:00.000Z",
+          "isWorking": 0,
+          "description": [
+            "วิเคราะห์งบการเงินและแนวโน้มอุตสาหกรรมเพื่อสนับสนุนการตัดสินใจลงทุน",
+            "มีส่วนร่วมในดีล M&A และการวิเคราะห์ความเสี่ยง"
+          ],
+          "technologies": ["Excel", "PowerPoint", "SAS"]
+        }
     ],
     "educationsList": [
       {
@@ -183,6 +197,20 @@
         ],
         "technologies": ["PyTorch", "TensorRT", "ONNX", "Kubernetes"]
       }
+        ,
+        {
+          "positionName": "วิศวกรแมชชีนเลิร์นนิง",
+          "companyName": "Cyberdyne Systems",
+          "location": "โอซาก้า, ญี่ปุ่น",
+          "startPeriod": "2015-04-01T00:00:00.000Z",
+          "endPeriod": "2020-02-29T00:00:00.000Z",
+          "isWorking": 0,
+          "description": [
+            "พัฒนาอัลกอริทึมการเรียนรู้เชิงลึกสำหรับระบบหุ่นยนต์",
+            "ปรับใช้โมเดล ML ในสภาพแวดล้อม edge และ cloud"
+          ],
+          "technologies": ["Python", "TensorFlow", "ROS"]
+        }
     ],
     "educationsList": [
       {
@@ -262,6 +290,20 @@
         ],
         "technologies": ["Python", "PyTorch", "GCP", "Vertex AI"]
       }
+        ,
+        {
+          "positionName": "วิศวกรซอฟต์แวร์อาวุโส",
+          "companyName": "SAP",
+          "location": "วอลดอร์ฟ, เยอรมนี",
+          "startPeriod": "2017-01-01T00:00:00.000Z",
+          "endPeriod": "2020-04-30T00:00:00.000Z",
+          "isWorking": 0,
+          "description": [
+            "ออกแบบและพัฒนาโซลูชัน AI สำหรับลูกค้าองค์กร",
+            "เป็นผู้นำโครงการข้ามทีมในด้าน data engineering"
+          ],
+          "technologies": ["Java", "Python", "SAP HANA"]
+        }
     ],
     "educationsList": [
       {
@@ -273,6 +315,16 @@
         "endYear": 2017,
         "isStudying": 0
       }
+        ,
+        {
+          "degree": "ปริญญาโท",
+          "faculty": "วิศวกรรมศาสตร์",
+          "major": "วิศวกรรมซอฟต์แวร์",
+          "institution": "Technical University of Munich",
+          "startYear": 2012,
+          "endYear": 2014,
+          "isStudying": 0
+        }
     ],
     "skills": [
       "การจัดการคน",
@@ -643,6 +695,20 @@
           "AWS"
         ]
       }
+        ,
+        {
+          "positionName": "วิศวกรซอฟต์แวร์",
+          "companyName": "Microsoft",
+          "location": "เรดมอนด์, สหรัฐอเมริกา",
+          "startPeriod": "2015-08-01T00:00:00.000Z",
+          "endPeriod": "2020-01-31T00:00:00.000Z",
+          "isWorking": 0,
+          "description": [
+            "พัฒนาและบำรุงรักษา microservices สำหรับระบบคลาวด์",
+            "ทำงานร่วมกับทีมข้ามชาติในโครงการขนาดใหญ่"
+          ],
+          "technologies": ["C#", ".NET", "Azure"]
+        }
     ],
     "educationsList": [
       {

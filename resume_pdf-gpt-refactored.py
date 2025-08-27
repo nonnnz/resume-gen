@@ -925,7 +925,9 @@ def build_pdf(data: Dict[str, Any], theme: str, out_path: str):
 
 def suggest_outname(data: Dict[str, Any], theme: str) -> str:
     lang = data.get("language", "en")
-    fn = f"{safe_get(data,'firstname','')}_{safe_get(data,'lastname','')}_{lang}_{theme}.pdf"
+    position = safe_get(data, "experiencesList", [{}])[
+        0].get("positionName", "")
+    fn = f"{safe_get(data,'firstname','')}_{safe_get(data,'lastname','')}_{position}_{lang}_{theme}.pdf"
     return "_".join([s for s in fn.replace(" ", "_").split("_") if s])
 
 

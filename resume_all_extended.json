@@ -40,6 +40,16 @@
         "CGPA": "3.9",
         "isStudying": 0,
         "honors": ["Best Thesis Award"]
+      },
+      {
+        "degree": "bachelor",
+        "faculty": "Computer Engineering",
+        "major": "Computer Engineering",
+        "institution": "Indian Institute of Technology, Bombay",
+        "startYear": 2014,
+        "endYear": 2018,
+        "CGPA": "9.2",
+        "isStudying": 0
       }
     ],
     "skills": [
@@ -198,6 +208,24 @@
           "Docker",
           "Kubernetes"
         ]
+      },
+      {
+        "positionName": "Backend Developer",
+        "companyName": "FinTech Solutions",
+        "location": "London, UK",
+        "startPeriod": "2015-07-01T00:00:00.000Z",
+        "endPeriod": "2019-05-01T00:00:00.000Z",
+        "isWorking": 0,
+        "description": [
+          "Developed and maintained REST APIs for a core banking platform.",
+          "Worked on database migration from MySQL to PostgreSQL."
+        ],
+        "technologies": [
+          "Node.js",
+          "Express",
+          "MySQL",
+          "PostgreSQL"
+        ]
       }
     ],
     "educationsList": [
@@ -355,6 +383,19 @@
           "Prepared quarterly financial reports for executive board."
         ],
         "technologies": ["Excel", "PowerBI", "SQL", "Financial Modeling"]
+      },
+      {
+        "positionName": "Financial Analyst",
+        "companyName": "Morgan Stanley",
+        "location": "New York, USA",
+        "startPeriod": "2015-07-01T00:00:00.000Z",
+        "endPeriod": "2017-08-01T00:00:00.000Z",
+        "isWorking": 0,
+        "description": [
+          "Supported senior analysts with industry research and data gathering.",
+          "Assisted in the preparation of pitch books and marketing materials."
+        ],
+        "technologies": ["Excel", "PowerPoint", "Bloomberg Terminal"]
       }
     ],
     "educationsList": [
@@ -518,6 +559,19 @@
           "Built eval harness with rubric and human-in-the-loop review."
         ],
         "technologies": ["PyTorch", "vLLM", "Ray", "CUDA", "Weights & Biases"]
+      },
+      {
+        "positionName": "Machine Learning Engineer",
+        "companyName": "CyberAgent",
+        "location": "Tokyo, Japan",
+        "startPeriod": "2018-04-01T00:00:00.000Z",
+        "endPeriod": "2021-08-01T00:00:00.000Z",
+        "isWorking": 0,
+        "description": [
+          "Developed recommendation systems for a large-scale advertising platform.",
+          "Deployed models using Docker and Kubernetes."
+        ],
+        "technologies": ["TensorFlow", "scikit-learn", "Docker", "Kubernetes"]
       }
     ],
     "educationsList": [
@@ -529,6 +583,16 @@
         "startYear": 2012,
         "endYear": 2014,
         "CGPA": "3.8",
+        "isStudying": 0
+      },
+      {
+        "degree": "bachelor",
+        "faculty": "Information Science",
+        "major": "Information Science",
+        "institution": "Kyoto University",
+        "startYear": 2008,
+        "endYear": 2012,
+        "CGPA": "3.7",
         "isStudying": 0
       }
     ],
@@ -598,6 +662,19 @@
           "Launched 3 LLM features increasing ARR by 9%."
         ],
         "technologies": ["Python", "PyTorch", "GCP", "Vertex AI"]
+      },
+      {
+        "positionName": "Senior Machine Learning Engineer",
+        "companyName": "Zalando",
+        "location": "Berlin, Germany",
+        "startPeriod": "2018-01-01T00:00:00.000Z",
+        "endPeriod": "2020-04-01T00:00:00.000Z",
+        "isWorking": 0,
+        "description": [
+          "Led the development of a personalized product recommendation engine.",
+          "Mentored junior engineers and established best practices for code reviews."
+        ],
+        "technologies": ["Python", "TensorFlow", "AWS", "Kubernetes"]
       }
     ],
     "educationsList": [
@@ -608,6 +685,15 @@
         "institution": "INSEAD",
         "startYear": 2016,
         "endYear": 2017,
+        "isStudying": 0
+      },
+      {
+        "degree": "master",
+        "faculty": "Computer Science",
+        "major": "Artificial Intelligence",
+        "institution": "Technical University of Munich",
+        "startYear": 2012,
+        "endYear": 2014,
         "isStudying": 0
       }
     ],
@@ -978,6 +1064,24 @@
           "PostgreSQL",
           "Kubernetes",
           "AWS"
+        ]
+      },
+      {
+        "positionName": "Software Engineer",
+        "companyName": "Fawry",
+        "location": "Cairo, Egypt",
+        "startPeriod": "2016-08-01T00:00:00.000Z",
+        "endPeriod": "2020-01-01T00:00:00.000Z",
+        "isWorking": 0,
+        "description": [
+          "Developed and maintained backend services for a high-volume payment gateway.",
+          "Contributed to the design and implementation of RESTful APIs."
+        ],
+        "technologies": [
+          "Java",
+          "Spring Boot",
+          "MySQL",
+          "RabbitMQ"
         ]
       }
     ],
