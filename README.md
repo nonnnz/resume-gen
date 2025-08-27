@@ -210,7 +210,7 @@ Project Link: [https://github.com/nonnnz/resume-gen](https://github.com/nonnnz/r
 [issues-shield]: https://img.shields.io/github/issues/nonnnz/resume-gen.svg?style=for-the-badge
 [issues-url]: https://github.com/nonnnz/resume-gen/issues
 [license-shield]: https://img.shields.io/github/license/nonnnz/resume-gen.svg?style=for-the-badge
-[license-url]: https://github.com/nonnnz/resume-gen/blob/master/LICENSE.txt
+[license-url]: https://github.com/nonnnz/resume-gen/blob/main/LICENSE
 [product-screenshot]: images/screenshot.png
 [Python-shield]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 [Python-url]: https://www.python.org/
