@@ -13,23 +13,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/resume-gen">
+<!--   <a href="https://github.com/nonnnz/resume-gen">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+  </a> -->
 
 <h3 align="center">AI-Powered PDF Resume Generator</h3>
 
   <p align="center">
     A Python script to generate beautiful, multi-lingual PDF resumes from JSON data. This project was largely developed with the assistance of AI, showcasing the power of prompt-based code generation and refactoring.
     <br />
-    <a href="https://github.com/github_username/resume-gen"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/nonnnz/resume-gen"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/resume-gen/tree/main/resume">View Samples</a>
+    <a href="https://github.com/nonnnz/resume-gen/tree/main/resume">View Samples</a>
     &middot;
-    <a href="https://github.com/github_username/resume-gen/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/nonnnz/resume-gen/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     &middot;
-    <a href="https://github.com/github_username/resume-gen/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/nonnnz/resume-gen/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 
@@ -63,7 +63,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/github_username/resume-gen/tree/main/resume)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/nonnnz/resume-gen/tree/main/resume)
 
 This project is a powerful Python script that automates the creation of professional-looking PDF resumes from structured JSON data. It was developed with significant contributions from AI, demonstrating how modern AI tools can accelerate development and build robust applications.
 
@@ -108,7 +108,7 @@ Make sure you have Python 3 and pip installed on your system.
 
 1.  Clone the repo
     ```sh
-    git clone https://github.com/github_username/resume-gen.git
+    git clone https://github.com/nonnnz/resume-gen.git
     cd resume-gen
     ```
 2.  Install required Python packages. It's recommended to use a virtual environment.
@@ -137,7 +137,7 @@ python resume_pdf-gpt-refactored.py --data resume_all_extended.json --theme mode
 - `--theme`: The visual theme to use (`modern`, `classic`, `minimal`).
 - `--outdir`: The directory to save the generated PDF files.
 
-_For more examples, please refer to the [sample JSON files](https://github.com/github_username/resume-gen) like `resume_all_extended.json` and `resume_all_extended_th.json`._
+_For more examples, please refer to the [sample JSON files](https://github.com/nonnnz/resume-gen) like `resume_all_extended.json` and `resume_all_extended_th.json`._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -150,7 +150,7 @@ _For more examples, please refer to the [sample JSON files](https://github.com/g
 - [ ] Add a simple web UI for generating resumes.
 - [ ] Package the script for easier distribution (e.g., via PyPI).
 
-See the [open issues](https://github.com/github_username/resume-gen/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/nonnnz/resume-gen/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -185,7 +185,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Your Name - @your_twitter - your_email@example.com
 
-Project Link: [https://github.com/github_username/resume-gen](https://github.com/github_username/resume-gen)
+Project Link: [https://github.com/nonnnz/resume-gen](https://github.com/nonnnz/resume-gen)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -201,16 +201,16 @@ Project Link: [https://github.com/github_username/resume-gen](https://github.com
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/resume-gen.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/resume-gen/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/resume-gen.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/resume-gen/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/resume-gen.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/resume-gen/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/resume-gen.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/resume-gen/issues
-[license-shield]: https://img.shields.io/github/license/github_username/resume-gen.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/resume-gen/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/nonnnz/resume-gen.svg?style=for-the-badge
+[contributors-url]: https://github.com/nonnnz/resume-gen/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/nonnnz/resume-gen.svg?style=for-the-badge
+[forks-url]: https://github.com/nonnnz/resume-gen/network/members
+[stars-shield]: https://img.shields.io/github/stars/nonnnz/resume-gen.svg?style=for-the-badge
+[stars-url]: https://github.com/nonnnz/resume-gen/stargazers
+[issues-shield]: https://img.shields.io/github/issues/nonnnz/resume-gen.svg?style=for-the-badge
+[issues-url]: https://github.com/nonnnz/resume-gen/issues
+[license-shield]: https://img.shields.io/github/license/nonnnz/resume-gen.svg?style=for-the-badge
+[license-url]: https://github.com/nonnnz/resume-gen/blob/master/LICENSE.txt
 [product-screenshot]: images/screenshot.png
 [Python-shield]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 [Python-url]: https://www.python.org/
