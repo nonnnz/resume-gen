@@ -63,8 +63,6 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/nonnnz/resume-gen/tree/main/resume)
-
 This project is a powerful Python script that automates the creation of professional-looking PDF resumes from structured JSON data. It was developed with significant contributions from AI, demonstrating how modern AI tools can accelerate development and build robust applications.
 
 Key Features:
@@ -176,16 +174,6 @@ Don't forget to give the project a star! Thanks again!
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- CONTACT -->
-
-## Contact
-
-Your Name - @your_twitter - your_email@example.com
-
-Project Link: [https://github.com/nonnnz/resume-gen](https://github.com/nonnnz/resume-gen)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
