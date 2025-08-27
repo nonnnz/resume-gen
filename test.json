@@ -1,0 +1,80 @@
+{
+  "language": "th",
+  "firstname": "ฮิโระ",
+  "lastname": "ทานากะ",
+  "headline": "วิศวกร AI (อาวุโส)",
+  "phone": "+81 70-1234-5678",
+  "address": "โตเกียว, ญี่ปุ่น",
+  "email": "hiro.tanaka@example.com",
+  "linkedin": "https://linkedin.com/in/hirotanaka",
+  "github": "https://github.com/htanaka",
+  "website": "https://hiroai.dev",
+  "dateOfBirth": "1988-02-04",
+  "nationality": "ญี่ปุ่น",
+  "profileSummary": "วิศวกร AI อาวุโสที่เชี่ยวชาญในระบบ LLM การประเมินผล และการเพิ่มประสิทธิภาพด้านความหน่วงและต้นทุนในระดับใหญ่",
+  "experiencesList": [
+    {
+      "positionName": "วิศวกร AI อาวุโส",
+      "companyName": "AI Corp Japan",
+      "location": "โตเกียว, ญี่ปุ่น",
+      "startPeriod": "2020-03-01T00:00:00.000Z",
+      "endPeriod": null,
+      "isWorking": 1,
+      "description": [
+        "นำทีมพัฒนาและปรับใช้ LLMs ในผลิตภัณฑ์หลักขององค์กร",
+        "ลดต้นทุนการอนุมาน LLM ลง 60% ผ่านการเพิ่มประสิทธิภาพ"
+      ],
+      "technologies": ["PyTorch", "TensorRT", "ONNX", "Kubernetes"]
+    }
+  ],
+  "educationsList": [
+    {
+      "degree": "ปริญญาเอก",
+      "faculty": "วิทยาการคอมพิวเตอร์",
+      "major": "การเรียนรู้ของเครื่อง",
+      "institution": "มหาวิทยาลัยโตเกียว",
+      "startYear": 2010,
+      "endYear": 2015,
+      "isStudying": 0
+    }
+  ],
+  "skills": [
+    "PyTorch",
+    "การเทรนแบบกระจาย",
+    "การเพิ่มประสิทธิภาพ",
+    "RAG",
+    "วิศวกรรมพรอมต์",
+    "การประเมินผล",
+    "MLOps"
+  ],
+  "projectsList": [
+    {
+      "title": "LLM Optimization Framework",
+      "description": "พัฒนาเฟรมเวิร์กสำหรับเพิ่มประสิทธิภาพ LLMs แบบโอเพนซอร์ส",
+      "technologies": ["Python", "PyTorch", "ONNX"],
+      "link": "https://github.com/htanaka/llm-opt",
+      "startPeriod": "2022-01-01T00:00:00.000Z",
+      "endPeriod": null
+    }
+  ],
+  "certificates": ["AWS Machine Learning – Specialty"],
+  "awardsList": [
+    {
+      "name": "รางวัลนวัตกรรมดีเด่น",
+      "issuer": "AI Corp Japan",
+      "year": 2022,
+      "description": "สำหรับการพัฒนาเทคนิคการเพิ่มประสิทธิภาพ LLM"
+    }
+  ],
+  "publications": [],
+  "languagesSpoken": [
+    {
+      "language": "ภาษาญี่ปุ่น",
+      "proficiency": "ภาษาแม่"
+    },
+    {
+      "language": "ภาษาอังกฤษ",
+      "proficiency": "คล่องแคล่ว"
+    }
+  ]
+}

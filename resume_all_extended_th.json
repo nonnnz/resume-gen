@@ -1,0 +1,981 @@
+[
+  {
+    "language": "th",
+    "firstname": "เอมิลี่",
+    "lastname": "หว่อง",
+    "headline": "นักวิเคราะห์การเงิน",
+    "phone": "+1 415-555-0123",
+    "address": "นิวยอร์ก, สหรัฐอเมริกา",
+    "email": "emily.wong@example.com",
+    "linkedin": "https://linkedin.com/in/emilywong",
+    "dateOfBirth": "1990-05-22",
+    "nationality": "อเมริกัน",
+    "profileSummary": "มืออาชีพด้านการเงินที่มีความเชี่ยวชาญในด้านการเงินองค์กร การประเมินความเสี่ยง และกลยุทธ์การลงทุน มีผลงานที่โดดเด่นในการสนับสนุนดีล M&A และการจัดการพอร์ตการลงทุน",
+    "experiencesList": [
+      {
+        "positionName": "นักวิเคราะห์การเงินอาวุโส",
+        "companyName": "Morgan Stanley",
+        "location": "นิวยอร์ก, สหรัฐอเมริกา",
+        "startPeriod": "2018-06-01T00:00:00.000Z",
+        "endPeriod": null,
+        "isWorking": 1,
+        "description": [
+          "จัดการพอร์ตโฟลิโอมูลค่า $500M+ และให้คำแนะนำด้านการลงทุน",
+          "วิเคราะห์และประเมินดีล M&A มูลค่ารวมกว่า $2B"
+        ],
+        "technologies": ["Excel", "Bloomberg Terminal", "FactSet", "SQL"]
+      }
+    ],
+    "educationsList": [
+      {
+        "degree": "ปริญญาตรี",
+        "faculty": "บริหารธุรกิจ",
+        "major": "การเงิน",
+        "institution": "มหาวิทยาลัยนิวยอร์ก",
+        "startYear": 2008,
+        "endYear": 2012,
+        "CGPA": "3.8",
+        "isStudying": 0,
+        "honors": ["เกียรตินิยมอันดับหนึ่ง"]
+      }
+    ],
+    "skills": [
+      "การสร้างแบบจำลองทางการเงิน",
+      "Excel",
+      "SQL",
+      "การวิเคราะห์ความเสี่ยง",
+      "กลยุทธ์การลงทุน",
+      "การจัดการพอร์ตโฟลิโอ",
+      "การประเมินมูลค่า",
+      "การแสดงผลข้อมูล",
+      "การเงินองค์กร",
+      "การบัญชี"
+    ],
+    "projectsList": [
+      {
+        "title": "การปรับโครงสร้างพอร์ตโฟลิโอ",
+        "description": "ปรับปรุงประสิทธิภาพพอร์ตโฟลิโอโดยเพิ่มผลตอบแทน 15%",
+        "technologies": ["Excel", "Python", "Power BI"],
+        "startPeriod": "2021-01-01T00:00:00.000Z",
+        "endPeriod": "2021-06-01T00:00:00.000Z"
+      }
+    ],
+    "certificates": ["CFA ระดับ 2"],
+    "awardsList": [
+      {
+        "name": "นักวิเคราะห์ยอดเยี่ยมประจำปี",
+        "issuer": "Morgan Stanley",
+        "year": 2022,
+        "description": "ได้รับการยอมรับจากผลงานที่โดดเด่นในการวิเคราะห์และการให้คำแนะนำด้านการลงทุน"
+      }
+    ],
+    "publications": [],
+    "languagesSpoken": [
+      {
+        "language": "ภาษาอังกฤษ",
+        "proficiency": "ภาษาแม่"
+      },
+      {
+        "language": "ภาษาจีนกลาง",
+        "proficiency": "ดี"
+      }
+    ]
+  },
+  {
+    "language": "th",
+    "firstname": "มายา",
+    "lastname": "พาเทล",
+    "headline": "วิศวกร AI (จูเนียร์)",
+    "phone": "+1 202-555-0144",
+    "address": "ออสติน, สหรัฐอเมริกา",
+    "email": "maya.patel@example.com",
+    "linkedin": "https://linkedin.com/in/mayapatel",
+    "github": "https://github.com/mayapatel",
+    "dateOfBirth": "1999-08-12",
+    "nationality": "อเมริกัน",
+    "profileSummary": "วิศวกร AI จูเนียร์ที่มุ่งเน้นด้าน NLP และการค้นคืนข้อมูล มีประสบการณ์ตรงในการปรับแต่ง LLMs ขนาดเล็กและสร้าง APIs สำหรับการอนุมาน",
+    "experiencesList": [
+      {
+        "positionName": "วิศวกร AI จูเนียร์",
+        "companyName": "AI Startup Inc.",
+        "location": "ออสติน, สหรัฐอเมริกา",
+        "startPeriod": "2023-01-01T00:00:00.000Z",
+        "endPeriod": null,
+        "isWorking": 1,
+        "description": [
+          "พัฒนาและปรับแต่ง LLMs ขนาดเล็กสำหรับงานเฉพาะทาง",
+          "สร้าง REST APIs สำหรับการอนุมานโมเดล ML"
+        ],
+        "technologies": ["Python", "PyTorch", "FastAPI", "Docker"]
+      }
+    ],
+    "educationsList": [
+      {
+        "degree": "ปริญญาตรี",
+        "faculty": "วิทยาการคอมพิวเตอร์",
+        "major": "ปัญญาประดิษฐ์",
+        "institution": "มหาวิทยาลัยเท็กซัส",
+        "startYear": 2017,
+        "endYear": 2021,
+        "CGPA": "3.7",
+        "isStudying": 0
+      }
+    ],
+    "skills": [
+      "Python",
+      "PyTorch",
+      "Transformers",
+      "NLP",
+      "การค้นคืนข้อมูล",
+      "FastAPI",
+      "Git",
+      "Docker"
+    ],
+    "projectsList": [
+      {
+        "title": "ระบบแนะนำสินค้า",
+        "description": "พัฒนาระบบแนะนำสินค้าโดยใช้ LLMs และการค้นคืนข้อมูล",
+        "technologies": ["Python", "PyTorch", "FastAPI"],
+        "link": "https://github.com/mayapatel/recommender",
+        "startPeriod": "2022-09-01T00:00:00.000Z",
+        "endPeriod": "2022-12-01T00:00:00.000Z"
+      }
+    ],
+    "certificates": ["AWS Certified Cloud Practitioner"],
+    "awardsList": [],
+    "publications": [],
+    "languagesSpoken": [
+      {
+        "language": "ภาษาอังกฤษ",
+        "proficiency": "ภาษาแม่"
+      },
+      {
+        "language": "ภาษาฮินดี",
+        "proficiency": "พื้นฐาน"
+      }
+    ]
+  },
+  {
+    "language": "th",
+    "firstname": "ฮิโระ",
+    "lastname": "ทานากะ",
+    "headline": "วิศวกร AI (อาวุโส)",
+    "phone": "+81 70-1234-5678",
+    "address": "โตเกียว, ญี่ปุ่น",
+    "email": "hiro.tanaka@example.com",
+    "linkedin": "https://linkedin.com/in/hirotanaka",
+    "github": "https://github.com/htanaka",
+    "website": "https://hiroai.dev",
+    "dateOfBirth": "1988-02-04",
+    "nationality": "ญี่ปุ่น",
+    "profileSummary": "วิศวกร AI อาวุโสที่เชี่ยวชาญในระบบ LLM การประเมินผล และการเพิ่มประสิทธิภาพด้านความหน่วงและต้นทุนในระดับใหญ่",
+    "experiencesList": [
+      {
+        "positionName": "วิศวกร AI อาวุโส",
+        "companyName": "AI Corp Japan",
+        "location": "โตเกียว, ญี่ปุ่น",
+        "startPeriod": "2020-03-01T00:00:00.000Z",
+        "endPeriod": null,
+        "isWorking": 1,
+        "description": [
+          "นำทีมพัฒนาและปรับใช้ LLMs ในผลิตภัณฑ์หลักขององค์กร",
+          "ลดต้นทุนการอนุมาน LLM ลง 60% ผ่านการเพิ่มประสิทธิภาพ"
+        ],
+        "technologies": ["PyTorch", "TensorRT", "ONNX", "Kubernetes"]
+      }
+    ],
+    "educationsList": [
+      {
+        "degree": "ปริญญาเอก",
+        "faculty": "วิทยาการคอมพิวเตอร์",
+        "major": "การเรียนรู้ของเครื่อง",
+        "institution": "มหาวิทยาลัยโตเกียว",
+        "startYear": 2010,
+        "endYear": 2015,
+        "isStudying": 0
+      }
+    ],
+    "skills": [
+      "PyTorch",
+      "การเทรนแบบกระจาย",
+      "การเพิ่มประสิทธิภาพ",
+      "RAG",
+      "วิศวกรรมพรอมต์",
+      "การประเมินผล",
+      "MLOps"
+    ],
+    "projectsList": [
+      {
+        "title": "LLM Optimization Framework",
+        "description": "พัฒนาเฟรมเวิร์กสำหรับเพิ่มประสิทธิภาพ LLMs แบบโอเพนซอร์ส",
+        "technologies": ["Python", "PyTorch", "ONNX"],
+        "link": "https://github.com/htanaka/llm-opt",
+        "startPeriod": "2022-01-01T00:00:00.000Z",
+        "endPeriod": null
+      }
+    ],
+    "certificates": ["AWS Machine Learning – Specialty"],
+    "awardsList": [
+      {
+        "name": "รางวัลนวัตกรรมดีเด่น",
+        "issuer": "AI Corp Japan",
+        "year": 2022,
+        "description": "สำหรับการพัฒนาเทคนิคการเพิ่มประสิทธิภาพ LLM"
+      }
+    ],
+    "publications": [],
+    "languagesSpoken": [
+      {
+        "language": "ภาษาญี่ปุ่น",
+        "proficiency": "ภาษาแม่"
+      },
+      {
+        "language": "ภาษาอังกฤษ",
+        "proficiency": "คล่องแคล่ว"
+      }
+    ]
+  },
+  {
+    "language": "th",
+    "firstname": "เอเลนา",
+    "lastname": "โปปอฟ",
+    "headline": "ผู้จัดการฝ่ายวิศวกรรม AI",
+    "phone": "+7 999 123-45-67",
+    "address": "เบอร์ลิน, เยอรมนี",
+    "email": "elena.popov@example.com",
+    "linkedin": "https://linkedin.com/in/elenapopov",
+    "github": "https://github.com/elenapopov",
+    "dateOfBirth": "1986-10-18",
+    "nationality": "เยอรมัน",
+    "profileSummary": "ผู้จัดการฝ่ายวิศวกรรม AI ที่นำทีมข้ามสายงานในการส่งมอบผลิตภัณฑ์ที่ขับเคลื่อนด้วย LLM โดยมุ่งเน้นที่การส่งมอบที่แข็งแกร่งและการให้คำปรึกษา",
+    "experiencesList": [
+      {
+        "positionName": "ผู้จัดการฝ่ายวิศวกรรม AI",
+        "companyName": "Lumina AI",
+        "location": "เบอร์ลิน, เยอรมนี",
+        "startPeriod": "2020-05-01T00:00:00.000Z",
+        "endPeriod": null,
+        "isWorking": 1,
+        "description": [
+          "บริหารทีมวิศวกร AI/ML และนักวิทยาศาสตร์ข้อมูล 12 คน",
+          "เปิดตัวฟีเจอร์ LLM 3 อย่างที่เพิ่ม ARR ขึ้น 9%"
+        ],
+        "technologies": ["Python", "PyTorch", "GCP", "Vertex AI"]
+      }
+    ],
+    "educationsList": [
+      {
+        "degree": "MBA",
+        "faculty": "ธุรกิจ",
+        "major": "การจัดการเทคโนโลยี",
+        "institution": "INSEAD",
+        "startYear": 2016,
+        "endYear": 2017,
+        "isStudying": 0
+      }
+    ],
+    "skills": [
+      "การจัดการคน",
+      "การวางแผนงาน",
+      "การส่งมอบ",
+      "ระบบ AI",
+      "การจ้างงาน",
+      "การจัดการผู้มีส่วนได้ส่วนเสีย"
+    ],
+    "projectsList": [
+      {
+        "title": "แผนงาน LLM 2024",
+        "description": "กลยุทธ์และแผนการเปิดตัวสำหรับฟีเจอร์เจเนอเรทีฟ",
+        "technologies": ["กลยุทธ์ผลิตภัณฑ์"],
+        "link": null,
+        "startPeriod": "2023-09-01T00:00:00.000Z",
+        "endPeriod": "2024-03-01T00:00:00.000Z"
+      }
+    ],
+    "certificates": ["Scrum Master (PSM I)"],
+    "awardsList": [],
+    "publications": [],
+    "languagesSpoken": [
+      {
+        "language": "ภาษาเยอรมัน",
+        "proficiency": "ภาษาแม่"
+      },
+      {
+        "language": "ภาษาอังกฤษ",
+        "proficiency": "คล่องแคล่ว"
+      },
+      {
+        "language": "ภาษารัสเซีย",
+        "proficiency": "สนทนาได้"
+      }
+    ]
+  },
+  {
+    "language": "th",
+    "firstname": "ปรียา",
+    "lastname": "แนร์",
+    "headline": "นักวิจัย AI",
+    "phone": "+91 98765 43210",
+    "address": "เบงกาลูรู, อินเดีย",
+    "email": "priya.nair@example.com",
+    "linkedin": "https://linkedin.com/in/priyanair",
+    "github": "https://github.com/priyanair",
+    "website": "https://priyalabs.ai",
+    "dateOfBirth": "1993-12-01",
+    "nationality": "อินเดีย",
+    "profileSummary": "นักวิจัย AI ที่มุ่งเน้นการเรียนรู้หลายรูปแบบและวิธีการปรับตัวที่มีประสิทธิภาพ ตีพิมพ์ผลงานที่ CVPR และ ICML",
+    "experiencesList": [
+      {
+        "positionName": "นักวิทยาศาสตร์วิจัย",
+        "companyName": "VisionAI",
+        "location": "เบงกาลูรู, อินเดีย",
+        "startPeriod": "2022-06-01T00:00:00.000Z",
+        "endPeriod": null,
+        "isWorking": 1,
+        "description": [
+          "เสนอการปรับแต่งที่มีประสิทธิภาพด้านพารามิเตอร์สำหรับโมเดลภาษาและภาพ",
+          "ปล่อยโค้ดโอเพนซอร์สและจุดตรวจสอบโมเดล"
+        ],
+        "technologies": ["PyTorch", "Transformers", "Lightning", "CUDA"]
+      }
+    ],
+    "educationsList": [
+      {
+        "degree": "ปริญญาเอก",
+        "faculty": "วิทยาการคอมพิวเตอร์",
+        "major": "การเรียนรู้ของเครื่อง",
+        "institution": "IISc Bangalore",
+        "startYear": 2017,
+        "endYear": 2022,
+        "isStudying": 0
+      }
+    ],
+    "skills": [
+      "หลายรูปแบบ",
+      "การเรียนรู้การนำเสนอ",
+      "การเพิ่มประสิทธิภาพ",
+      "การเขียนบทความ",
+      "การทดลอง"
+    ],
+    "projectsList": [
+      {
+        "title": "VL-Adapter",
+        "description": "อะแดปเตอร์น้ำหนักเบาสำหรับ VLM ที่มีการถ่ายโอนแบบ zero-shot ที่แข็งแกร่ง",
+        "technologies": ["PyTorch", "Transformers"],
+        "link": "https://github.com/priyanair/vl-adapter",
+        "startPeriod": "2023-01-01T00:00:00.000Z",
+        "endPeriod": "2023-09-01T00:00:00.000Z"
+      }
+    ],
+    "certificates": [],
+    "awardsList": [
+      {
+        "name": "บทความดีเด่น (ชมเชย)",
+        "issuer": "CVPR Workshop",
+        "year": 2024,
+        "description": "VL-Adapter"
+      }
+    ],
+    "publications": [
+      "Nair, P. et al. 'VL-Adapter: Parameter-Efficient Tuning for VLMs', ICML 2024."
+    ],
+    "languagesSpoken": [
+      {
+        "language": "ภาษาอังกฤษ",
+        "proficiency": "คล่องแคล่ว"
+      },
+      {
+        "language": "ภาษามาลายาลัม",
+        "proficiency": "ภาษาแม่"
+      }
+    ]
+  },
+  {
+    "language": "th",
+    "firstname": "ซาร่า",
+    "lastname": "อาเหม็ด",
+    "headline": "นักพัฒนาฟรอนต์เอนด์ (ฝึกงาน)",
+    "phone": "+971 50 123 4567",
+    "address": "ดูไบ, สหรัฐอาหรับเอมิเรตส์",
+    "email": "sara.ahmed@example.com",
+    "linkedin": "https://linkedin.com/in/saraahmed",
+    "github": "https://github.com/sarahdev",
+    "dateOfBirth": "2002-05-10",
+    "nationality": "อียิปต์",
+    "profileSummary": "นักศึกษาฝึกงานฟรอนต์เอนด์ที่หลงใหลในการเข้าถึงและประสิทธิภาพ มีพื้นฐานที่แข็งแกร่งใน React",
+    "experiencesList": [
+      {
+        "positionName": "นักศึกษาฝึกงานวิศวกรฟรอนต์เอนด์",
+        "companyName": "PixelForge",
+        "location": "ดูไบ, สหรัฐอาหรับเอมิเรตส์",
+        "startPeriod": "2025-06-01T00:00:00.000Z",
+        "endPeriod": null,
+        "isWorking": 1,
+        "description": [
+          "นำคอมโพเนนต์ UI จาก Figma ไปใช้ในแอป React",
+          "เขียน unit test เพิ่มความครอบคลุมจาก 62% เป็น 78%"
+        ],
+        "technologies": ["React", "TypeScript", "Vite", "Jest"]
+      }
+    ],
+    "educationsList": [
+      {
+        "degree": "ปริญญาตรี",
+        "faculty": "วิทยาการคอมพิวเตอร์",
+        "major": "วิศวกรรมซอฟต์แวร์",
+        "institution": "American University in Cairo",
+        "startYear": 2020,
+        "endYear": 2024,
+        "CGPA": "3.5",
+        "isStudying": 0
+      }
+    ],
+    "skills": [
+      "React",
+      "TypeScript",
+      "HTML5",
+      "CSS3",
+      "การเข้าถึง",
+      "Testing Library",
+      "Figma"
+    ],
+    "projectsList": [
+      {
+        "title": "PerfTracker",
+        "description": "ตัวติดตามประสิทธิภาพที่ใช้ Lighthouse สำหรับ SPAs",
+        "technologies": ["JavaScript", "Node.js"],
+        "link": "https://github.com/sarahdev/perftracker",
+        "startPeriod": "2024-11-01T00:00:00.000Z",
+        "endPeriod": "2025-02-01T00:00:00.000Z"
+      }
+    ],
+    "certificates": ["Meta Front-End Developer (Coursera)"],
+    "awardsList": [],
+    "publications": [],
+    "languagesSpoken": [
+      {
+        "language": "ภาษาอาหรับ",
+        "proficiency": "ภาษาแม่"
+      },
+      {
+        "language": "ภาษาอังกฤษ",
+        "proficiency": "คล่องแคล่ว"
+      }
+    ]
+  },
+  {
+    "language": "th",
+    "firstname": "จูเลีย",
+    "lastname": "โนวัค",
+    "headline": "นักพัฒนาฟรอนต์เอนด์ (จูเนียร์)",
+    "phone": "+48 600 111 222",
+    "address": "คราคูฟ, โปแลนด์",
+    "email": "julia.nowak@example.com",
+    "linkedin": "https://linkedin.com/in/julianowak",
+    "github": "https://github.com/junowak",
+    "dateOfBirth": "1998-03-21",
+    "nationality": "โปแลนด์",
+    "profileSummary": "นักพัฒนาฟรอนต์เอนด์จูเนียร์ที่มุ่งเน้นระบบดีไซน์และการเข้าถึงด้วย React และ Next.js",
+    "experiencesList": [
+      {
+        "positionName": "นักพัฒนาฟรอนต์เอนด์จูเนียร์",
+        "companyName": "NordApps",
+        "location": "คราคูฟ, โปแลนด์",
+        "startPeriod": "2023-07-01T00:00:00.000Z",
+        "endPeriod": null,
+        "isWorking": 1,
+        "description": [
+          "มีส่วนร่วมในคอมโพเนนต์ของระบบดีไซน์ภายใน",
+          "ลด CLS ลง 35% ผ่านการปรับแต่งภาพและการโหลดล่วงหน้า"
+        ],
+        "technologies": ["React", "Next.js", "Tailwind", "Storybook"]
+      }
+    ],
+    "educationsList": [
+      {
+        "degree": "ปริญญาตรี",
+        "faculty": "วิศวกรรมศาสตร์",
+        "major": "เทคโนโลยีสารสนเทศ",
+        "institution": "AGH University of Science and Technology",
+        "startYear": 2017,
+        "endYear": 2021,
+        "CGPA": "3.4",
+        "isStudying": 0
+      }
+    ],
+    "skills": [
+      "React",
+      "Next.js",
+      "TypeScript",
+      "Tailwind",
+      "Storybook",
+      "Jest",
+      "การเข้าถึง"
+    ],
+    "projectsList": [
+      {
+        "title": "A11yKit",
+        "description": "ชุดเครื่องมือพร้อม hooks และ utilities สำหรับคอมโพเนนต์ที่เข้าถึงได้",
+        "technologies": ["TypeScript", "React"],
+        "link": "https://github.com/junowak/a11ykit",
+        "startPeriod": "2023-03-01T00:00:00.000Z",
+        "endPeriod": "2023-05-01T00:00:00.000Z"
+      }
+    ],
+    "certificates": [],
+    "awardsList": [],
+    "publications": [],
+    "languagesSpoken": [
+      {
+        "language": "ภาษาโปแลนด์",
+        "proficiency": "ภาษาแม่"
+      },
+      {
+        "language": "ภาษาอังกฤษ",
+        "proficiency": "คล่องแคล่ว"
+      }
+    ]
+  },
+  {
+    "language": "th",
+    "firstname": "ดิเอโก",
+    "lastname": "เฟอร์เรร่า",
+    "headline": "นักพัฒนาแบ็คเอนด์ (จูเนียร์)",
+    "phone": "+55 21 99999-0001",
+    "address": "รีโอเดจาเนโร, บราซิล",
+    "email": "diego.ferreira@example.com",
+    "linkedin": "https://linkedin.com/in/diegoferreira",
+    "github": "https://github.com/diegof",
+    "dateOfBirth": "1997-09-14",
+    "nationality": "บราซิล",
+    "profileSummary": "นักพัฒนาแบ็คเอนด์จูเนียร์ที่มีประสบการณ์ในการสร้าง REST APIs และโมเดลข้อมูลเชิงสัมพันธ์",
+    "experiencesList": [
+      {
+        "positionName": "นักพัฒนาแบ็คเอนด์จูเนียร์",
+        "companyName": "OceanBytes",
+        "location": "รีโอเดจาเนโร, บราซิล",
+        "startPeriod": "2024-04-01T00:00:00.000Z",
+        "endPeriod": null,
+        "isWorking": 1,
+        "description": [
+          "สร้างบริการ CRUD และงานเบื้องหลังด้วย BullMQ",
+          "ปรับปรุงประสิทธิภาพการสืบค้นด้วยการทำดัชนีที่เหมาะสม"
+        ],
+        "technologies": ["Node.js", "Express", "PostgreSQL", "Redis", "Docker"]
+      }
+    ],
+    "educationsList": [
+      {
+        "degree": "ปริญญาตรี",
+        "faculty": "วิทยาการคอมพิวเตอร์",
+        "major": "ระบบสารสนเทศ",
+        "institution": "UFRJ",
+        "startYear": 2016,
+        "endYear": 2020,
+        "CGPA": "3.3",
+        "isStudying": 0
+      }
+    ],
+    "skills": [
+      "Node.js",
+      "Express",
+      "SQL",
+      "PostgreSQL",
+      "Redis",
+      "Docker",
+      "การทดสอบ"
+    ],
+    "projectsList": [
+      {
+        "title": "RideShare API",
+        "description": "REST API พร้อมการรับรองความถูกต้องและการจำกัดอัตรา",
+        "technologies": ["Node.js", "Express", "PostgreSQL"],
+        "link": "https://github.com/diegof/rideshare-api",
+        "startPeriod": "2023-07-01T00:00:00.000Z",
+        "endPeriod": "2023-12-01T00:00:00.000Z"
+      }
+    ],
+    "certificates": [],
+    "awardsList": [],
+    "publications": [],
+    "languagesSpoken": [
+      {
+        "language": "ภาษาโปรตุเกส",
+        "proficiency": "ภาษาแม่"
+      },
+      {
+        "language": "ภาษาอังกฤษ",
+        "proficiency": "คล่องแคล่ว"
+      }
+    ]
+  },
+  {
+    "language": "th",
+    "firstname": "อาเหม็ด",
+    "lastname": "ราชิด",
+    "headline": "นักพัฒนาแบ็คเอนด์ (อาวุโส)",
+    "phone": "+20 100 555 7890",
+    "address": "ไคโร, อียิปต์",
+    "email": "ahmed.rashid@example.com",
+    "linkedin": "https://linkedin.com/in/ahmedrashid",
+    "github": "https://github.com/ahmedrash",
+    "dateOfBirth": "1990-06-30",
+    "nationality": "อียิปต์",
+    "profileSummary": "นักพัฒนาแบ็คเอนด์อาวุโสที่ออกแบบระบบแบบกระจายและสถาปัตยกรรมที่ขับเคลื่อนด้วยเหตุการณ์",
+    "experiencesList": [
+      {
+        "positionName": "วิศวกรแบ็คเอนด์อาวุโส",
+        "companyName": "StreamFlow",
+        "location": "ไคโร, อียิปต์",
+        "startPeriod": "2020-02-01T00:00:00.000Z",
+        "endPeriod": null,
+        "isWorking": 1,
+        "description": [
+          "ออกแบบบริการ CQRS/ES ที่ประมวลผล 50k เหตุการณ์/นาที",
+          "นำเสนอการปรับใช้แบบ blue/green ลดเวลาหยุดทำงานให้ใกล้ศูนย์"
+        ],
+        "technologies": [
+          "Go",
+          "gRPC",
+          "Kafka",
+          "PostgreSQL",
+          "Kubernetes",
+          "AWS"
+        ]
+      }
+    ],
+    "educationsList": [
+      {
+        "degree": "ปริญญาตรี",
+        "faculty": "วิศวกรรมศาสตร์",
+        "major": "วิศวกรรมคอมพิวเตอร์",
+        "institution": "มหาวิทยาลัยไคโร",
+        "startYear": 2008,
+        "endYear": 2012,
+        "CGPA": "3.6",
+        "isStudying": 0
+      }
+    ],
+    "skills": [
+      "Go",
+      "gRPC",
+      "Kafka",
+      "PostgreSQL",
+      "Kubernetes",
+      "AWS",
+      "CI/CD"
+    ],
+    "projectsList": [
+      {
+        "title": "EventHub",
+        "description": "แพลตฟอร์มสตรีมมิ่งเหตุการณ์พร้อมผู้บริโภคที่ไม่เปลี่ยนรูป",
+        "technologies": ["Go", "Kafka"],
+        "link": "https://github.com/ahmedrash/eventhub",
+        "startPeriod": "2021-01-01T00:00:00.000Z",
+        "endPeriod": "2021-06-01T00:00:00.000Z"
+      }
+    ],
+    "certificates": ["CKAD"],
+    "awardsList": [],
+    "publications": [],
+    "languagesSpoken": [
+      {
+        "language": "ภาษาอาหรับ",
+        "proficiency": "ภาษาแม่"
+      },
+      {
+        "language": "ภาษาอังกฤษ",
+        "proficiency": "คล่องแคล่ว"
+      }
+    ]
+  },
+  {
+    "language": "th",
+    "firstname": "ลูก้า",
+    "lastname": "เบียนคี",
+    "headline": "ซูเชฟ",
+    "phone": "+39 320 123 4567",
+    "address": "มิลาน, อิตาลี",
+    "email": "luca.bianchi@example.com",
+    "linkedin": "https://linkedin.com/in/lucabianchi",
+    "website": "https://lucacooks.it",
+    "dateOfBirth": "1991-11-02",
+    "nationality": "อิตาลี",
+    "profileSummary": "ซูเชฟที่มีประสบการณ์ในร้านอาหารอิตาเลียนชั้นสูงและการจัดจานที่ทันสมัย โดยมุ่งเน้นที่ความสม่ำเสมอและความปลอดภัยของอาหาร",
+    "experiencesList": [
+      {
+        "positionName": "ซูเชฟ",
+        "companyName": "Trattoria Milano",
+        "location": "มิลาน, อิตาลี",
+        "startPeriod": "2021-02-01T00:00:00.000Z",
+        "endPeriod": null,
+        "isWorking": 1,
+        "description": [
+          "ดูแลสายร้อนและเมนูพิเศษประจำวันสำหรับ 200 ที่นั่ง/คืน",
+          "ฝึกอบรมพ่อครัวรุ่นเยาว์ 6 คนเกี่ยวกับพาสต้าและซอส"
+        ],
+        "technologies": [
+          "อาหารอิตาเลียน",
+          "ความปลอดภัยของอาหาร",
+          "วิศวกรรมเมนู"
+        ]
+      }
+    ],
+    "educationsList": [
+      {
+        "degree": "ประกาศนียบัตร",
+        "faculty": "ศิลปะการประกอบอาหาร",
+        "major": "การทำอาหารมืออาชีพ",
+        "institution": "ALMA La Scuola Internazionale di Cucina Italiana",
+        "startYear": 2010,
+        "endYear": 2012,
+        "isStudying": 0
+      }
+    ],
+    "skills": [
+      "อาหารอิตาเลียน",
+      "ซอส",
+      "ทักษะการใช้มีด",
+      "การจัดจาน",
+      "ความปลอดภัยของอาหาร",
+      "สินค้าคงคลัง"
+    ],
+    "projectsList": [
+      {
+        "title": "เมนูพิเศษ Zero Waste",
+        "description": "เมนูพิเศษประจำสัปดาห์ที่ใช้เศษและส่วนเกินเพื่อลดขยะ 25%",
+        "technologies": ["ความยั่งยืน"],
+        "link": null,
+        "startPeriod": "2023-04-01T00:00:00.000Z",
+        "endPeriod": "2023-10-01T00:00:00.000Z"
+      }
+    ],
+    "certificates": ["HACCP Certification"],
+    "awardsList": [],
+    "publications": [],
+    "languagesSpoken": [
+      {
+        "language": "ภาษาอิตาลี",
+        "proficiency": "ภาษาแม่"
+      },
+      {
+        "language": "ภาษาอังกฤษ",
+        "proficiency": "คล่องแคล่ว"
+      }
+    ]
+  },
+  {
+    "language": "th",
+    "firstname": "โธมัส",
+    "lastname": "เหงียน",
+    "headline": "นักวิเคราะห์การธนาคารเพื่อการลงทุน",
+    "phone": "+1 212-555-0191",
+    "address": "นิวยอร์ก, สหรัฐอเมริกา",
+    "email": "thomas.nguyen@example.com",
+    "linkedin": "https://linkedin.com/in/thomasnguyen",
+    "dateOfBirth": "1998-01-30",
+    "nationality": "อเมริกัน",
+    "profileSummary": "นักวิเคราะห์การธนาคารเพื่อการลงทุนที่มีประสบการณ์ใน M&A, DCF/Comps และการสร้าง pitchbook ในดีล TMT",
+    "experiencesList": [
+      {
+        "positionName": "นักวิเคราะห์การธนาคารเพื่อการลงทุน",
+        "companyName": "Atlas Capital",
+        "location": "นิวยอร์ก, สหรัฐอเมริกา",
+        "startPeriod": "2023-07-01T00:00:00.000Z",
+        "endPeriod": null,
+        "isWorking": 1,
+        "description": [
+          "สร้างโมเดล DCF และ LBO สำหรับธุรกรรม TMT ขนาดกลาง",
+          "เตรียม CIMs และประสานงานกระบวนการตรวจสอบสถานะ"
+        ],
+        "technologies": ["Excel", "PowerPoint", "FactSet", "Capital IQ"]
+      }
+    ],
+    "educationsList": [
+      {
+        "degree": "ปริญญาตรี",
+        "faculty": "ธุรกิจ",
+        "major": "การเงิน",
+        "institution": "NYU Stern",
+        "startYear": 2016,
+        "endYear": 2020,
+        "isStudying": 0
+      }
+    ],
+    "skills": [
+      "การสร้างแบบจำลองทางการเงิน",
+      "การประเมินมูลค่า",
+      "M&A",
+      "Pitchbooks",
+      "การวิจัยตลาด"
+    ],
+    "projectsList": [
+      {
+        "title": "Sell-Side Mandate (TMT)",
+        "description": "สนับสนุนกระบวนการตั้งแต่รายชื่อผู้ซื้อไปจนถึง Q&A และการตรวจสอบ SPA",
+        "technologies": ["Excel", "PowerPoint"],
+        "link": null,
+        "startPeriod": "2024-02-01T00:00:00.000Z",
+        "endPeriod": "2024-06-01T00:00:00.000Z"
+      }
+    ],
+    "certificates": ["FINRA SIE"],
+    "awardsList": [],
+    "publications": [],
+    "languagesSpoken": [
+      {
+        "language": "ภาษาอังกฤษ",
+        "proficiency": "ภาษาแม่"
+      },
+      {
+        "language": "ภาษาเวียดนาม",
+        "proficiency": "สนทนาได้"
+      }
+    ]
+  },
+  {
+    "language": "th",
+    "firstname": "โอลิเวีย",
+    "lastname": "ชมิดท์",
+    "headline": "ผู้จัดการพอร์ตโฟลิโอ",
+    "phone": "+49 171 2345678",
+    "address": "แฟรงก์เฟิร์ต, เยอรมนี",
+    "email": "olivia.schmidt@example.com",
+    "linkedin": "https://linkedin.com/in/oliviaschmidt",
+    "dateOfBirth": "1989-04-12",
+    "nationality": "เยอรมัน",
+    "profileSummary": "ผู้จัดการพอร์ตโฟลิโอที่มุ่งเน้นหุ้นทั่วโลกด้วยกลยุทธ์ที่คำนึงถึงความเสี่ยงและปัจจัย และมีผลงานที่แข็งแกร่งเมื่อเทียบกับเกณฑ์มาตรฐาน",
+    "experiencesList": [
+      {
+        "positionName": "ผู้จัดการพอร์ตโฟลิโอ",
+        "companyName": "Rhine Asset Management",
+        "location": "แฟรงก์เฟิร์ต, เยอรมนี",
+        "startPeriod": "2019-03-01T00:00:00.000Z",
+        "endPeriod": null,
+        "isWorking": 1,
+        "description": [
+          "จัดการพอร์ตโฟลิโอหุ้น long-only มูลค่า 450 ล้านยูโร; อัลฟ่า 280 bps (3 ปี)",
+          "ใช้การเอียงปัจจัยและการควบคุมการขาดทุน"
+        ],
+        "technologies": ["Excel", "Python", "Bloomberg", "Risk Models"]
+      }
+    ],
+    "educationsList": [
+      {
+        "degree": "ปริญญาโท",
+        "faculty": "การเงิน",
+        "major": "การจัดการการลงทุน",
+        "institution": "Goethe University Frankfurt",
+        "startYear": 2012,
+        "endYear": 2014,
+        "isStudying": 0
+      }
+    ],
+    "skills": [
+      "การสร้างพอร์ตโฟลิโอ",
+      "การจัดการความเสี่ยง",
+      "การวิจัยหุ้น",
+      "Python"
+    ],
+    "projectsList": [
+      {
+        "title": "Alpha Insights",
+        "description": "ไปป์ไลน์การวิจัยที่รวมข้อมูลพื้นฐานและข้อมูลทางเลือก",
+        "technologies": ["Python", "Pandas"],
+        "link": null,
+        "startPeriod": "2021-01-01T00:00:00.000Z",
+        "endPeriod": null
+      }
+    ],
+    "certificates": ["CFA Charterholder"],
+    "awardsList": [
+      {
+        "name": "กองทุนยอดเยี่ยม (ภูมิภาค)",
+        "issuer": "สมาคมอุตสาหกรรม",
+        "year": 2023,
+        "description": "หมวดหมู่: หุ้นยุโรป"
+      }
+    ],
+    "publications": [],
+    "languagesSpoken": [
+      {
+        "language": "ภาษาเยอรมัน",
+        "proficiency": "ภาษาแม่"
+      },
+      {
+        "language": "ภาษาอังกฤษ",
+        "proficiency": "คล่องแคล่ว"
+      }
+    ]
+  },
+  {
+    "language": "th",
+    "firstname": "โคลอี้",
+    "lastname": "ดูบัวส์",
+    "headline": "นักบัญชีอาวุโส",
+    "phone": "+33 6 12 34 56 78",
+    "address": "ปารีส, ฝรั่งเศส",
+    "email": "chloe.dubois@example.com",
+    "linkedin": "https://linkedin.com/in/chloedubois",
+    "dateOfBirth": "1991-07-25",
+    "nationality": "ฝรั่งเศส",
+    "profileSummary": "นักบัญชีอาวุโสที่มีความเชี่ยวชาญใน IFRS/GAAP, การรวมบัญชี และการสนับสนุนการตรวจสอบบัญชี",
+    "experiencesList": [
+      {
+        "positionName": "นักบัญชีอาวุโส",
+        "companyName": "BelleFinance",
+        "location": "ปารีส, ฝรั่งเศส",
+        "startPeriod": "2020-09-01T00:00:00.000Z",
+        "endPeriod": null,
+        "isWorking": 1,
+        "description": [
+          "จัดทำบัญชีปิดประจำเดือนและการกระทบยอดสำหรับโครงสร้างหลายนิติบุคคล",
+          "นำการเปลี่ยนแปลงไปสู่การบัญชีสัญญาเช่า IFRS 16"
+        ],
+        "technologies": ["SAP", "Excel", "PowerBI"]
+      }
+    ],
+    "educationsList": [
+      {
+        "degree": "ปริญญาโท",
+        "faculty": "การบัญชี",
+        "major": "การบัญชีการเงิน",
+        "institution": "HEC Paris",
+        "startYear": 2013,
+        "endYear": 2015,
+        "isStudying": 0
+      }
+    ],
+    "skills": [
+      "IFRS",
+      "GAAP",
+      "การรวมบัญชี",
+      "การกระทบยอด",
+      "ภาษี",
+      "การสนับสนุนการตรวจสอบบัญชี"
+    ],
+    "projectsList": [
+      {
+        "title": "การเร่งปิดบัญชี",
+        "description": "ลดเวลาปิดสิ้นเดือนจาก 8 เป็น 4 วันทำการ",
+        "technologies": ["การปรับปรุงกระบวนการ"],
+        "link": null,
+        "startPeriod": "2022-01-01T00:00:00.000Z",
+        "endPeriod": "2022-06-01T00:00:00.000Z"
+      }
+    ],
+    "certificates": ["CPA (เทียบเท่าฝรั่งเศส: DEC)"],
+    "awardsList": [],
+    "publications": [],
+    "languagesSpoken": [
+      {
+        "language": "ภาษาฝรั่งเศส",
+        "proficiency": "ภาษาแม่"
+      },
+      {
+        "language": "ภาษาอังกฤษ",
+        "proficiency": "คล่องแคล่ว"
+      }
+    ]
+  }
+]

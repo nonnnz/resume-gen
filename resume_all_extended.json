@@ -1,0 +1,1314 @@
+[
+  {
+    "language": "en",
+    "firstname": "Ananya",
+    "lastname": "Singh",
+    "headline": "AI Engineer",
+    "phone": "+1 202-555-0199",
+    "address": "San Francisco, USA",
+    "email": "ananya.singh@example.com",
+    "linkedin": "https://linkedin.com/in/ananyasingh",
+    "github": "https://github.com/ananyasingh",
+    "website": "https://ananya-ai.dev",
+    "dateOfBirth": "1996-03-20",
+    "nationality": "Indian",
+    "profileSummary": "AI Engineer with 5+ years of experience in NLP, LLM fine-tuning, and applied machine learning. Published author in AI conferences and contributor to open-source ML frameworks.",
+    "experiencesList": [
+      {
+        "positionName": "AI Research Engineer",
+        "companyName": "DeepTech Labs",
+        "location": "San Francisco, USA",
+        "startPeriod": "2022-01-01T00:00:00.000Z",
+        "endPeriod": null,
+        "isWorking": 1,
+        "description": [
+          "Developed large-scale transformer models optimized for deployment.",
+          "Published 3 research papers in ACL and NeurIPS.",
+          "Mentored junior ML engineers on distributed training."
+        ],
+        "technologies": ["PyTorch", "TensorFlow", "Transformers", "CUDA"]
+      }
+    ],
+    "educationsList": [
+      {
+        "degree": "master",
+        "faculty": "Computer Science",
+        "major": "Artificial Intelligence",
+        "institution": "Stanford University",
+        "startYear": 2018,
+        "endYear": 2020,
+        "CGPA": "3.9",
+        "isStudying": 0,
+        "honors": ["Best Thesis Award"]
+      }
+    ],
+    "skills": [
+      "Python",
+      "PyTorch",
+      "TensorFlow",
+      "NLP",
+      "LLMs",
+      "Deep Learning",
+      "MLOps",
+      "CUDA",
+      "Distributed Training",
+      "Data Engineering"
+    ],
+    "projectsList": [
+      {
+        "title": "ChatSummarizer",
+        "description": "AI tool for summarizing Slack/Teams meetings using LLMs.",
+        "technologies": ["Python", "Transformers", "FastAPI"],
+        "link": "https://github.com/ananyasingh/chatsummarizer",
+        "startPeriod": "2021-05-01T00:00:00.000Z",
+        "endPeriod": "2021-10-01T00:00:00.000Z"
+      }
+    ],
+    "certificates": ["AWS Certified Machine Learning \u2013 Specialty"],
+    "awardsList": [
+      {
+        "name": "NeurIPS Best Poster",
+        "issuer": "NeurIPS",
+        "year": 2023,
+        "description": "For paper on efficient fine-tuning of LLMs."
+      }
+    ],
+    "publications": [
+      "Singh, A. 'Optimizing Large Language Models for Efficiency', NeurIPS 2023."
+    ],
+    "languagesSpoken": [
+      {
+        "language": "English",
+        "proficiency": "Fluent"
+      },
+      {
+        "language": "Hindi",
+        "proficiency": "Native"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "firstname": "Lucas",
+    "lastname": "Martinez",
+    "headline": "Frontend Developer",
+    "phone": "+34 612 555 999",
+    "address": "Madrid, Spain",
+    "email": "lucas.martinez@example.com",
+    "linkedin": "https://linkedin.com/in/lucasmartinez",
+    "github": "https://github.com/lucasm",
+    "website": "https://lucasm.dev",
+    "dateOfBirth": "1995-11-10",
+    "nationality": "Spanish",
+    "profileSummary": "Frontend engineer with expertise in building scalable, accessible web apps. Strong focus on UI/UX design and performance optimization.",
+    "experiencesList": [
+      {
+        "positionName": "Frontend Developer",
+        "companyName": "TechVision",
+        "location": "Madrid, Spain",
+        "startPeriod": "2021-04-01T00:00:00.000Z",
+        "endPeriod": null,
+        "isWorking": 1,
+        "description": [
+          "Built reusable React component library used across 4 products.",
+          "Improved page load times by 45% with performance audits."
+        ],
+        "technologies": ["React", "Next.js", "Tailwind", "Vite"]
+      }
+    ],
+    "educationsList": [
+      {
+        "degree": "bachelor",
+        "faculty": "Engineering",
+        "major": "Software Engineering",
+        "institution": "Universidad Polit\u00e9cnica de Madrid",
+        "startYear": 2013,
+        "endYear": 2017,
+        "CGPA": "3.6",
+        "isStudying": 0
+      }
+    ],
+    "skills": [
+      "React",
+      "Next.js",
+      "JavaScript",
+      "TypeScript",
+      "UI/UX",
+      "Accessibility",
+      "Tailwind",
+      "Vite",
+      "Webpack",
+      "Figma"
+    ],
+    "projectsList": [
+      {
+        "title": "Design System UI",
+        "description": "Built design system for enterprise apps.",
+        "technologies": ["React", "Storybook"],
+        "link": "https://github.com/lucasm/design-system",
+        "startPeriod": "2022-01-01T00:00:00.000Z",
+        "endPeriod": null
+      }
+    ],
+    "certificates": ["Google Mobile Web Specialist"],
+    "awardsList": [],
+    "publications": [],
+    "languagesSpoken": [
+      {
+        "language": "Spanish",
+        "proficiency": "Native"
+      },
+      {
+        "language": "English",
+        "proficiency": "Fluent"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "firstname": "Noah",
+    "lastname": "Johnson",
+    "headline": "Backend Developer",
+    "phone": "+44 7700 900 123",
+    "address": "London, UK",
+    "email": "noah.johnson@example.com",
+    "linkedin": "https://linkedin.com/in/noahjohnson",
+    "github": "https://github.com/noahj",
+    "dateOfBirth": "1992-02-15",
+    "nationality": "British",
+    "profileSummary": "Backend engineer experienced in designing scalable microservices and APIs. Skilled in system architecture and DevOps practices.",
+    "experiencesList": [
+      {
+        "positionName": "Senior Backend Developer",
+        "companyName": "CloudScale",
+        "location": "London, UK",
+        "startPeriod": "2019-06-01T00:00:00.000Z",
+        "endPeriod": null,
+        "isWorking": 1,
+        "description": [
+          "Designed microservice architecture for high-traffic SaaS product.",
+          "Implemented CI/CD pipelines reducing release time from 2 weeks to 2 days."
+        ],
+        "technologies": [
+          "Node.js",
+          "Express",
+          "PostgreSQL",
+          "Redis",
+          "AWS",
+          "Docker",
+          "Kubernetes"
+        ]
+      }
+    ],
+    "educationsList": [
+      {
+        "degree": "bachelor",
+        "faculty": "Computer Science",
+        "major": "Information Systems",
+        "institution": "University College London",
+        "startYear": 2010,
+        "endYear": 2014,
+        "CGPA": "3.7",
+        "isStudying": 0
+      }
+    ],
+    "skills": [
+      "Node.js",
+      "Express",
+      "PostgreSQL",
+      "Redis",
+      "AWS",
+      "Docker",
+      "Kubernetes",
+      "GraphQL",
+      "CI/CD",
+      "Microservices"
+    ],
+    "projectsList": [
+      {
+        "title": "Payment Gateway",
+        "description": "Built secure payment API integrated with Stripe and PayPal.",
+        "technologies": ["Node.js", "Express", "PostgreSQL"],
+        "link": "https://github.com/noahj/payment-gateway",
+        "startPeriod": "2020-03-01T00:00:00.000Z",
+        "endPeriod": "2020-11-01T00:00:00.000Z"
+      }
+    ],
+    "certificates": ["Certified Kubernetes Administrator (CKA)"],
+    "awardsList": [],
+    "publications": [],
+    "languagesSpoken": [
+      {
+        "language": "English",
+        "proficiency": "Native"
+      },
+      {
+        "language": "German",
+        "proficiency": "Basic"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "firstname": "Somchai",
+    "lastname": "Kittisak",
+    "headline": "Head Chef",
+    "phone": "+66 812-345-678",
+    "address": "Bangkok, Thailand",
+    "email": "somchai.kittisak@example.com",
+    "linkedin": "https://linkedin.com/in/somchaikittisak",
+    "website": "https://somchaicuisine.com",
+    "dateOfBirth": "1987-07-05",
+    "nationality": "Thai",
+    "profileSummary": "Professional chef with 12+ years of experience in fine dining. Specialized in Thai and fusion cuisine, passionate about sustainability and farm-to-table practices.",
+    "experiencesList": [
+      {
+        "positionName": "Head Chef",
+        "companyName": "Bangkok Gourmet",
+        "location": "Bangkok, TH",
+        "startPeriod": "2018-03-01T00:00:00.000Z",
+        "endPeriod": null,
+        "isWorking": 1,
+        "description": [
+          "Led a team of 15 chefs in a Michelin-starred restaurant.",
+          "Designed seasonal menus focusing on Thai fusion cuisine."
+        ],
+        "technologies": ["Sous-vide", "Fermentation", "Thai Cuisine"]
+      }
+    ],
+    "educationsList": [
+      {
+        "degree": "diploma",
+        "faculty": "Culinary Arts",
+        "major": "Gastronomy",
+        "institution": "Le Cordon Bleu Bangkok",
+        "startYear": 2007,
+        "endYear": 2009,
+        "isStudying": 0
+      }
+    ],
+    "skills": [
+      "Menu Design",
+      "Thai Cuisine",
+      "Fusion Cooking",
+      "Team Leadership",
+      "Food Safety",
+      "Cost Control",
+      "Culinary Innovation",
+      "Pastry Basics",
+      "Wine Pairing",
+      "Farm-to-Table"
+    ],
+    "projectsList": [
+      {
+        "title": "Sustainable Kitchen",
+        "description": "Initiative to reduce food waste by 40% via creative menu design.",
+        "technologies": ["Sustainability", "Menu Engineering"],
+        "link": null,
+        "startPeriod": "2020-01-01T00:00:00.000Z",
+        "endPeriod": "2021-01-01T00:00:00.000Z"
+      }
+    ],
+    "certificates": ["ServSafe Manager Certification"],
+    "awardsList": [
+      {
+        "name": "Michelin Star (1)",
+        "issuer": "Michelin Guide",
+        "year": 2021,
+        "description": "Awarded for Bangkok Gourmet."
+      }
+    ],
+    "publications": [],
+    "languagesSpoken": [
+      {
+        "language": "Thai",
+        "proficiency": "Native"
+      },
+      {
+        "language": "English",
+        "proficiency": "Fluent"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "firstname": "Emily",
+    "lastname": "Wong",
+    "headline": "Financial Analyst",
+    "phone": "+1 415-555-0123",
+    "address": "New York, USA",
+    "email": "emily.wong@example.com",
+    "linkedin": "https://linkedin.com/in/emilywong",
+    "dateOfBirth": "1990-05-22",
+    "nationality": "American",
+    "profileSummary": "Finance professional with expertise in corporate finance, risk assessment, and investment strategies. Strong record in supporting M&A deals and portfolio management.",
+    "experiencesList": [
+      {
+        "positionName": "Senior Financial Analyst",
+        "companyName": "Goldman & Co",
+        "location": "New York, USA",
+        "startPeriod": "2017-09-01T00:00:00.000Z",
+        "endPeriod": null,
+        "isWorking": 1,
+        "description": [
+          "Conducted financial modeling and valuation for M&A deals worth $1B+.",
+          "Prepared quarterly financial reports for executive board."
+        ],
+        "technologies": ["Excel", "PowerBI", "SQL", "Financial Modeling"]
+      }
+    ],
+    "educationsList": [
+      {
+        "degree": "MBA",
+        "faculty": "Business",
+        "major": "Finance",
+        "institution": "Harvard Business School",
+        "startYear": 2013,
+        "endYear": 2015,
+        "isStudying": 0
+      }
+    ],
+    "skills": [
+      "Financial Modeling",
+      "Excel",
+      "SQL",
+      "Risk Analysis",
+      "Investment Strategies",
+      "Portfolio Management",
+      "Valuation",
+      "Data Visualization",
+      "Corporate Finance",
+      "Accounting"
+    ],
+    "projectsList": [
+      {
+        "title": "IPO Readiness",
+        "description": "Led financial due diligence for a unicorn startup's IPO.",
+        "technologies": ["Valuation", "Financial Reporting"],
+        "link": null,
+        "startPeriod": "2020-05-01T00:00:00.000Z",
+        "endPeriod": "2021-01-01T00:00:00.000Z"
+      }
+    ],
+    "certificates": ["CFA Level II"],
+    "awardsList": [
+      {
+        "name": "Top Analyst Award",
+        "issuer": "Goldman & Co",
+        "year": 2022,
+        "description": "Recognized for excellence in M&A analysis."
+      }
+    ],
+    "publications": [],
+    "languagesSpoken": [
+      {
+        "language": "English",
+        "proficiency": "Native"
+      },
+      {
+        "language": "Mandarin",
+        "proficiency": "Fluent"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "firstname": "Maya",
+    "lastname": "Patel",
+    "headline": "AI Engineer (Junior)",
+    "phone": "+1 202-555-0144",
+    "address": "Austin, USA",
+    "email": "maya.patel@example.com",
+    "linkedin": "https://linkedin.com/in/mayapatel",
+    "github": "https://github.com/mayapatel",
+    "dateOfBirth": "1999-08-12",
+    "nationality": "American",
+    "profileSummary": "Junior AI Engineer focused on NLP and retrieval with hands-on experience fine-tuning small LLMs and building inference APIs.",
+    "experiencesList": [
+      {
+        "positionName": "Junior AI Engineer",
+        "companyName": "CortexWorks",
+        "location": "Austin, USA",
+        "startPeriod": "2024-01-01T00:00:00.000Z",
+        "endPeriod": null,
+        "isWorking": 1,
+        "description": [
+          "Fine-tuned instruction models (1\u20133B params) for internal copilots.",
+          "Shipped a FastAPI inference service with streaming responses."
+        ],
+        "technologies": [
+          "Python",
+          "PyTorch",
+          "Transformers",
+          "FastAPI",
+          "Docker"
+        ]
+      }
+    ],
+    "educationsList": [
+      {
+        "degree": "bachelor",
+        "faculty": "Computer Science",
+        "major": "Machine Learning",
+        "institution": "UT Austin",
+        "startYear": 2017,
+        "endYear": 2021,
+        "CGPA": "3.7",
+        "isStudying": 0
+      }
+    ],
+    "skills": [
+      "Python",
+      "PyTorch",
+      "Transformers",
+      "NLP",
+      "Retrieval",
+      "FastAPI",
+      "Git",
+      "Docker"
+    ],
+    "projectsList": [
+      {
+        "title": "DocQ&A",
+        "description": "RAG system over policy PDFs with vector search and caching.",
+        "technologies": ["Python", "FAISS", "Transformers"],
+        "link": "https://github.com/mayapatel/docqa",
+        "startPeriod": "2023-03-01T00:00:00.000Z",
+        "endPeriod": "2023-06-01T00:00:00.000Z"
+      }
+    ],
+    "certificates": ["AWS Certified Cloud Practitioner"],
+    "awardsList": [],
+    "publications": [],
+    "languagesSpoken": [
+      {
+        "language": "English",
+        "proficiency": "Native"
+      },
+      {
+        "language": "Spanish",
+        "proficiency": "Basic"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "firstname": "Hiro",
+    "lastname": "Tanaka",
+    "headline": "AI Engineer (Senior)",
+    "phone": "+81 70-1234-5678",
+    "address": "Tokyo, Japan",
+    "email": "hiro.tanaka@example.com",
+    "linkedin": "https://linkedin.com/in/hirotanaka",
+    "github": "https://github.com/htanaka",
+    "website": "https://hiroai.dev",
+    "dateOfBirth": "1988-02-04",
+    "nationality": "Japanese",
+    "profileSummary": "Senior AI Engineer specializing in LLM systems, evaluation, and optimization for latency and cost at scale.",
+    "experiencesList": [
+      {
+        "positionName": "Senior AI Engineer",
+        "companyName": "NeuraWave",
+        "location": "Tokyo, Japan",
+        "startPeriod": "2021-09-01T00:00:00.000Z",
+        "endPeriod": null,
+        "isWorking": 1,
+        "description": [
+          "Designed multi-tenant inference with KV-cache sharing.",
+          "Built eval harness with rubric and human-in-the-loop review."
+        ],
+        "technologies": ["PyTorch", "vLLM", "Ray", "CUDA", "Weights & Biases"]
+      }
+    ],
+    "educationsList": [
+      {
+        "degree": "master",
+        "faculty": "Computer Science",
+        "major": "Artificial Intelligence",
+        "institution": "University of Tokyo",
+        "startYear": 2012,
+        "endYear": 2014,
+        "CGPA": "3.8",
+        "isStudying": 0
+      }
+    ],
+    "skills": [
+      "PyTorch",
+      "Distributed Training",
+      "Optimization",
+      "RAG",
+      "Prompt Engineering",
+      "Evaluation",
+      "MLOps"
+    ],
+    "projectsList": [
+      {
+        "title": "EvalLab",
+        "description": "Automated LLM eval pipeline with bias and safety checks.",
+        "technologies": ["Python", "Ray", "Weights & Biases"],
+        "link": "https://github.com/htanaka/evallab",
+        "startPeriod": "2022-02-01T00:00:00.000Z",
+        "endPeriod": null
+      }
+    ],
+    "certificates": ["AWS Machine Learning \u2013 Specialty"],
+    "awardsList": [
+      {
+        "name": "Innovation Award",
+        "issuer": "NeuraWave",
+        "year": 2023,
+        "description": "Latency reduction project"
+      }
+    ],
+    "publications": [],
+    "languagesSpoken": [
+      {
+        "language": "Japanese",
+        "proficiency": "Native"
+      },
+      {
+        "language": "English",
+        "proficiency": "Fluent"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "firstname": "Elena",
+    "lastname": "Popov",
+    "headline": "AI Engineering Manager",
+    "phone": "+7 999 123-45-67",
+    "address": "Berlin, Germany",
+    "email": "elena.popov@example.com",
+    "linkedin": "https://linkedin.com/in/elenapopov",
+    "github": "https://github.com/elenapopov",
+    "dateOfBirth": "1986-10-18",
+    "nationality": "German",
+    "profileSummary": "AI Engineering Manager leading cross-functional teams shipping LLM-powered products with strong delivery and mentorship focus.",
+    "experiencesList": [
+      {
+        "positionName": "AI Engineering Manager",
+        "companyName": "Lumina AI",
+        "location": "Berlin, Germany",
+        "startPeriod": "2020-05-01T00:00:00.000Z",
+        "endPeriod": null,
+        "isWorking": 1,
+        "description": [
+          "Managed a team of 12 AI/ML engineers and data scientists.",
+          "Launched 3 LLM features increasing ARR by 9%."
+        ],
+        "technologies": ["Python", "PyTorch", "GCP", "Vertex AI"]
+      }
+    ],
+    "educationsList": [
+      {
+        "degree": "MBA",
+        "faculty": "Business",
+        "major": "Technology Management",
+        "institution": "INSEAD",
+        "startYear": 2016,
+        "endYear": 2017,
+        "isStudying": 0
+      }
+    ],
+    "skills": [
+      "People Management",
+      "Roadmapping",
+      "Delivery",
+      "AI Systems",
+      "Hiring",
+      "Stakeholder Management"
+    ],
+    "projectsList": [
+      {
+        "title": "LLM Roadmap 2024",
+        "description": "Strategy and roll-out plan for generative features.",
+        "technologies": ["Product Strategy"],
+        "link": null,
+        "startPeriod": "2023-09-01T00:00:00.000Z",
+        "endPeriod": "2024-03-01T00:00:00.000Z"
+      }
+    ],
+    "certificates": ["Scrum Master (PSM I)"],
+    "awardsList": [],
+    "publications": [],
+    "languagesSpoken": [
+      {
+        "language": "German",
+        "proficiency": "Native"
+      },
+      {
+        "language": "English",
+        "proficiency": "Fluent"
+      },
+      {
+        "language": "Russian",
+        "proficiency": "Conversational"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "firstname": "Priya",
+    "lastname": "Nair",
+    "headline": "AI Researcher",
+    "phone": "+91 98765 43210",
+    "address": "Bengaluru, India",
+    "email": "priya.nair@example.com",
+    "linkedin": "https://linkedin.com/in/priyanair",
+    "github": "https://github.com/priyanair",
+    "website": "https://priyalabs.ai",
+    "dateOfBirth": "1993-12-01",
+    "nationality": "Indian",
+    "profileSummary": "AI Researcher focusing on multimodal learning and efficient adaptation methods; published at CVPR and ICML.",
+    "experiencesList": [
+      {
+        "positionName": "Research Scientist",
+        "companyName": "VisionAI",
+        "location": "Bengaluru, India",
+        "startPeriod": "2022-06-01T00:00:00.000Z",
+        "endPeriod": null,
+        "isWorking": 1,
+        "description": [
+          "Proposed parameter-efficient tuning for vision-language models.",
+          "Released open-source code and model checkpoints."
+        ],
+        "technologies": ["PyTorch", "Transformers", "Lightning", "CUDA"]
+      }
+    ],
+    "educationsList": [
+      {
+        "degree": "PhD",
+        "faculty": "Computer Science",
+        "major": "Machine Learning",
+        "institution": "IISc Bangalore",
+        "startYear": 2017,
+        "endYear": 2022,
+        "isStudying": 0
+      }
+    ],
+    "skills": [
+      "Multimodal",
+      "Representation Learning",
+      "Optimization",
+      "Paper Writing",
+      "Experimentation"
+    ],
+    "projectsList": [
+      {
+        "title": "VL-Adapter",
+        "description": "Lightweight adapters for VLMs with strong zero-shot transfer.",
+        "technologies": ["PyTorch", "Transformers"],
+        "link": "https://github.com/priyanair/vl-adapter",
+        "startPeriod": "2023-01-01T00:00:00.000Z",
+        "endPeriod": "2023-09-01T00:00:00.000Z"
+      }
+    ],
+    "certificates": [],
+    "awardsList": [
+      {
+        "name": "Best Paper (Honorable Mention)",
+        "issuer": "CVPR Workshop",
+        "year": 2024,
+        "description": "VL-Adapter"
+      }
+    ],
+    "publications": [
+      "Nair, P. et al. 'VL-Adapter: Parameter-Efficient Tuning for VLMs', ICML 2024."
+    ],
+    "languagesSpoken": [
+      {
+        "language": "English",
+        "proficiency": "Fluent"
+      },
+      {
+        "language": "Malayalam",
+        "proficiency": "Native"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "firstname": "Sara",
+    "lastname": "Ahmed",
+    "headline": "Frontend Developer (Internship)",
+    "phone": "+971 50 123 4567",
+    "address": "Dubai, UAE",
+    "email": "sara.ahmed@example.com",
+    "linkedin": "https://linkedin.com/in/saraahmed",
+    "github": "https://github.com/sarahdev",
+    "dateOfBirth": "2002-05-10",
+    "nationality": "Egyptian",
+    "profileSummary": "Frontend intern passionate about accessibility and performance with strong fundamentals in React.",
+    "experiencesList": [
+      {
+        "positionName": "Frontend Engineer Intern",
+        "companyName": "PixelForge",
+        "location": "Dubai, UAE",
+        "startPeriod": "2025-06-01T00:00:00.000Z",
+        "endPeriod": null,
+        "isWorking": 1,
+        "description": [
+          "Implemented UI components from Figma into a React app.",
+          "Wrote unit tests improving coverage from 62% to 78%."
+        ],
+        "technologies": ["React", "TypeScript", "Vite", "Jest"]
+      }
+    ],
+    "educationsList": [
+      {
+        "degree": "bachelor",
+        "faculty": "Computer Science",
+        "major": "Software Engineering",
+        "institution": "American University in Cairo",
+        "startYear": 2020,
+        "endYear": 2024,
+        "CGPA": "3.5",
+        "isStudying": 0
+      }
+    ],
+    "skills": [
+      "React",
+      "TypeScript",
+      "HTML5",
+      "CSS3",
+      "Accessibility",
+      "Testing Library",
+      "Figma"
+    ],
+    "projectsList": [
+      {
+        "title": "PerfTracker",
+        "description": "Lighthouse-based performance tracker for SPAs.",
+        "technologies": ["JavaScript", "Node.js"],
+        "link": "https://github.com/sarahdev/perftracker",
+        "startPeriod": "2024-11-01T00:00:00.000Z",
+        "endPeriod": "2025-02-01T00:00:00.000Z"
+      }
+    ],
+    "certificates": ["Meta Front-End Developer (Coursera)"],
+    "awardsList": [],
+    "publications": [],
+    "languagesSpoken": [
+      {
+        "language": "Arabic",
+        "proficiency": "Native"
+      },
+      {
+        "language": "English",
+        "proficiency": "Fluent"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "firstname": "Julia",
+    "lastname": "Nowak",
+    "headline": "Frontend Developer (Junior)",
+    "phone": "+48 600 111 222",
+    "address": "Krak\u00f3w, Poland",
+    "email": "julia.nowak@example.com",
+    "linkedin": "https://linkedin.com/in/julianowak",
+    "github": "https://github.com/junowak",
+    "dateOfBirth": "1998-03-21",
+    "nationality": "Polish",
+    "profileSummary": "Junior Frontend Developer focused on design systems and accessibility with React and Next.js.",
+    "experiencesList": [
+      {
+        "positionName": "Junior Frontend Developer",
+        "companyName": "NordApps",
+        "location": "Krak\u00f3w, Poland",
+        "startPeriod": "2023-07-01T00:00:00.000Z",
+        "endPeriod": null,
+        "isWorking": 1,
+        "description": [
+          "Contributed components to internal design system.",
+          "Reduced CLS by 35% via image optimization and preloading."
+        ],
+        "technologies": ["React", "Next.js", "Tailwind", "Storybook"]
+      }
+    ],
+    "educationsList": [
+      {
+        "degree": "bachelor",
+        "faculty": "Engineering",
+        "major": "Information Technology",
+        "institution": "AGH University of Science and Technology",
+        "startYear": 2017,
+        "endYear": 2021,
+        "CGPA": "3.4",
+        "isStudying": 0
+      }
+    ],
+    "skills": [
+      "React",
+      "Next.js",
+      "TypeScript",
+      "Tailwind",
+      "Storybook",
+      "Jest",
+      "Accessibility"
+    ],
+    "projectsList": [
+      {
+        "title": "A11yKit",
+        "description": "Toolkit with hooks and utilities for accessible components.",
+        "technologies": ["TypeScript", "React"],
+        "link": "https://github.com/junowak/a11ykit",
+        "startPeriod": "2023-03-01T00:00:00.000Z",
+        "endPeriod": "2023-05-01T00:00:00.000Z"
+      }
+    ],
+    "certificates": [],
+    "awardsList": [],
+    "publications": [],
+    "languagesSpoken": [
+      {
+        "language": "Polish",
+        "proficiency": "Native"
+      },
+      {
+        "language": "English",
+        "proficiency": "Fluent"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "firstname": "Diego",
+    "lastname": "Ferreira",
+    "headline": "Backend Developer (Junior)",
+    "phone": "+55 21 99999-0001",
+    "address": "Rio de Janeiro, Brazil",
+    "email": "diego.ferreira@example.com",
+    "linkedin": "https://linkedin.com/in/diegoferreira",
+    "github": "https://github.com/diegof",
+    "dateOfBirth": "1997-09-14",
+    "nationality": "Brazilian",
+    "profileSummary": "Junior Backend Developer with experience in building REST APIs and relational data models.",
+    "experiencesList": [
+      {
+        "positionName": "Junior Backend Developer",
+        "companyName": "OceanBytes",
+        "location": "Rio de Janeiro, Brazil",
+        "startPeriod": "2024-04-01T00:00:00.000Z",
+        "endPeriod": null,
+        "isWorking": 1,
+        "description": [
+          "Built CRUD services and background jobs with BullMQ.",
+          "Improved query performance with proper indexing."
+        ],
+        "technologies": ["Node.js", "Express", "PostgreSQL", "Redis", "Docker"]
+      }
+    ],
+    "educationsList": [
+      {
+        "degree": "bachelor",
+        "faculty": "Computer Science",
+        "major": "Information Systems",
+        "institution": "UFRJ",
+        "startYear": 2016,
+        "endYear": 2020,
+        "CGPA": "3.3",
+        "isStudying": 0
+      }
+    ],
+    "skills": [
+      "Node.js",
+      "Express",
+      "SQL",
+      "PostgreSQL",
+      "Redis",
+      "Docker",
+      "Testing"
+    ],
+    "projectsList": [
+      {
+        "title": "RideShare API",
+        "description": "REST API with authentication and rate limiting.",
+        "technologies": ["Node.js", "Express", "PostgreSQL"],
+        "link": "https://github.com/diegof/rideshare-api",
+        "startPeriod": "2023-07-01T00:00:00.000Z",
+        "endPeriod": "2023-12-01T00:00:00.000Z"
+      }
+    ],
+    "certificates": [],
+    "awardsList": [],
+    "publications": [],
+    "languagesSpoken": [
+      {
+        "language": "Portuguese",
+        "proficiency": "Native"
+      },
+      {
+        "language": "English",
+        "proficiency": "Fluent"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "firstname": "Ahmed",
+    "lastname": "Rashid",
+    "headline": "Backend Developer (Senior)",
+    "phone": "+20 100 555 7890",
+    "address": "Cairo, Egypt",
+    "email": "ahmed.rashid@example.com",
+    "linkedin": "https://linkedin.com/in/ahmedrashid",
+    "github": "https://github.com/ahmedrash",
+    "dateOfBirth": "1990-06-30",
+    "nationality": "Egyptian",
+    "profileSummary": "Senior Backend Developer designing distributed systems and event-driven architectures.",
+    "experiencesList": [
+      {
+        "positionName": "Senior Backend Engineer",
+        "companyName": "StreamFlow",
+        "location": "Cairo, Egypt",
+        "startPeriod": "2020-02-01T00:00:00.000Z",
+        "endPeriod": null,
+        "isWorking": 1,
+        "description": [
+          "Designed CQRS/ES services processing 50k events/min.",
+          "Introduced blue/green deployments cutting downtime to near-zero."
+        ],
+        "technologies": [
+          "Go",
+          "gRPC",
+          "Kafka",
+          "PostgreSQL",
+          "Kubernetes",
+          "AWS"
+        ]
+      }
+    ],
+    "educationsList": [
+      {
+        "degree": "bachelor",
+        "faculty": "Engineering",
+        "major": "Computer Engineering",
+        "institution": "Cairo University",
+        "startYear": 2008,
+        "endYear": 2012,
+        "CGPA": "3.6",
+        "isStudying": 0
+      }
+    ],
+    "skills": [
+      "Go",
+      "gRPC",
+      "Kafka",
+      "PostgreSQL",
+      "Kubernetes",
+      "AWS",
+      "CI/CD"
+    ],
+    "projectsList": [
+      {
+        "title": "EventHub",
+        "description": "Event streaming platform with idempotent consumers.",
+        "technologies": ["Go", "Kafka"],
+        "link": "https://github.com/ahmedrash/eventhub",
+        "startPeriod": "2021-01-01T00:00:00.000Z",
+        "endPeriod": "2021-06-01T00:00:00.000Z"
+      }
+    ],
+    "certificates": ["CKAD"],
+    "awardsList": [],
+    "publications": [],
+    "languagesSpoken": [
+      {
+        "language": "Arabic",
+        "proficiency": "Native"
+      },
+      {
+        "language": "English",
+        "proficiency": "Fluent"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "firstname": "Luca",
+    "lastname": "Bianchi",
+    "headline": "Sous Chef",
+    "phone": "+39 320 123 4567",
+    "address": "Milan, Italy",
+    "email": "luca.bianchi@example.com",
+    "linkedin": "https://linkedin.com/in/lucabianchi",
+    "website": "https://lucacooks.it",
+    "dateOfBirth": "1991-11-02",
+    "nationality": "Italian",
+    "profileSummary": "Sous Chef experienced in Italian fine dining and modern plating with strong focus on consistency and food safety.",
+    "experiencesList": [
+      {
+        "positionName": "Sous Chef",
+        "companyName": "Trattoria Milano",
+        "location": "Milan, IT",
+        "startPeriod": "2021-02-01T00:00:00.000Z",
+        "endPeriod": null,
+        "isWorking": 1,
+        "description": [
+          "Oversaw hot line and daily specials for 200 covers/night.",
+          "Trained 6 junior cooks on pasta and sauces."
+        ],
+        "technologies": ["Italian Cuisine", "Food Safety", "Menu Engineering"]
+      }
+    ],
+    "educationsList": [
+      {
+        "degree": "diploma",
+        "faculty": "Culinary Arts",
+        "major": "Professional Cooking",
+        "institution": "ALMA La Scuola Internazionale di Cucina Italiana",
+        "startYear": 2010,
+        "endYear": 2012,
+        "isStudying": 0
+      }
+    ],
+    "skills": [
+      "Italian Cuisine",
+      "Sauces",
+      "Knife Skills",
+      "Plating",
+      "Food Safety",
+      "Inventory"
+    ],
+    "projectsList": [
+      {
+        "title": "Zero Waste Specials",
+        "description": "Weekly specials using trim and surplus to cut waste 25%.",
+        "technologies": ["Sustainability"],
+        "link": null,
+        "startPeriod": "2023-04-01T00:00:00.000Z",
+        "endPeriod": "2023-10-01T00:00:00.000Z"
+      }
+    ],
+    "certificates": ["HACCP Certification"],
+    "awardsList": [],
+    "publications": [],
+    "languagesSpoken": [
+      {
+        "language": "Italian",
+        "proficiency": "Native"
+      },
+      {
+        "language": "English",
+        "proficiency": "Fluent"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "firstname": "Thomas",
+    "lastname": "Nguyen",
+    "headline": "Investment Banking Analyst",
+    "phone": "+1 212-555-0191",
+    "address": "New York, USA",
+    "email": "thomas.nguyen@example.com",
+    "linkedin": "https://linkedin.com/in/thomasnguyen",
+    "dateOfBirth": "1998-01-30",
+    "nationality": "American",
+    "profileSummary": "Investment Banking Analyst with experience in M&A, DCF/Comps, and pitchbook creation across TMT deals.",
+    "experiencesList": [
+      {
+        "positionName": "Investment Banking Analyst",
+        "companyName": "Atlas Capital",
+        "location": "New York, USA",
+        "startPeriod": "2023-07-01T00:00:00.000Z",
+        "endPeriod": null,
+        "isWorking": 1,
+        "description": [
+          "Built DCF and LBO models for mid-market TMT transactions.",
+          "Prepared CIMs and coordinated due diligence workstreams."
+        ],
+        "technologies": ["Excel", "PowerPoint", "FactSet", "Capital IQ"]
+      }
+    ],
+    "educationsList": [
+      {
+        "degree": "bachelor",
+        "faculty": "Business",
+        "major": "Finance",
+        "institution": "NYU Stern",
+        "startYear": 2016,
+        "endYear": 2020,
+        "isStudying": 0
+      }
+    ],
+    "skills": [
+      "Financial Modeling",
+      "Valuation",
+      "M&A",
+      "Pitchbooks",
+      "Market Research"
+    ],
+    "projectsList": [
+      {
+        "title": "Sell-Side Mandate (TMT)",
+        "description": "Supported process from buyer list to Q&A and SPA review.",
+        "technologies": ["Excel", "PowerPoint"],
+        "link": null,
+        "startPeriod": "2024-02-01T00:00:00.000Z",
+        "endPeriod": "2024-06-01T00:00:00.000Z"
+      }
+    ],
+    "certificates": ["FINRA SIE"],
+    "awardsList": [],
+    "publications": [],
+    "languagesSpoken": [
+      {
+        "language": "English",
+        "proficiency": "Native"
+      },
+      {
+        "language": "Vietnamese",
+        "proficiency": "Conversational"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "firstname": "Olivia",
+    "lastname": "Schmidt",
+    "headline": "Portfolio Manager",
+    "phone": "+49 171 2345678",
+    "address": "Frankfurt, Germany",
+    "email": "olivia.schmidt@example.com",
+    "linkedin": "https://linkedin.com/in/oliviaschmidt",
+    "dateOfBirth": "1989-04-12",
+    "nationality": "German",
+    "profileSummary": "Portfolio Manager focused on global equities with risk-aware, factor-informed strategies and strong track record against benchmark.",
+    "experiencesList": [
+      {
+        "positionName": "Portfolio Manager",
+        "companyName": "Rhine Asset Management",
+        "location": "Frankfurt, Germany",
+        "startPeriod": "2019-03-01T00:00:00.000Z",
+        "endPeriod": null,
+        "isWorking": 1,
+        "description": [
+          "Managed \u20ac450M long-only equity portfolio; 280 bps alpha (3-yr).",
+          "Implemented factor tilts and drawdown controls."
+        ],
+        "technologies": ["Excel", "Python", "Bloomberg", "Risk Models"]
+      }
+    ],
+    "educationsList": [
+      {
+        "degree": "master",
+        "faculty": "Finance",
+        "major": "Investment Management",
+        "institution": "Goethe University Frankfurt",
+        "startYear": 2012,
+        "endYear": 2014,
+        "isStudying": 0
+      }
+    ],
+    "skills": [
+      "Portfolio Construction",
+      "Risk Management",
+      "Equity Research",
+      "Python"
+    ],
+    "projectsList": [
+      {
+        "title": "Alpha Insights",
+        "description": "Research pipeline combining fundamentals and alternative data.",
+        "technologies": ["Python", "Pandas"],
+        "link": null,
+        "startPeriod": "2021-01-01T00:00:00.000Z",
+        "endPeriod": null
+      }
+    ],
+    "certificates": ["CFA Charterholder"],
+    "awardsList": [
+      {
+        "name": "Best Fund (Regional)",
+        "issuer": "Industry Assoc.",
+        "year": 2023,
+        "description": "Category: Europe Equity"
+      }
+    ],
+    "publications": [],
+    "languagesSpoken": [
+      {
+        "language": "German",
+        "proficiency": "Native"
+      },
+      {
+        "language": "English",
+        "proficiency": "Fluent"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "firstname": "Chloe",
+    "lastname": "Dubois",
+    "headline": "Senior Accountant",
+    "phone": "+33 6 12 34 56 78",
+    "address": "Paris, France",
+    "email": "chloe.dubois@example.com",
+    "linkedin": "https://linkedin.com/in/chloedubois",
+    "dateOfBirth": "1991-07-25",
+    "nationality": "French",
+    "profileSummary": "Senior Accountant with expertise in IFRS/GAAP, consolidations, and audit support.",
+    "experiencesList": [
+      {
+        "positionName": "Senior Accountant",
+        "companyName": "BelleFinance",
+        "location": "Paris, France",
+        "startPeriod": "2020-09-01T00:00:00.000Z",
+        "endPeriod": null,
+        "isWorking": 1,
+        "description": [
+          "Prepared monthly close and reconciliations for multi-entity structure.",
+          "Led transition to IFRS 16 lease accounting."
+        ],
+        "technologies": ["SAP", "Excel", "PowerBI"]
+      }
+    ],
+    "educationsList": [
+      {
+        "degree": "master",
+        "faculty": "Accounting",
+        "major": "Financial Accounting",
+        "institution": "HEC Paris",
+        "startYear": 2013,
+        "endYear": 2015,
+        "isStudying": 0
+      }
+    ],
+    "skills": [
+      "IFRS",
+      "GAAP",
+      "Consolidations",
+      "Reconciliations",
+      "Tax",
+      "Audit Support"
+    ],
+    "projectsList": [
+      {
+        "title": "Close Acceleration",
+        "description": "Cut month-end close from 8 to 4 business days.",
+        "technologies": ["Process Improvement"],
+        "link": null,
+        "startPeriod": "2022-01-01T00:00:00.000Z",
+        "endPeriod": "2022-06-01T00:00:00.000Z"
+      }
+    ],
+    "certificates": ["CPA (France equivalent: DEC)"],
+    "awardsList": [],
+    "publications": [],
+    "languagesSpoken": [
+      {
+        "language": "French",
+        "proficiency": "Native"
+      },
+      {
+        "language": "English",
+        "proficiency": "Fluent"
+      }
+    ]
+  }
+]
