@@ -1,7 +1,9 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+
 <a id="readme-top"></a>
 
 <!-- PROJECT SHIELDS -->
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -58,6 +60,7 @@
 </details>
 
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://github.com/github_username/resume-gen/tree/main/resume)
@@ -65,22 +68,24 @@
 This project is a powerful Python script that automates the creation of professional-looking PDF resumes from structured JSON data. It was developed with significant contributions from AI, demonstrating how modern AI tools can accelerate development and build robust applications.
 
 Key Features:
-*   **JSON to PDF**: Easily define your resume content in a JSON file.
-*   **Multi-Lingual Support**: Built-in support for English and Thai.
-*   **Theming**: Choose from multiple themes (`modern`, `classic`, `minimal`) to style your resume.
-*   **Smart Text Wrapping**: Automatically wraps text to fit the layout, even for languages without spaces between words.
-*   **Automatic Page Breaks**: Content flows seamlessly across multiple pages.
+
+- **JSON to PDF**: Easily define your resume content in a JSON file.
+- **Multi-Lingual Support**: Built-in support for English and Thai.
+- **Theming**: Choose from multiple themes (`modern`, `classic`, `minimal`) to style your resume.
+- **Smart Text Wrapping**: Automatically wraps text to fit the layout, even for languages without spaces between words.
+- **Automatic Page Breaks**: Content flows seamlessly across multiple pages.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
 
-*   [![Python][Python-shield]][Python-url]
-*   [![ReportLab][ReportLab-shield]][ReportLab-url]
+- [![Python][Python-shield]][Python-url]
+- [![ReportLab][ReportLab-shield]][ReportLab-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
+
 ## Getting Started
 
 Follow these steps to set up the project locally.
@@ -88,15 +93,16 @@ Follow these steps to set up the project locally.
 ### Prerequisites
 
 Make sure you have Python 3 and pip installed on your system.
-*   Python 3
-    ```sh
-    # Check your python version
-    python --version
-    ```
-*   pip
-    ```sh
-    pip --version
-    ```
+
+- Python 3
+  ```sh
+  # Check your python version
+  python --version
+  ```
+- pip
+  ```sh
+  pip --version
+  ```
 
 ### Installation
 
@@ -111,11 +117,12 @@ Make sure you have Python 3 and pip installed on your system.
     source venv/bin/activate  # On Windows use `venv\Scripts\activate`
     pip install -r requirements.txt
     ```
-3.  Ensure you have the necessary fonts (`NotoSansThai` and `Sarabun`) in the `fonts/` directory. The script will look for them there.
+3.  Ensure you have the necessary fonts in the `fonts/` directory. The script is configured to use `NotoSansThai` (recommended for Thai language support) and `Sarabun` as a fallback. The script will automatically detect and use them from the `fonts` folder.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- USAGE EXAMPLES -->
+
 ## Usage
 
 To generate resumes, run the script from your terminal. You can process a single JSON object or an array of them from a file.
@@ -125,15 +132,17 @@ python resume_pdf-gpt-refactored.py --data resume_all_extended.json --theme mode
 ```
 
 ### Command-line Arguments:
-*   `--data`: Path to the input JSON file.
-*   `--theme`: The visual theme to use (`modern`, `classic`, `minimal`).
-*   `--outdir`: The directory to save the generated PDF files.
+
+- `--data`: Path to the input JSON file.
+- `--theme`: The visual theme to use (`modern`, `classic`, `minimal`).
+- `--outdir`: The directory to save the generated PDF files.
 
 _For more examples, please refer to the [sample JSON files](https://github.com/github_username/resume-gen) like `resume_all_extended.json` and `resume_all_extended_th.json`._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ROADMAP -->
+
 ## Roadmap
 
 - [ ] Add more themes and customization options.
@@ -146,6 +155,7 @@ See the [open issues](https://github.com/github_username/resume-gen/issues) for 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
+
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -162,6 +172,7 @@ Don't forget to give the project a star! Thanks again!
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
+
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
@@ -169,6 +180,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
+
 ## Contact
 
 Your Name - @your_twitter - your_email@example.com
@@ -178,15 +190,17 @@ Project Link: [https://github.com/github_username/resume-gen](https://github.com
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
+
 ## Acknowledgments
 
-*   [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
-*   [ReportLab](https://www.reportlab.com/)
-*   [Noto Fonts](https://fonts.google.com/noto)
+- [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
+- [ReportLab](https://www.reportlab.com/)
+- [Noto Fonts](https://fonts.google.com/noto)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
+
 [contributors-shield]: https://img.shields.io/github/contributors/github_username/resume-gen.svg?style=for-the-badge
 [contributors-url]: https://github.com/github_username/resume-gen/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/github_username/resume-gen.svg?style=for-the-badge
