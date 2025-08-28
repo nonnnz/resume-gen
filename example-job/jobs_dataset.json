@@ -1,0 +1,3566 @@
+[
+  {
+    "id": "1",
+    "position": "Software Engineer",
+    "company": "DesignHub",
+    "logo": "/designhub.png",
+    "level": "Mid Level",
+    "openings": 5,
+    "closingDate": "2025-11-16",
+    "location": "Sydney, Australia",
+    "description": "We are looking for a Software Engineer to join our team at DesignHub.",
+    "responsibilities": [
+      "Perform key responsibilities related to Software Engineer.",
+      "Collaborate with cross-functional teams.",
+      "Ensure high-quality outcomes and timely delivery."
+    ],
+    "qualifications": [
+      "Relevant degree or certification.",
+      "Experience in creative or related field.",
+      "Strong communication and problem-solving skills."
+    ],
+    "companyInfo": {
+      "name": "DesignHub",
+      "description": "DesignHub is a leader in the Creative industry.",
+      "employees": "500-1000",
+      "industry": "Creative",
+      "website": "https://designhub.com"
+    },
+    "salary": "40000 - 92000",
+    "employeeType": "Internship",
+    "ageLimit": null,
+    "experience": "5-10 years",
+    "education": "PhD",
+    "preferredFaculties": [
+      "Mechanical Engineering",
+      "Education",
+      "Business Administration"
+    ]
+  },
+  {
+    "id": "2",
+    "position": "Data Scientist",
+    "company": "EduWorld",
+    "logo": "/eduworld.png",
+    "level": "Entry Level",
+    "openings": 4,
+    "closingDate": "2025-09-11",
+    "location": "New York, USA",
+    "description": "We are looking for a Data Scientist to join our team at EduWorld.",
+    "responsibilities": [
+      "Perform key responsibilities related to Data Scientist.",
+      "Collaborate with cross-functional teams.",
+      "Ensure high-quality outcomes and timely delivery."
+    ],
+    "qualifications": [
+      "Relevant degree or certification.",
+      "Experience in education or related field.",
+      "Strong communication and problem-solving skills."
+    ],
+    "companyInfo": {
+      "name": "EduWorld",
+      "description": "EduWorld is a leader in the Education industry.",
+      "employees": "500-1000",
+      "industry": "Education",
+      "website": "https://eduworld.com"
+    },
+    "salary": "40000 - 99000",
+    "employeeType": "Part-time",
+    "ageLimit": "30-45 years",
+    "experience": "5-10 years",
+    "education": "Bachelor's degree",
+    "preferredFaculties": ["Medicine", "Mechanical Engineering", "Marketing"]
+  },
+  {
+    "id": "3",
+    "position": "UX/UI Designer",
+    "company": "DesignHub",
+    "logo": "/designhub.png",
+    "level": "Mid Level",
+    "openings": 5,
+    "closingDate": "2025-10-19",
+    "location": "Berlin, Germany",
+    "description": "We are looking for a UX/UI Designer to join our team at DesignHub.",
+    "responsibilities": [
+      "Perform key responsibilities related to UX/UI Designer.",
+      "Collaborate with cross-functional teams.",
+      "Ensure high-quality outcomes and timely delivery."
+    ],
+    "qualifications": [
+      "Relevant degree or certification.",
+      "Experience in creative or related field.",
+      "Strong communication and problem-solving skills."
+    ],
+    "companyInfo": {
+      "name": "DesignHub",
+      "description": "DesignHub is a leader in the Creative industry.",
+      "employees": "500-1000",
+      "industry": "Creative",
+      "website": "https://designhub.com"
+    },
+    "salary": "57000 - 62000",
+    "employeeType": "Full-time",
+    "ageLimit": "25-35 years",
+    "experience": "1-3 years",
+    "education": "Master's degree",
+    "preferredFaculties": [
+      "Software Engineering",
+      "Business Administration",
+      "Computer Science"
+    ]
+  },
+  {
+    "id": "4",
+    "position": "Cloud Solutions Architect",
+    "company": "EduWorld",
+    "logo": "/eduworld.png",
+    "level": "Senior Level",
+    "openings": 4,
+    "closingDate": "2025-09-18",
+    "location": "Toronto, Canada",
+    "description": "We are looking for a Cloud Solutions Architect to join our team at EduWorld.",
+    "responsibilities": [
+      "Perform key responsibilities related to Cloud Solutions Architect.",
+      "Collaborate with cross-functional teams.",
+      "Ensure high-quality outcomes and timely delivery."
+    ],
+    "qualifications": [
+      "Relevant degree or certification.",
+      "Experience in education or related field.",
+      "Strong communication and problem-solving skills."
+    ],
+    "companyInfo": {
+      "name": "EduWorld",
+      "description": "EduWorld is a leader in the Education industry.",
+      "employees": "100-500",
+      "industry": "Education",
+      "website": "https://eduworld.com"
+    },
+    "salary": "60000 - 62000",
+    "employeeType": "Internship",
+    "ageLimit": "30-45 years",
+    "experience": "3-5 years",
+    "education": "Bachelor's degree",
+    "preferredFaculties": ["Education", "Civil Engineering", "Finance"]
+  },
+  {
+    "id": "5",
+    "position": "Cybersecurity Analyst",
+    "company": "Health Plus",
+    "logo": "/healthplus.png",
+    "level": "Senior Level",
+    "openings": 3,
+    "closingDate": "2025-09-18",
+    "location": "Bangkok, Thailand",
+    "description": "We are looking for a Cybersecurity Analyst to join our team at Health Plus.",
+    "responsibilities": [
+      "Perform key responsibilities related to Cybersecurity Analyst.",
+      "Collaborate with cross-functional teams.",
+      "Ensure high-quality outcomes and timely delivery."
+    ],
+    "qualifications": [
+      "Relevant degree or certification.",
+      "Experience in healthcare or related field.",
+      "Strong communication and problem-solving skills."
+    ],
+    "companyInfo": {
+      "name": "Health Plus",
+      "description": "Health Plus is a leader in the Healthcare industry.",
+      "employees": "500-1000",
+      "industry": "Healthcare",
+      "website": "https://healthplus.com"
+    },
+    "salary": "38000 - 89000",
+    "employeeType": "Contract",
+    "ageLimit": "30-45 years",
+    "experience": "1-3 years",
+    "education": "Master's degree",
+    "preferredFaculties": ["Business Administration", "Finance", "Marketing"]
+  },
+  {
+    "id": "6",
+    "position": "Machine Learning Engineer",
+    "company": "Health Plus",
+    "logo": "/healthplus.png",
+    "level": "Senior Level",
+    "openings": 3,
+    "closingDate": "2025-11-20",
+    "location": "Sydney, Australia",
+    "description": "We are looking for a Machine Learning Engineer to join our team at Health Plus.",
+    "responsibilities": [
+      "Perform key responsibilities related to Machine Learning Engineer.",
+      "Collaborate with cross-functional teams.",
+      "Ensure high-quality outcomes and timely delivery."
+    ],
+    "qualifications": [
+      "Relevant degree or certification.",
+      "Experience in healthcare or related field.",
+      "Strong communication and problem-solving skills."
+    ],
+    "companyInfo": {
+      "name": "Health Plus",
+      "description": "Health Plus is a leader in the Healthcare industry.",
+      "employees": "1000-5000",
+      "industry": "Healthcare",
+      "website": "https://healthplus.com"
+    },
+    "salary": "60000 - 81000",
+    "employeeType": "Part-time",
+    "ageLimit": "25-35 years",
+    "experience": "5-10 years",
+    "education": "Master's degree",
+    "preferredFaculties": [
+      "Mechanical Engineering",
+      "Computer Science",
+      "Software Engineering"
+    ]
+  },
+  {
+    "id": "7",
+    "position": "Product Manager",
+    "company": "Tech Corp",
+    "logo": "/techcorp.png",
+    "level": "Entry Level",
+    "openings": 4,
+    "closingDate": "2025-10-03",
+    "location": "London, UK",
+    "description": "We are looking for a Product Manager to join our team at Tech Corp.",
+    "responsibilities": [
+      "Perform key responsibilities related to Product Manager.",
+      "Collaborate with cross-functional teams.",
+      "Ensure high-quality outcomes and timely delivery."
+    ],
+    "qualifications": [
+      "Relevant degree or certification.",
+      "Experience in technology or related field.",
+      "Strong communication and problem-solving skills."
+    ],
+    "companyInfo": {
+      "name": "Tech Corp",
+      "description": "Tech Corp is a leader in the Technology industry.",
+      "employees": "500-1000",
+      "industry": "Technology",
+      "website": "https://techcorp.com"
+    },
+    "salary": "52000 - 66000",
+    "employeeType": "Contract",
+    "ageLimit": "25-35 years",
+    "experience": "5-10 years",
+    "education": "Master's degree",
+    "preferredFaculties": [
+      "Information Technology",
+      "Education",
+      "Computer Science"
+    ]
+  },
+  {
+    "id": "8",
+    "position": "DevOps Engineer",
+    "company": "FinEdge",
+    "logo": "/finedge.png",
+    "level": "Senior Level",
+    "openings": 1,
+    "closingDate": "2025-10-25",
+    "location": "Berlin, Germany",
+    "description": "We are looking for a DevOps Engineer to join our team at FinEdge.",
+    "responsibilities": [
+      "Perform key responsibilities related to DevOps Engineer.",
+      "Collaborate with cross-functional teams.",
+      "Ensure high-quality outcomes and timely delivery."
+    ],
+    "qualifications": [
+      "Relevant degree or certification.",
+      "Experience in finance or related field.",
+      "Strong communication and problem-solving skills."
+    ],
+    "companyInfo": {
+      "name": "FinEdge",
+      "description": "FinEdge is a leader in the Finance industry.",
+      "employees": "100-500",
+      "industry": "Finance",
+      "website": "https://finedge.com"
+    },
+    "salary": "48000 - 90000",
+    "employeeType": "Contract",
+    "ageLimit": null,
+    "experience": "3-5 years",
+    "education": "Bachelor's degree",
+    "preferredFaculties": [
+      "Information Technology",
+      "Computer Science",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "id": "9",
+    "position": "QA Automation Engineer",
+    "company": "BuildRight",
+    "logo": "/buildright.png",
+    "level": "Senior Level",
+    "openings": 2,
+    "closingDate": "2025-10-07",
+    "location": "Bangkok, Thailand",
+    "description": "We are looking for a QA Automation Engineer to join our team at BuildRight.",
+    "responsibilities": [
+      "Perform key responsibilities related to QA Automation Engineer.",
+      "Collaborate with cross-functional teams.",
+      "Ensure high-quality outcomes and timely delivery."
+    ],
+    "qualifications": [
+      "Relevant degree or certification.",
+      "Experience in construction or related field.",
+      "Strong communication and problem-solving skills."
+    ],
+    "companyInfo": {
+      "name": "BuildRight",
+      "description": "BuildRight is a leader in the Construction industry.",
+      "employees": "100-500",
+      "industry": "Construction",
+      "website": "https://buildright.com"
+    },
+    "salary": "45000 - 73000",
+    "employeeType": "Internship",
+    "ageLimit": null,
+    "experience": "5-10 years",
+    "education": "PhD",
+    "preferredFaculties": [
+      "Mechanical Engineering",
+      "Software Engineering",
+      "Finance"
+    ]
+  },
+  {
+    "id": "10",
+    "position": "Full Stack Developer",
+    "company": "FinEdge",
+    "logo": "/finedge.png",
+    "level": "Mid Level",
+    "openings": 3,
+    "closingDate": "2025-10-01",
+    "location": "Sydney, Australia",
+    "description": "We are looking for a Full Stack Developer to join our team at FinEdge.",
+    "responsibilities": [
+      "Perform key responsibilities related to Full Stack Developer.",
+      "Collaborate with cross-functional teams.",
+      "Ensure high-quality outcomes and timely delivery."
+    ],
+    "qualifications": [
+      "Relevant degree or certification.",
+      "Experience in finance or related field.",
+      "Strong communication and problem-solving skills."
+    ],
+    "companyInfo": {
+      "name": "FinEdge",
+      "description": "FinEdge is a leader in the Finance industry.",
+      "employees": "500-1000",
+      "industry": "Finance",
+      "website": "https://finedge.com"
+    },
+    "salary": "37000 - 91000",
+    "employeeType": "Part-time",
+    "ageLimit": "25-35 years",
+    "experience": "3-5 years",
+    "education": "Bachelor's degree",
+    "preferredFaculties": [
+      "Software Engineering",
+      "Finance",
+      "Information Technology"
+    ]
+  },
+  {
+    "id": "11",
+    "position": "Registered Nurse",
+    "company": "Tech Corp",
+    "logo": "/techcorp.png",
+    "level": "Mid Level",
+    "openings": 4,
+    "closingDate": "2025-11-10",
+    "location": "Tokyo, Japan",
+    "description": "We are looking for a Registered Nurse to join our team at Tech Corp.",
+    "responsibilities": [
+      "Perform key responsibilities related to Registered Nurse.",
+      "Collaborate with cross-functional teams.",
+      "Ensure high-quality outcomes and timely delivery."
+    ],
+    "qualifications": [
+      "Relevant degree or certification.",
+      "Experience in technology or related field.",
+      "Strong communication and problem-solving skills."
+    ],
+    "companyInfo": {
+      "name": "Tech Corp",
+      "description": "Tech Corp is a leader in the Technology industry.",
+      "employees": "1000-5000",
+      "industry": "Technology",
+      "website": "https://techcorp.com"
+    },
+    "salary": "56000 - 100000",
+    "employeeType": "Part-time",
+    "ageLimit": null,
+    "experience": "1-3 years",
+    "education": "Bachelor's degree",
+    "preferredFaculties": ["Education", "Mechanical Engineering", "Medicine"]
+  },
+  {
+    "id": "12",
+    "position": "Physician Assistant",
+    "company": "BuildRight",
+    "logo": "/buildright.png",
+    "level": "Entry Level",
+    "openings": 3,
+    "closingDate": "2025-09-10",
+    "location": "Berlin, Germany",
+    "description": "We are looking for a Physician Assistant to join our team at BuildRight.",
+    "responsibilities": [
+      "Perform key responsibilities related to Physician Assistant.",
+      "Collaborate with cross-functional teams.",
+      "Ensure high-quality outcomes and timely delivery."
+    ],
+    "qualifications": [
+      "Relevant degree or certification.",
+      "Experience in construction or related field.",
+      "Strong communication and problem-solving skills."
+    ],
+    "companyInfo": {
+      "name": "BuildRight",
+      "description": "BuildRight is a leader in the Construction industry.",
+      "employees": "100-500",
+      "industry": "Construction",
+      "website": "https://buildright.com"
+    },
+    "salary": "55000 - 76000",
+    "employeeType": "Part-time",
+    "ageLimit": "25-35 years",
+    "experience": "3-5 years",
+    "education": "Master's degree",
+    "preferredFaculties": ["Finance", "Computer Science", "Education"]
+  },
+  {
+    "id": "13",
+    "position": "Clinical Research Coordinator",
+    "company": "DesignHub",
+    "logo": "/designhub.png",
+    "level": "Senior Level",
+    "openings": 5,
+    "closingDate": "2025-11-09",
+    "location": "Sydney, Australia",
+    "description": "We are looking for a Clinical Research Coordinator to join our team at DesignHub.",
+    "responsibilities": [
+      "Perform key responsibilities related to Clinical Research Coordinator.",
+      "Collaborate with cross-functional teams.",
+      "Ensure high-quality outcomes and timely delivery."
+    ],
+    "qualifications": [
+      "Relevant degree or certification.",
+      "Experience in creative or related field.",
+      "Strong communication and problem-solving skills."
+    ],
+    "companyInfo": {
+      "name": "DesignHub",
+      "description": "DesignHub is a leader in the Creative industry.",
+      "employees": "500-1000",
+      "industry": "Creative",
+      "website": "https://designhub.com"
+    },
+    "salary": "51000 - 62000",
+    "employeeType": "Internship",
+    "ageLimit": "25-35 years",
+    "experience": "5-10 years",
+    "education": "PhD",
+    "preferredFaculties": [
+      "Business Administration",
+      "Software Engineering",
+      "Finance"
+    ]
+  },
+  {
+    "id": "14",
+    "position": "Pharmacist",
+    "company": "EduWorld",
+    "logo": "/eduworld.png",
+    "level": "Entry Level",
+    "openings": 2,
+    "closingDate": "2025-11-13",
+    "location": "Sydney, Australia",
+    "description": "We are looking for a Pharmacist to join our team at EduWorld.",
+    "responsibilities": [
+      "Perform key responsibilities related to Pharmacist.",
+      "Collaborate with cross-functional teams.",
+      "Ensure high-quality outcomes and timely delivery."
+    ],
+    "qualifications": [
+      "Relevant degree or certification.",
+      "Experience in education or related field.",
+      "Strong communication and problem-solving skills."
+    ],
+    "companyInfo": {
+      "name": "EduWorld",
+      "description": "EduWorld is a leader in the Education industry.",
+      "employees": "500-1000",
+      "industry": "Education",
+      "website": "https://eduworld.com"
+    },
+    "salary": "34000 - 94000",
+    "employeeType": "Full-time",
+    "ageLimit": null,
+    "experience": "3-5 years",
+    "education": "Master's degree",
+    "preferredFaculties": [
+      "Medicine",
+      "Civil Engineering",
+      "Information Technology"
+    ]
+  },
+  {
+    "id": "15",
+    "position": "High School Teacher",
+    "company": "Tech Corp",
+    "logo": "/techcorp.png",
+    "level": "Entry Level",
+    "openings": 4,
+    "closingDate": "2025-11-22",
+    "location": "Tokyo, Japan",
+    "description": "We are looking for a High School Teacher to join our team at Tech Corp.",
+    "responsibilities": [
+      "Perform key responsibilities related to High School Teacher.",
+      "Collaborate with cross-functional teams.",
+      "Ensure high-quality outcomes and timely delivery."
+    ],
+    "qualifications": [
+      "Relevant degree or certification.",
+      "Experience in technology or related field.",
+      "Strong communication and problem-solving skills."
+    ],
+    "companyInfo": {
+      "name": "Tech Corp",
+      "description": "Tech Corp is a leader in the Technology industry.",
+      "employees": "100-500",
+      "industry": "Technology",
+      "website": "https://techcorp.com"
+    },
+    "salary": "53000 - 74000",
+    "employeeType": "Full-time",
+    "ageLimit": null,
+    "experience": "1-3 years",
+    "education": "Bachelor's degree",
+    "preferredFaculties": ["Marketing", "Medicine", "Information Technology"]
+  },
+  {
+    "id": "16",
+    "position": "University Lecturer",
+    "company": "DesignHub",
+    "logo": "/designhub.png",
+    "level": "Senior Level",
+    "openings": 3,
+    "closingDate": "2025-10-16",
+    "location": "Sydney, Australia",
+    "description": "We are looking for a University Lecturer to join our team at DesignHub.",
+    "responsibilities": [
+      "Perform key responsibilities related to University Lecturer.",
+      "Collaborate with cross-functional teams.",
+      "Ensure high-quality outcomes and timely delivery."
+    ],
+    "qualifications": [
+      "Relevant degree or certification.",
+      "Experience in creative or related field.",
+      "Strong communication and problem-solving skills."
+    ],
+    "companyInfo": {
+      "name": "DesignHub",
+      "description": "DesignHub is a leader in the Creative industry.",
+      "employees": "1000-5000",
+      "industry": "Creative",
+      "website": "https://designhub.com"
+    },
+    "salary": "30000 - 80000",
+    "employeeType": "Contract",
+    "ageLimit": null,
+    "experience": "1-3 years",
+    "education": "Master's degree",
+    "preferredFaculties": ["Medicine", "Software Engineering", "Finance"]
+  },
+  {
+    "id": "17",
+    "position": "School Counselor",
+    "company": "FinEdge",
+    "logo": "/finedge.png",
+    "level": "Mid Level",
+    "openings": 4,
+    "closingDate": "2025-11-01",
+    "location": "Toronto, Canada",
+    "description": "We are looking for a School Counselor to join our team at FinEdge.",
+    "responsibilities": [
+      "Perform key responsibilities related to School Counselor.",
+      "Collaborate with cross-functional teams.",
+      "Ensure high-quality outcomes and timely delivery."
+    ],
+    "qualifications": [
+      "Relevant degree or certification.",
+      "Experience in finance or related field.",
+      "Strong communication and problem-solving skills."
+    ],
+    "companyInfo": {
+      "name": "FinEdge",
+      "description": "FinEdge is a leader in the Finance industry.",
+      "employees": "1000-5000",
+      "industry": "Finance",
+      "website": "https://finedge.com"
+    },
+    "salary": "53000 - 76000",
+    "employeeType": "Internship",
+    "ageLimit": "30-45 years",
+    "experience": "5-10 years",
+    "education": "Bachelor's degree",
+    "preferredFaculties": [
+      "Computer Science",
+      "Education",
+      "Software Engineering"
+    ]
+  },
+  {
+    "id": "18",
+    "position": "Mechanical Engineer",
+    "company": "DesignHub",
+    "logo": "/designhub.png",
+    "level": "Entry Level",
+    "openings": 2,
+    "closingDate": "2025-10-21",
+    "location": "New York, USA",
+    "description": "We are looking for a Mechanical Engineer to join our team at DesignHub.",
+    "responsibilities": [
+      "Perform key responsibilities related to Mechanical Engineer.",
+      "Collaborate with cross-functional teams.",
+      "Ensure high-quality outcomes and timely delivery."
+    ],
+    "qualifications": [
+      "Relevant degree or certification.",
+      "Experience in creative or related field.",
+      "Strong communication and problem-solving skills."
+    ],
+    "companyInfo": {
+      "name": "DesignHub",
+      "description": "DesignHub is a leader in the Creative industry.",
+      "employees": "100-500",
+      "industry": "Creative",
+      "website": "https://designhub.com"
+    },
+    "salary": "40000 - 80000",
+    "employeeType": "Full-time",
+    "ageLimit": "30-45 years",
+    "experience": "3-5 years",
+    "education": "PhD",
+    "preferredFaculties": ["Medicine", "Business Administration", "Finance"]
+  },
+  {
+    "id": "19",
+    "position": "Civil Engineer",
+    "company": "FinEdge",
+    "logo": "/finedge.png",
+    "level": "Mid Level",
+    "openings": 1,
+    "closingDate": "2025-11-16",
+    "location": "London, UK",
+    "description": "We are looking for a Civil Engineer to join our team at FinEdge.",
+    "responsibilities": [
+      "Perform key responsibilities related to Civil Engineer.",
+      "Collaborate with cross-functional teams.",
+      "Ensure high-quality outcomes and timely delivery."
+    ],
+    "qualifications": [
+      "Relevant degree or certification.",
+      "Experience in finance or related field.",
+      "Strong communication and problem-solving skills."
+    ],
+    "companyInfo": {
+      "name": "FinEdge",
+      "description": "FinEdge is a leader in the Finance industry.",
+      "employees": "1000-5000",
+      "industry": "Finance",
+      "website": "https://finedge.com"
+    },
+    "salary": "45000 - 78000",
+    "employeeType": "Full-time",
+    "ageLimit": "30-45 years",
+    "experience": "3-5 years",
+    "education": "Master's degree",
+    "preferredFaculties": ["Mechanical Engineering", "Finance", "Marketing"]
+  },
+  {
+    "id": "20",
+    "position": "Electrical Engineer",
+    "company": "DesignHub",
+    "logo": "/designhub.png",
+    "level": "Senior Level",
+    "openings": 4,
+    "closingDate": "2025-10-18",
+    "location": "New York, USA",
+    "description": "We are looking for a Electrical Engineer to join our team at DesignHub.",
+    "responsibilities": [
+      "Perform key responsibilities related to Electrical Engineer.",
+      "Collaborate with cross-functional teams.",
+      "Ensure high-quality outcomes and timely delivery."
+    ],
+    "qualifications": [
+      "Relevant degree or certification.",
+      "Experience in creative or related field.",
+      "Strong communication and problem-solving skills."
+    ],
+    "companyInfo": {
+      "name": "DesignHub",
+      "description": "DesignHub is a leader in the Creative industry.",
+      "employees": "500-1000",
+      "industry": "Creative",
+      "website": "https://designhub.com"
+    },
+    "salary": "45000 - 78000",
+    "employeeType": "Part-time",
+    "ageLimit": "30-45 years",
+    "experience": "5-10 years",
+    "education": "PhD",
+    "preferredFaculties": [
+      "Education",
+      "Civil Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "id": "21",
+    "position": "Architect",
+    "company": "Tech Corp",
+    "logo": "/techcorp.png",
+    "level": "Mid Level",
+    "openings": 4,
+    "closingDate": "2025-10-02",
+    "location": "Berlin, Germany",
+    "description": "We are looking for a Architect to join our team at Tech Corp.",
+    "responsibilities": [
+      "Perform key responsibilities related to Architect.",
+      "Collaborate with cross-functional teams.",
+      "Ensure high-quality outcomes and timely delivery."
+    ],
+    "qualifications": [
+      "Relevant degree or certification.",
+      "Experience in technology or related field.",
+      "Strong communication and problem-solving skills."
+    ],
+    "companyInfo": {
+      "name": "Tech Corp",
+      "description": "Tech Corp is a leader in the Technology industry.",
+      "employees": "500-1000",
+      "industry": "Technology",
+      "website": "https://techcorp.com"
+    },
+    "salary": "56000 - 96000",
+    "employeeType": "Full-time",
+    "ageLimit": "30-45 years",
+    "experience": "1-3 years",
+    "education": "Master's degree",
+    "preferredFaculties": [
+      "Finance",
+      "Mechanical Engineering",
+      "Business Administration"
+    ]
+  },
+  {
+    "id": "22",
+    "position": "Construction Project Manager",
+    "company": "EduWorld",
+    "logo": "/eduworld.png",
+    "level": "Mid Level",
+    "openings": 1,
+    "closingDate": "2025-11-04",
+    "location": "Berlin, Germany",
+    "description": "We are looking for a Construction Project Manager to join our team at EduWorld.",
+    "responsibilities": [
+      "Perform key responsibilities related to Construction Project Manager.",
+      "Collaborate with cross-functional teams.",
+      "Ensure high-quality outcomes and timely delivery."
+    ],
+    "qualifications": [
+      "Relevant degree or certification.",
+      "Experience in education or related field.",
+      "Strong communication and problem-solving skills."
+    ],
+    "companyInfo": {
+      "name": "EduWorld",
+      "description": "EduWorld is a leader in the Education industry.",
+      "employees": "1000-5000",
+      "industry": "Education",
+      "website": "https://eduworld.com"
+    },
+    "salary": "37000 - 74000",
+    "employeeType": "Internship",
+    "ageLimit": "25-35 years",
+    "experience": "5-10 years",
+    "education": "Bachelor's degree",
+    "preferredFaculties": ["Marketing", "Computer Science", "Education"]
+  },
+  {
+    "id": "23",
+    "position": "Graphic Designer",
+    "company": "EduWorld",
+    "logo": "/eduworld.png",
+    "level": "Mid Level",
+    "openings": 1,
+    "closingDate": "2025-10-05",
+    "location": "Sydney, Australia",
+    "description": "We are looking for a Graphic Designer to join our team at EduWorld.",
+    "responsibilities": [
+      "Perform key responsibilities related to Graphic Designer.",
+      "Collaborate with cross-functional teams.",
+      "Ensure high-quality outcomes and timely delivery."
+    ],
+    "qualifications": [
+      "Relevant degree or certification.",
+      "Experience in education or related field.",
+      "Strong communication and problem-solving skills."
+    ],
+    "companyInfo": {
+      "name": "EduWorld",
+      "description": "EduWorld is a leader in the Education industry.",
+      "employees": "1000-5000",
+      "industry": "Education",
+      "website": "https://eduworld.com"
+    },
+    "salary": "58000 - 76000",
+    "employeeType": "Full-time",
+    "ageLimit": "25-35 years",
+    "experience": "1-3 years",
+    "education": "PhD",
+    "preferredFaculties": [
+      "Finance",
+      "Information Technology",
+      "Business Administration"
+    ]
+  },
+  {
+    "id": "24",
+    "position": "Marketing Specialist",
+    "company": "EduWorld",
+    "logo": "/eduworld.png",
+    "level": "Senior Level",
+    "openings": 1,
+    "closingDate": "2025-10-11",
+    "location": "Tokyo, Japan",
+    "description": "We are looking for a Marketing Specialist to join our team at EduWorld.",
+    "responsibilities": [
+      "Perform key responsibilities related to Marketing Specialist.",
+      "Collaborate with cross-functional teams.",
+      "Ensure high-quality outcomes and timely delivery."
+    ],
+    "qualifications": [
+      "Relevant degree or certification.",
+      "Experience in education or related field.",
+      "Strong communication and problem-solving skills."
+    ],
+    "companyInfo": {
+      "name": "EduWorld",
+      "description": "EduWorld is a leader in the Education industry.",
+      "employees": "100-500",
+      "industry": "Education",
+      "website": "https://eduworld.com"
+    },
+    "salary": "34000 - 91000",
+    "employeeType": "Full-time",
+    "ageLimit": "30-45 years",
+    "experience": "3-5 years",
+    "education": "Master's degree",
+    "preferredFaculties": ["Civil Engineering", "Education", "Medicine"]
+  },
+  {
+    "id": "25",
+    "position": "Social Media Manager",
+    "company": "BuildRight",
+    "logo": "/buildright.png",
+    "level": "Entry Level",
+    "openings": 4,
+    "closingDate": "2025-10-31",
+    "location": "London, UK",
+    "description": "We are looking for a Social Media Manager to join our team at BuildRight.",
+    "responsibilities": [
+      "Perform key responsibilities related to Social Media Manager.",
+      "Collaborate with cross-functional teams.",
+      "Ensure high-quality outcomes and timely delivery."
+    ],
+    "qualifications": [
+      "Relevant degree or certification.",
+      "Experience in construction or related field.",
+      "Strong communication and problem-solving skills."
+    ],
+    "companyInfo": {
+      "name": "BuildRight",
+      "description": "BuildRight is a leader in the Construction industry.",
+      "employees": "500-1000",
+      "industry": "Construction",
+      "website": "https://buildright.com"
+    },
+    "salary": "39000 - 72000",
+    "employeeType": "Full-time",
+    "ageLimit": "25-35 years",
+    "experience": "5-10 years",
+    "education": "PhD",
+    "preferredFaculties": ["Education", "Finance", "Information Technology"]
+  },
+  {
+    "id": "26",
+    "position": "Content Writer",
+    "company": "Health Plus",
+    "logo": "/healthplus.png",
+    "level": "Mid Level",
+    "openings": 5,
+    "closingDate": "2025-09-21",
+    "location": "Tokyo, Japan",
+    "description": "We are looking for a Content Writer to join our team at Health Plus.",
+    "responsibilities": [
+      "Perform key responsibilities related to Content Writer.",
+      "Collaborate with cross-functional teams.",
+      "Ensure high-quality outcomes and timely delivery."
+    ],
+    "qualifications": [
+      "Relevant degree or certification.",
+      "Experience in healthcare or related field.",
+      "Strong communication and problem-solving skills."
+    ],
+    "companyInfo": {
+      "name": "Health Plus",
+      "description": "Health Plus is a leader in the Healthcare industry.",
+      "employees": "100-500",
+      "industry": "Healthcare",
+      "website": "https://healthplus.com"
+    },
+    "salary": "54000 - 98000",
+    "employeeType": "Part-time",
+    "ageLimit": "30-45 years",
+    "experience": "5-10 years",
+    "education": "Master's degree",
+    "preferredFaculties": [
+      "Marketing",
+      "Civil Engineering",
+      "Information Technology"
+    ]
+  },
+  {
+    "id": "27",
+    "position": "Human Resources Manager",
+    "company": "Health Plus",
+    "logo": "/healthplus.png",
+    "level": "Entry Level",
+    "openings": 5,
+    "closingDate": "2025-10-31",
+    "location": "Tokyo, Japan",
+    "description": "We are looking for a Human Resources Manager to join our team at Health Plus.",
+    "responsibilities": [
+      "Perform key responsibilities related to Human Resources Manager.",
+      "Collaborate with cross-functional teams.",
+      "Ensure high-quality outcomes and timely delivery."
+    ],
+    "qualifications": [
+      "Relevant degree or certification.",
+      "Experience in healthcare or related field.",
+      "Strong communication and problem-solving skills."
+    ],
+    "companyInfo": {
+      "name": "Health Plus",
+      "description": "Health Plus is a leader in the Healthcare industry.",
+      "employees": "1000-5000",
+      "industry": "Healthcare",
+      "website": "https://healthplus.com"
+    },
+    "salary": "56000 - 75000",
+    "employeeType": "Contract",
+    "ageLimit": null,
+    "experience": "1-3 years",
+    "education": "Master's degree",
+    "preferredFaculties": ["Computer Science", "Civil Engineering", "Marketing"]
+  },
+  {
+    "id": "28",
+    "position": "Financial Analyst",
+    "company": "EduWorld",
+    "logo": "/eduworld.png",
+    "level": "Entry Level",
+    "openings": 4,
+    "closingDate": "2025-09-17",
+    "location": "Tokyo, Japan",
+    "description": "We are looking for a Financial Analyst to join our team at EduWorld.",
+    "responsibilities": [
+      "Perform key responsibilities related to Financial Analyst.",
+      "Collaborate with cross-functional teams.",
+      "Ensure high-quality outcomes and timely delivery."
+    ],
+    "qualifications": [
+      "Relevant degree or certification.",
+      "Experience in education or related field.",
+      "Strong communication and problem-solving skills."
+    ],
+    "companyInfo": {
+      "name": "EduWorld",
+      "description": "EduWorld is a leader in the Education industry.",
+      "employees": "1000-5000",
+      "industry": "Education",
+      "website": "https://eduworld.com"
+    },
+    "salary": "40000 - 87000",
+    "employeeType": "Internship",
+    "ageLimit": "25-35 years",
+    "experience": "1-3 years",
+    "education": "Bachelor's degree",
+    "preferredFaculties": ["Marketing", "Finance", "Business Administration"]
+  },
+  {
+    "id": "29",
+    "position": "Accountant",
+    "company": "EduWorld",
+    "logo": "/eduworld.png",
+    "level": "Senior Level",
+    "openings": 2,
+    "closingDate": "2025-10-31",
+    "location": "Toronto, Canada",
+    "description": "We are looking for a Accountant to join our team at EduWorld.",
+    "responsibilities": [
+      "Perform key responsibilities related to Accountant.",
+      "Collaborate with cross-functional teams.",
+      "Ensure high-quality outcomes and timely delivery."
+    ],
+    "qualifications": [
+      "Relevant degree or certification.",
+      "Experience in education or related field.",
+      "Strong communication and problem-solving skills."
+    ],
+    "companyInfo": {
+      "name": "EduWorld",
+      "description": "EduWorld is a leader in the Education industry.",
+      "employees": "1000-5000",
+      "industry": "Education",
+      "website": "https://eduworld.com"
+    },
+    "salary": "33000 - 72000",
+    "employeeType": "Internship",
+    "ageLimit": "30-45 years",
+    "experience": "3-5 years",
+    "education": "PhD",
+    "preferredFaculties": [
+      "Mechanical Engineering",
+      "Education",
+      "Business Administration"
+    ]
+  },
+  {
+    "id": "30",
+    "position": "Customer Success Manager",
+    "company": "Health Plus",
+    "logo": "/healthplus.png",
+    "level": "Mid Level",
+    "openings": 4,
+    "closingDate": "2025-11-15",
+    "location": "Toronto, Canada",
+    "description": "We are looking for a Customer Success Manager to join our team at Health Plus.",
+    "responsibilities": [
+      "Perform key responsibilities related to Customer Success Manager.",
+      "Collaborate with cross-functional teams.",
+      "Ensure high-quality outcomes and timely delivery."
+    ],
+    "qualifications": [
+      "Relevant degree or certification.",
+      "Experience in healthcare or related field.",
+      "Strong communication and problem-solving skills."
+    ],
+    "companyInfo": {
+      "name": "Health Plus",
+      "description": "Health Plus is a leader in the Healthcare industry.",
+      "employees": "1000-5000",
+      "industry": "Healthcare",
+      "website": "https://healthplus.com"
+    },
+    "salary": "31000 - 89000",
+    "employeeType": "Part-time",
+    "ageLimit": "30-45 years",
+    "experience": "1-3 years",
+    "education": "Bachelor's degree",
+    "preferredFaculties": [
+      "Mechanical Engineering",
+      "Medicine",
+      "Business Administration"
+    ]
+  },
+  {
+    "id": "31",
+    "position": "Data Analyst",
+    "company": "Tech Corp",
+    "logo": "/techcorp.png",
+    "level": "Entry Level",
+    "openings": 5,
+    "closingDate": "2025-12-01",
+    "location": "San Francisco, USA",
+    "description": "We are looking for a Data Analyst to join our team at Tech Corp.",
+    "responsibilities": [
+      "Interpret data, analyze results using statistical techniques.",
+      "Develop and implement databases, data collection systems, data analytics and other strategies that optimize statistical efficiency and quality.",
+      "Acquire data from primary or secondary data sources and maintain databases/data systems."
+    ],
+    "qualifications": [
+      "Proven working experience as a data analyst or business data analyst.",
+      "Technical expertise regarding data models, database design development, data mining and segmentation techniques.",
+      "Strong knowledge of and experience with reporting packages (Business Objects etc), databases (SQL etc), programming (XML, Javascript, or ETL frameworks)."
+    ],
+    "companyInfo": {
+      "name": "Tech Corp",
+      "description": "Tech Corp is a leader in the Technology industry.",
+      "employees": "1000-5000",
+      "industry": "Technology",
+      "website": "https://techcorp.com"
+    },
+    "salary": "60000 - 80000",
+    "employeeType": "Full-time",
+    "ageLimit": null,
+    "experience": "1-3 years",
+    "education": "Bachelor's degree",
+    "preferredFaculties": ["Computer Science", "Statistics", "Mathematics"]
+  },
+  {
+    "id": "32",
+    "position": "Business Analyst",
+    "company": "FinEdge",
+    "logo": "/finedge.png",
+    "level": "Mid Level",
+    "openings": 3,
+    "closingDate": "2025-11-25",
+    "location": "London, UK",
+    "description": "We are looking for a Business Analyst to join our team at FinEdge.",
+    "responsibilities": [
+      "Liaising with stakeholders to understand their requirements.",
+      "Analyzing and documenting business processes.",
+      "Identifying areas for improvement and suggesting solutions."
+    ],
+    "qualifications": [
+      "A degree in business or a related field.",
+      "Experience in business analysis or a related field.",
+      "Excellent communication and interpersonal skills."
+    ],
+    "companyInfo": {
+      "name": "FinEdge",
+      "description": "FinEdge is a leader in the Finance industry.",
+      "employees": "500-1000",
+      "industry": "Finance",
+      "website": "https://finedge.com"
+    },
+    "salary": "65000 - 85000",
+    "employeeType": "Full-time",
+    "ageLimit": "28-40 years",
+    "experience": "3-5 years",
+    "education": "Master's degree",
+    "preferredFaculties": ["Business Administration", "Finance", "Economics"]
+  },
+  {
+    "id": "33",
+    "position": "Systems Administrator",
+    "company": "Health Plus",
+    "logo": "/healthplus.png",
+    "level": "Mid Level",
+    "openings": 2,
+    "closingDate": "2025-12-10",
+    "location": "Toronto, Canada",
+    "description": "We are looking for a Systems Administrator to join our team at Health Plus.",
+    "responsibilities": [
+      "Install and configure software and hardware.",
+      "Manage network servers and technology tools.",
+      "Set up accounts and workstations."
+    ],
+    "qualifications": [
+      "Proven experience as a System Administrator, Network Administrator or similar role.",
+      "Experience with databases, networks (LAN, WAN) and patch management.",
+      "Knowledge of system security (e.g. intrusion detection systems) and data backup/recovery."
+    ],
+    "companyInfo": {
+      "name": "Health Plus",
+      "description": "Health Plus is a leader in the Healthcare industry.",
+      "employees": "1000-5000",
+      "industry": "Healthcare",
+      "website": "https://healthplus.com"
+    },
+    "salary": "70000 - 90000",
+    "employeeType": "Full-time",
+    "ageLimit": null,
+    "experience": "3-5 years",
+    "education": "Bachelor's degree",
+    "preferredFaculties": [
+      "Information Technology",
+      "Computer Science",
+      "Network Engineering"
+    ]
+  },
+  {
+    "id": "34",
+    "position": "Network Engineer",
+    "company": "BuildRight",
+    "logo": "/buildright.png",
+    "level": "Senior Level",
+    "openings": 1,
+    "closingDate": "2025-11-30",
+    "location": "Sydney, Australia",
+    "description": "We are looking for a Network Engineer to join our team at BuildRight.",
+    "responsibilities": [
+      "Design and implement new network solutions and/or improve the efficiency of current networks.",
+      "Install, configure and support network equipment including routers, proxy servers, switches, WAN accelerators, DNS and DHCP.",
+      "Procure network equipment and manage subcontractors involved with network installation."
+    ],
+    "qualifications": [
+      "Proven hands-on network engineering experience.",
+      "CCNP or higher (CCIE and/or CISSP highly valued).",
+      "Deep understanding of networking protocols (e.g., IPSEC, HSRP, BGP, OSPF, 802.11, QoS)."
+    ],
+    "companyInfo": {
+      "name": "BuildRight",
+      "description": "BuildRight is a leader in the Construction industry.",
+      "employees": "500-1000",
+      "industry": "Construction",
+      "website": "https://buildright.com"
+    },
+    "salary": "80000 - 110000",
+    "employeeType": "Full-time",
+    "ageLimit": "30-50 years",
+    "experience": "5-10 years",
+    "education": "Bachelor's degree",
+    "preferredFaculties": [
+      "Computer Science",
+      "Electrical Engineering",
+      "Information Technology"
+    ]
+  },
+  {
+    "id": "35",
+    "position": "Database Administrator",
+    "company": "EduWorld",
+    "logo": "/eduworld.png",
+    "level": "Mid Level",
+    "openings": 2,
+    "closingDate": "2025-12-15",
+    "location": "New York, USA",
+    "description": "We are looking for a Database Administrator to join our team at EduWorld.",
+    "responsibilities": [
+      "Build database systems of high availability and quality depending on each end user's specialised role.",
+      "Design and implement database in accordance to end users information needs and views.",
+      "Define users and enable data distribution to the right user, in appropriate format and in a timely manner."
+    ],
+    "qualifications": [
+      "Proven working experience as a Database administrator.",
+      "Hands-on experience with database standards and end user applications.",
+      "Excellent knowledge of data backup, recovery, security, integrity and SQL."
+    ],
+    "companyInfo": {
+      "name": "EduWorld",
+      "description": "EduWorld is a leader in the Education industry.",
+      "employees": "1000-5000",
+      "industry": "Education",
+      "website": "https://eduworld.com"
+    },
+    "salary": "75000 - 95000",
+    "employeeType": "Full-time",
+    "ageLimit": null,
+    "experience": "3-5 years",
+    "education": "Bachelor's degree",
+    "preferredFaculties": [
+      "Computer Science",
+      "Information Systems",
+      "Software Engineering"
+    ]
+  },
+  {
+    "id": "36",
+    "position": "IT Support Specialist",
+    "company": "DesignHub",
+    "logo": "/designhub.png",
+    "level": "Entry Level",
+    "openings": 4,
+    "closingDate": "2025-12-05",
+    "location": "Berlin, Germany",
+    "description": "We are looking for an IT Support Specialist to join our team at DesignHub.",
+    "responsibilities": [
+      "Serve as the first point of contact for customers seeking technical assistance over the phone or email.",
+      "Perform remote troubleshooting through diagnostic techniques and pertinent questions.",
+      "Determine the best solution based on the issue and details provided by customers."
+    ],
+    "qualifications": [
+      "Proven experience as an IT Support Specialist or other customer support role.",
+      "Tech savvy with working knowledge of office automation products, databases and remote control.",
+      "Good understanding of computer systems, mobile devices and other tech products."
+    ],
+    "companyInfo": {
+      "name": "DesignHub",
+      "description": "DesignHub is a leader in the Creative industry.",
+      "employees": "500-1000",
+      "industry": "Creative",
+      "website": "https://designhub.com"
+    },
+    "salary": "45000 - 60000",
+    "employeeType": "Full-time",
+    "ageLimit": "22-35 years",
+    "experience": "1-3 years",
+    "education": "Bachelor's degree",
+    "preferredFaculties": [
+      "Information Technology",
+      "Computer Science",
+      "Customer Service"
+    ]
+  },
+  {
+    "id": "37",
+    "position": "Medical Doctor",
+    "company": "Health Plus",
+    "logo": "/healthplus.png",
+    "level": "Senior Level",
+    "openings": 3,
+    "closingDate": "2026-01-15",
+    "location": "Bangkok, Thailand",
+    "description": "We are looking for an experienced Medical Doctor to join our team at Health Plus.",
+    "responsibilities": [
+      "Diagnose and treat various medical conditions.",
+      "Prescribe medication and provide medical advice to patients.",
+      "Collaborate with other healthcare professionals to provide the best care."
+    ],
+    "qualifications": [
+      "Medical degree (MD or equivalent).",
+      "Valid medical license to practice.",
+      "Specialization in a particular field is a plus."
+    ],
+    "companyInfo": {
+      "name": "Health Plus",
+      "description": "Health Plus is a leader in the Healthcare industry.",
+      "employees": "1000-5000",
+      "industry": "Healthcare",
+      "website": "https://healthplus.com"
+    },
+    "salary": "120000 - 200000",
+    "employeeType": "Full-time",
+    "ageLimit": null,
+    "experience": "5-10 years",
+    "education": "PhD",
+    "preferredFaculties": ["Medicine", "Surgery", "Internal Medicine"]
+  },
+  {
+    "id": "38",
+    "position": "Research Scientist",
+    "company": "Innovate Inc.",
+    "logo": "/innovateinc.png",
+    "level": "Senior Level",
+    "openings": 2,
+    "closingDate": "2025-12-20",
+    "location": "San Francisco, USA",
+    "description": "We are looking for a Research Scientist to join our team at Innovate Inc.",
+    "responsibilities": [
+      "Conduct research in a specific scientific field.",
+      "Analyze data and publish research findings.",
+      "Collaborate with other researchers and scientists."
+    ],
+    "qualifications": [
+      "PhD in a relevant scientific field.",
+      "Proven track record of research and publications.",
+      "Strong analytical and problem-solving skills."
+    ],
+    "companyInfo": {
+      "name": "Innovate Inc.",
+      "description": "Innovate Inc. is a leader in the Technology industry.",
+      "employees": "500-1000",
+      "industry": "Technology",
+      "website": "https://innovateinc.com"
+    },
+    "salary": "90000 - 130000",
+    "employeeType": "Full-time",
+    "ageLimit": null,
+    "experience": "5-10 years",
+    "education": "PhD",
+    "preferredFaculties": ["Computer Science", "Physics", "Biology"]
+  },
+  {
+    "id": "39",
+    "position": "Lab Technician",
+    "company": "GreenSolutions",
+    "logo": "/greensolutions.png",
+    "level": "Entry Level",
+    "openings": 3,
+    "closingDate": "2025-11-28",
+    "location": "Paris, France",
+    "description": "We are looking for a Lab Technician to join our team at GreenSolutions.",
+    "responsibilities": [
+      "Perform laboratory tests and experiments.",
+      "Maintain lab equipment and supplies.",
+      "Record and analyze data."
+    ],
+    "qualifications": [
+      "Bachelor's degree in a scientific field.",
+      "Experience working in a laboratory setting.",
+      "Attention to detail and accuracy."
+    ],
+    "companyInfo": {
+      "name": "GreenSolutions",
+      "description": "GreenSolutions is a leader in the Environmental industry.",
+      "employees": "100-500",
+      "industry": "Environmental",
+      "website": "https://greensolutions.com"
+    },
+    "salary": "40000 - 55000",
+    "employeeType": "Full-time",
+    "ageLimit": "22-30 years",
+    "experience": "1-3 years",
+    "education": "Bachelor's degree",
+    "preferredFaculties": ["Chemistry", "Biology", "Environmental Science"]
+  },
+  {
+    "id": "40",
+    "position": "Sales Representative",
+    "company": "AutoDrive",
+    "logo": "/autodrive.png",
+    "level": "Mid Level",
+    "openings": 5,
+    "closingDate": "2025-12-12",
+    "location": "Dubai, UAE",
+    "description": "We are looking for a Sales Representative to join our team at AutoDrive.",
+    "responsibilities": [
+      "Sell products and services to customers.",
+      "Build and maintain relationships with clients.",
+      "Meet sales targets and goals."
+    ],
+    "qualifications": [
+      "Proven sales experience.",
+      "Excellent communication and negotiation skills.",
+      "Ability to work independently and as part of a team."
+    ],
+    "companyInfo": {
+      "name": "AutoDrive",
+      "description": "AutoDrive is a leader in the Automotive industry.",
+      "employees": "1000-5000",
+      "industry": "Automotive",
+      "website": "https://autodrive.com"
+    },
+    "salary": "50000 - 70000",
+    "employeeType": "Full-time",
+    "ageLimit": null,
+    "experience": "3-5 years",
+    "education": "Bachelor's degree",
+    "preferredFaculties": ["Marketing", "Business Administration", "Sales"]
+  },
+  {
+    "id": "41",
+    "position": "Marketing Manager",
+    "company": "FoodieFinds",
+    "logo": "/foodiefinds.png",
+    "level": "Senior Level",
+    "openings": 1,
+    "closingDate": "2025-12-18",
+    "location": "Mumbai, India",
+    "description": "We are looking for a Marketing Manager to join our team at FoodieFinds.",
+    "responsibilities": [
+      "Develop and implement marketing strategies.",
+      "Manage marketing campaigns and budgets.",
+      "Analyze market trends and customer insights."
+    ],
+    "qualifications": [
+      "Master's degree in marketing or a related field.",
+      "Proven experience as a marketing manager.",
+      "Strong leadership and communication skills."
+    ],
+    "companyInfo": {
+      "name": "FoodieFinds",
+      "description": "FoodieFinds is a leader in the Food & Beverage industry.",
+      "employees": "500-1000",
+      "industry": "Food & Beverage",
+      "website": "https://foodiefinds.com"
+    },
+    "salary": "80000 - 110000",
+    "employeeType": "Full-time",
+    "ageLimit": "30-45 years",
+    "experience": "5-10 years",
+    "education": "Master's degree",
+    "preferredFaculties": [
+      "Marketing",
+      "Business Administration",
+      "Communications"
+    ]
+  },
+  {
+    "id": "42",
+    "position": "Operations Manager",
+    "company": "BuildRight",
+    "logo": "/buildright.png",
+    "level": "Senior Level",
+    "openings": 1,
+    "closingDate": "2026-01-10",
+    "location": "London, UK",
+    "description": "We are looking for an Operations Manager to join our team at BuildRight.",
+    "responsibilities": [
+      "Manage day-to-day operations.",
+      "Improve operational efficiency and processes.",
+      "Ensure compliance with safety and quality standards."
+    ],
+    "qualifications": [
+      "Bachelor's degree in business administration or a related field.",
+      "Proven experience as an operations manager.",
+      "Strong leadership and problem-solving skills."
+    ],
+    "companyInfo": {
+      "name": "BuildRight",
+      "description": "BuildRight is a leader in the Construction industry.",
+      "employees": "1000-5000",
+      "industry": "Construction",
+      "website": "https://buildright.com"
+    },
+    "salary": "90000 - 120000",
+    "employeeType": "Full-time",
+    "ageLimit": null,
+    "experience": "5-10 years",
+    "education": "Bachelor's degree",
+    "preferredFaculties": [
+      "Business Administration",
+      "Operations Management",
+      "Engineering"
+    ]
+  },
+  {
+    "id": "43",
+    "position": "Project Manager",
+    "company": "Tech Corp",
+    "logo": "/techcorp.png",
+    "level": "Mid Level",
+    "openings": 3,
+    "closingDate": "2025-12-22",
+    "location": "Berlin, Germany",
+    "description": "We are looking for a Project Manager to join our team at Tech Corp.",
+    "responsibilities": [
+      "Plan and manage projects from start to finish.",
+      "Coordinate with cross-functional teams.",
+      "Ensure projects are delivered on time and within budget."
+    ],
+    "qualifications": [
+      "Bachelor's degree in a related field.",
+      "PMP certification is a plus.",
+      "Proven experience in project management."
+    ],
+    "companyInfo": {
+      "name": "Tech Corp",
+      "description": "Tech Corp is a leader in the Technology industry.",
+      "employees": "1000-5000",
+      "industry": "Technology",
+      "website": "https://techcorp.com"
+    },
+    "salary": "75000 - 95000",
+    "employeeType": "Full-time",
+    "ageLimit": "28-40 years",
+    "experience": "3-5 years",
+    "education": "Bachelor's degree",
+    "preferredFaculties": [
+      "Project Management",
+      "Business Administration",
+      "Computer Science"
+    ]
+  },
+  {
+    "id": "44",
+    "position": "Logistics Coordinator",
+    "company": "AutoDrive",
+    "logo": "/autodrive.png",
+    "level": "Entry Level",
+    "openings": 2,
+    "closingDate": "2025-12-08",
+    "location": "Tokyo, Japan",
+    "description": "We are looking for a Logistics Coordinator to join our team at AutoDrive.",
+    "responsibilities": [
+      "Coordinate and monitor supply chain operations.",
+      "Ensure timely delivery of goods.",
+      "Manage inventory and logistics documentation."
+    ],
+    "qualifications": [
+      "Bachelor's degree in supply chain management or a related field.",
+      "Experience in logistics or a related field.",
+      "Strong organizational and communication skills."
+    ],
+    "companyInfo": {
+      "name": "AutoDrive",
+      "description": "AutoDrive is a leader in the Automotive industry.",
+      "employees": "1000-5000",
+      "industry": "Automotive",
+      "website": "https://autodrive.com"
+    },
+    "salary": "45000 - 60000",
+    "employeeType": "Full-time",
+    "ageLimit": null,
+    "experience": "1-3 years",
+    "education": "Bachelor's degree",
+    "preferredFaculties": [
+      "Supply Chain Management",
+      "Logistics",
+      "Business Administration"
+    ]
+  },
+  {
+    "id": "45",
+    "position": "Supply Chain Manager",
+    "company": "GreenSolutions",
+    "logo": "/greensolutions.png",
+    "level": "Senior Level",
+    "openings": 1,
+    "closingDate": "2026-01-05",
+    "location": "Singapore",
+    "description": "We are looking for a Supply Chain Manager to join our team at GreenSolutions.",
+    "responsibilities": [
+      "Manage the entire supply chain from procurement to delivery.",
+      "Optimize supply chain processes and reduce costs.",
+      "Collaborate with suppliers and partners."
+    ],
+    "qualifications": [
+      "Master's degree in supply chain management or a related field.",
+      "Proven experience as a supply chain manager.",
+      "Strong analytical and negotiation skills."
+    ],
+    "companyInfo": {
+      "name": "GreenSolutions",
+      "description": "GreenSolutions is a leader in the Environmental industry.",
+      "employees": "500-1000",
+      "industry": "Environmental",
+      "website": "https://greensolutions.com"
+    },
+    "salary": "90000 - 120000",
+    "employeeType": "Full-time",
+    "ageLimit": "35-50 years",
+    "experience": "5-10 years",
+    "education": "Master's degree",
+    "preferredFaculties": [
+      "Supply Chain Management",
+      "Business Administration",
+      "Logistics"
+    ]
+  },
+  {
+    "id": "46",
+    "position": "AI Specialist",
+    "company": "Innovate Inc.",
+    "logo": "/innovateinc.png",
+    "level": "Mid Level",
+    "openings": 4,
+    "closingDate": "2025-12-28",
+    "location": "San Francisco, USA",
+    "description": "We are looking for an AI Specialist to join our team at Innovate Inc.",
+    "responsibilities": [
+      "Develop and implement AI models and algorithms.",
+      "Work with large datasets to train and validate models.",
+      "Collaborate with software engineers to integrate AI solutions."
+    ],
+    "qualifications": [
+      "Master's or PhD in Computer Science, AI, or a related field.",
+      "Experience with machine learning frameworks like TensorFlow or PyTorch.",
+      "Strong programming skills in Python or C++."
+    ],
+    "companyInfo": {
+      "name": "Innovate Inc.",
+      "description": "Innovate Inc. is a leader in the Technology industry.",
+      "employees": "500-1000",
+      "industry": "Technology",
+      "website": "https://innovateinc.com"
+    },
+    "salary": "100000 - 140000",
+    "employeeType": "Full-time",
+    "ageLimit": null,
+    "experience": "3-5 years",
+    "education": "Master's degree",
+    "preferredFaculties": [
+      "Artificial Intelligence",
+      "Computer Science",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "47",
+    "position": "Robotics Engineer",
+    "company": "AutoDrive",
+    "logo": "/autodrive.png",
+    "level": "Senior Level",
+    "openings": 2,
+    "closingDate": "2026-01-20",
+    "location": "Tokyo, Japan",
+    "description": "We are looking for a Robotics Engineer to join our team at AutoDrive.",
+    "responsibilities": [
+      "Design, build, and test robotic systems.",
+      "Develop software for robotic control and automation.",
+      "Troubleshoot and maintain robotic equipment."
+    ],
+    "qualifications": [
+      "Bachelor's or Master's degree in Robotics, Mechanical Engineering, or a related field.",
+      "Experience with ROS (Robot Operating System).",
+      "Strong knowledge of kinematics, dynamics, and control systems."
+    ],
+    "companyInfo": {
+      "name": "AutoDrive",
+      "description": "AutoDrive is a leader in the Automotive industry.",
+      "employees": "1000-5000",
+      "industry": "Automotive",
+      "website": "https://autodrive.com"
+    },
+    "salary": "90000 - 130000",
+    "employeeType": "Full-time",
+    "ageLimit": null,
+    "experience": "5-10 years",
+    "education": "Master's degree",
+    "preferredFaculties": [
+      "Robotics",
+      "Mechanical Engineering",
+      "Electrical Engineering"
+    ]
+  },
+  {
+    "id": "48",
+    "position": "Biomedical Engineer",
+    "company": "Health Plus",
+    "logo": "/healthplus.png",
+    "level": "Mid Level",
+    "openings": 3,
+    "closingDate": "2026-01-12",
+    "location": "Toronto, Canada",
+    "description": "We are looking for a Biomedical Engineer to join our team at Health Plus.",
+    "responsibilities": [
+      "Design and develop medical devices and equipment.",
+      "Conduct research to solve clinical problems.",
+      "Ensure compliance with regulatory standards."
+    ],
+    "qualifications": [
+      "Bachelor's or Master's degree in Biomedical Engineering.",
+      "Experience in medical device design and development.",
+      "Knowledge of FDA regulations and ISO standards."
+    ],
+    "companyInfo": {
+      "name": "Health Plus",
+      "description": "Health Plus is a leader in the Healthcare industry.",
+      "employees": "1000-5000",
+      "industry": "Healthcare",
+      "website": "https://healthplus.com"
+    },
+    "salary": "70000 - 95000",
+    "employeeType": "Full-time",
+    "ageLimit": null,
+    "experience": "3-5 years",
+    "education": "Master's degree",
+    "preferredFaculties": [
+      "Biomedical Engineering",
+      "Mechanical Engineering",
+      "Electrical Engineering"
+    ]
+  },
+  {
+    "id": "49",
+    "position": "Environmental Scientist",
+    "company": "GreenSolutions",
+    "logo": "/greensolutions.png",
+    "level": "Mid Level",
+    "openings": 2,
+    "closingDate": "2025-12-25",
+    "location": "Paris, France",
+    "description": "We are looking for an Environmental Scientist to join our team at GreenSolutions.",
+    "responsibilities": [
+      "Conduct environmental impact assessments.",
+      "Develop strategies for environmental protection and sustainability.",
+      "Monitor pollution levels and identify sources."
+    ],
+    "qualifications": [
+      "Bachelor's or Master's degree in Environmental Science or a related field.",
+      "Experience in environmental consulting or research.",
+      "Knowledge of environmental regulations and policies."
+    ],
+    "companyInfo": {
+      "name": "GreenSolutions",
+      "description": "GreenSolutions is a leader in the Environmental industry.",
+      "employees": "100-500",
+      "industry": "Environmental",
+      "website": "https://greensolutions.com"
+    },
+    "salary": "60000 - 80000",
+    "employeeType": "Full-time",
+    "ageLimit": null,
+    "experience": "3-5 years",
+    "education": "Master's degree",
+    "preferredFaculties": ["Environmental Science", "Biology", "Chemistry"]
+  },
+  {
+    "id": "50",
+    "position": "Food Scientist",
+    "company": "FoodieFinds",
+    "logo": "/foodiefinds.png",
+    "level": "Mid Level",
+    "openings": 2,
+    "closingDate": "2026-01-08",
+    "location": "Mumbai, India",
+    "description": "We are looking for a Food Scientist to join our team at FoodieFinds.",
+    "responsibilities": [
+      "Develop new food products and improve existing ones.",
+      "Ensure food safety and quality standards are met.",
+      "Conduct sensory evaluations and shelf-life studies."
+    ],
+    "qualifications": [
+      "Bachelor's or Master's degree in Food Science or a related field.",
+      "Experience in food product development.",
+      "Knowledge of food processing and preservation techniques."
+    ],
+    "companyInfo": {
+      "name": "FoodieFinds",
+      "description": "FoodieFinds is a leader in the Food & Beverage industry.",
+      "employees": "500-1000",
+      "industry": "Food & Beverage",
+      "website": "https://foodiefinds.com"
+    },
+    "salary": "65000 - 85000",
+    "employeeType": "Full-time",
+    "ageLimit": null,
+    "experience": "3-5 years",
+    "education": "Master's degree",
+    "preferredFaculties": ["Food Science", "Chemistry", "Microbiology"]
+  },
+  {
+    "id": "51",
+    "position": "Blockchain Developer",
+    "company": "FinEdge",
+    "logo": "/finedge.png",
+    "level": "Senior Level",
+    "openings": 2,
+    "closingDate": "2026-02-01",
+    "location": "Singapore",
+    "description": "We are looking for a Blockchain Developer to join our team at FinEdge.",
+    "responsibilities": [
+      "Design and implement blockchain-based applications.",
+      "Develop smart contracts and web3 integrations.",
+      "Research new blockchain technologies and trends."
+    ],
+    "qualifications": [
+      "Bachelor's or Master's degree in Computer Science or a related field.",
+      "Experience with blockchain platforms like Ethereum or Hyperledger.",
+      "Strong programming skills in Solidity, Go, or Rust."
+    ],
+    "companyInfo": {
+      "name": "FinEdge",
+      "description": "FinEdge is a leader in the Finance industry.",
+      "employees": "500-1000",
+      "industry": "Finance",
+      "website": "https://finedge.com"
+    },
+    "salary": "110000 - 150000",
+    "employeeType": "Full-time",
+    "ageLimit": null,
+    "experience": "5-10 years",
+    "education": "Bachelor's degree",
+    "preferredFaculties": [
+      "Computer Science",
+      "Software Engineering",
+      "Cryptography"
+    ]
+  },
+  {
+    "id": "52",
+    "position": "Game Developer",
+    "company": "DesignHub",
+    "logo": "/designhub.png",
+    "level": "Mid Level",
+    "openings": 3,
+    "closingDate": "2026-01-25",
+    "location": "Tokyo, Japan",
+    "description": "We are looking for a Game Developer to join our team at DesignHub.",
+    "responsibilities": [
+      "Develop games for various platforms (PC, console, mobile).",
+      "Collaborate with designers, artists, and producers.",
+      "Write clean, efficient, and well-documented code."
+    ],
+    "qualifications": [
+      "Bachelor's degree in Computer Science or a related field.",
+      "Experience with game engines like Unity or Unreal Engine.",
+      "Strong programming skills in C++ or C#."
+    ],
+    "companyInfo": {
+      "name": "DesignHub",
+      "description": "DesignHub is a leader in the Creative industry.",
+      "employees": "500-1000",
+      "industry": "Creative",
+      "website": "https://designhub.com"
+    },
+    "salary": "70000 - 90000",
+    "employeeType": "Full-time",
+    "ageLimit": null,
+    "experience": "3-5 years",
+    "education": "Bachelor's degree",
+    "preferredFaculties": [
+      "Computer Science",
+      "Game Design",
+      "Software Engineering"
+    ]
+  },
+  {
+    "id": "53",
+    "position": "Instructional Designer",
+    "company": "EduWorld",
+    "logo": "/eduworld.png",
+    "level": "Mid Level",
+    "openings": 2,
+    "closingDate": "2026-01-18",
+    "location": "New York, USA",
+    "description": "We are looking for an Instructional Designer to join our team at EduWorld.",
+    "responsibilities": [
+      "Design and develop engaging learning experiences.",
+      "Create instructional materials, including e-learning courses and videos.",
+      "Collaborate with subject matter experts to ensure content accuracy."
+    ],
+    "qualifications": [
+      "Master's degree in Instructional Design, Education, or a related field.",
+      "Experience with authoring tools like Articulate Storyline or Adobe Captivate.",
+      "Strong understanding of learning theories and instructional design models."
+    ],
+    "companyInfo": {
+      "name": "EduWorld",
+      "description": "EduWorld is a leader in the Education industry.",
+      "employees": "1000-5000",
+      "industry": "Education",
+      "website": "https://eduworld.com"
+    },
+    "salary": "65000 - 85000",
+    "employeeType": "Full-time",
+    "ageLimit": null,
+    "experience": "3-5 years",
+    "education": "Master's degree",
+    "preferredFaculties": [
+      "Instructional Design",
+      "Education",
+      "Curriculum and Instruction"
+    ]
+  },
+  {
+    "id": "54",
+    "position": "Interior Designer",
+    "company": "BuildRight",
+    "logo": "/buildright.png",
+    "level": "Mid Level",
+    "openings": 2,
+    "closingDate": "2026-02-05",
+    "location": "Dubai, UAE",
+    "description": "We are looking for an Interior Designer to join our team at BuildRight.",
+    "responsibilities": [
+      "Create functional and aesthetically pleasing interior spaces.",
+      "Develop design concepts and presentations.",
+      "Select furniture, materials, and finishes."
+    ],
+    "qualifications": [
+      "Bachelor's degree in Interior Design or a related field.",
+      "Proven experience as an interior designer.",
+      "Proficiency in design software like AutoCAD, SketchUp, and 3ds Max."
+    ],
+    "companyInfo": {
+      "name": "BuildRight",
+      "description": "BuildRight is a leader in the Construction industry.",
+      "employees": "500-1000",
+      "industry": "Construction",
+      "website": "https://buildright.com"
+    },
+    "salary": "60000 - 80000",
+    "employeeType": "Full-time",
+    "ageLimit": null,
+    "experience": "3-5 years",
+    "education": "Bachelor's degree",
+    "preferredFaculties": ["Interior Design", "Architecture", "Fine Arts"]
+  },
+  {
+    "id": "55",
+    "position": "Fashion Designer",
+    "company": "DesignHub",
+    "logo": "/designhub.png",
+    "level": "Mid Level",
+    "openings": 2,
+    "closingDate": "2026-02-10",
+    "location": "Paris, France",
+    "description": "We are looking for a Fashion Designer to join our team at DesignHub.",
+    "responsibilities": [
+      "Design and develop new clothing and accessory collections.",
+      "Create sketches, prototypes, and technical drawings.",
+      "Stay up-to-date with fashion trends and new materials."
+    ],
+    "qualifications": [
+      "Bachelor's degree in Fashion Design or a related field.",
+      "Proven experience as a fashion designer.",
+      "Strong creative and artistic skills."
+    ],
+    "companyInfo": {
+      "name": "DesignHub",
+      "description": "DesignHub is a leader in the Creative industry.",
+      "employees": "500-1000",
+      "industry": "Creative",
+      "website": "https://designhub.com"
+    },
+    "salary": "60000 - 80000",
+    "employeeType": "Full-time",
+    "ageLimit": null,
+    "experience": "3-5 years",
+    "education": "Bachelor's degree",
+    "preferredFaculties": ["Fashion Design", "Fine Arts", "Textile Design"]
+  },
+  {
+    "id": "56",
+    "position": "Chef",
+    "company": "FoodieFinds",
+    "logo": "/foodiefinds.png",
+    "level": "Senior Level",
+    "openings": 1,
+    "closingDate": "2026-01-30",
+    "location": "Mumbai, India",
+    "description": "We are looking for a creative and experienced Chef to join our team at FoodieFinds.",
+    "responsibilities": [
+      "Create and develop new menu items.",
+      "Manage kitchen staff and operations.",
+      "Ensure food quality and presentation meet high standards."
+    ],
+    "qualifications": [
+      "Culinary degree or equivalent experience.",
+      "Proven experience as a chef in a high-end restaurant.",
+      "Strong leadership and management skills."
+    ],
+    "companyInfo": {
+      "name": "FoodieFinds",
+      "description": "FoodieFinds is a leader in the Food & Beverage industry.",
+      "employees": "500-1000",
+      "industry": "Food & Beverage",
+      "website": "https://foodiefinds.com"
+    },
+    "salary": "70000 - 100000",
+    "employeeType": "Full-time",
+    "ageLimit": null,
+    "experience": "5-10 years",
+    "education": "Vocational",
+    "preferredFaculties": ["Culinary Arts", "Hospitality Management"]
+  },
+  {
+    "id": "57",
+    "position": "Pilot",
+    "company": "AeroFly",
+    "logo": "/aerofly.png",
+    "level": "Senior Level",
+    "openings": 5,
+    "closingDate": "2026-03-01",
+    "location": "Dubai, UAE",
+    "description": "We are looking for experienced Pilots to join our team at AeroFly.",
+    "responsibilities": [
+      "Operate aircraft safely and efficiently.",
+      "Conduct pre-flight checks and ensure all systems are working properly.",
+      "Communicate with air traffic control and follow all regulations."
+    ],
+    "qualifications": [
+      "Commercial Pilot License (CPL) or Airline Transport Pilot License (ATPL).",
+      "Minimum of 3000 flying hours.",
+      "Type rating on specific aircraft is a plus."
+    ],
+    "companyInfo": {
+      "name": "AeroFly",
+      "description": "AeroFly is a leading airline in the Aviation industry.",
+      "employees": "5000-10000",
+      "industry": "Aviation",
+      "website": "https://aerofly.com"
+    },
+    "salary": "150000 - 250000",
+    "employeeType": "Full-time",
+    "ageLimit": null,
+    "experience": "10+ years",
+    "education": "Vocational",
+    "preferredFaculties": ["Aviation", "Aeronautical Science"]
+  },
+  {
+    "id": "58",
+    "position": "Flight Attendant",
+    "company": "AeroFly",
+    "logo": "/aerofly.png",
+    "level": "Entry Level",
+    "openings": 10,
+    "closingDate": "2026-02-15",
+    "location": "Dubai, UAE",
+    "description": "We are looking for friendly and professional Flight Attendants to join our team at AeroFly.",
+    "responsibilities": [
+      "Ensure the safety and comfort of passengers.",
+      "Provide excellent customer service.",
+      "Conduct safety demonstrations and respond to emergencies."
+    ],
+    "qualifications": [
+      "High school diploma or equivalent.",
+      "Excellent communication and interpersonal skills.",
+      "Ability to remain calm and professional in stressful situations."
+    ],
+    "companyInfo": {
+      "name": "AeroFly",
+      "description": "AeroFly is a leading airline in the Aviation industry.",
+      "employees": "5000-10000",
+      "industry": "Aviation",
+      "website": "https://aerofly.com"
+    },
+    "salary": "40000 - 60000",
+    "employeeType": "Full-time",
+    "ageLimit": "21-35 years",
+    "experience": "0-2 years",
+    "education": "High School",
+    "preferredFaculties": ["Hospitality", "Customer Service", "Communications"]
+  },
+  {
+    "id": "59",
+    "position": "Journalist",
+    "company": "NewsNow",
+    "logo": "/newsnow.png",
+    "level": "Mid Level",
+    "openings": 3,
+    "closingDate": "2026-02-20",
+    "location": "London, UK",
+    "description": "We are looking for a talented Journalist to join our team at NewsNow.",
+    "responsibilities": [
+      "Investigate and report on news stories.",
+      "Write articles, and create content for various platforms.",
+      "Conduct interviews and build a network of sources."
+    ],
+    "qualifications": [
+      "Bachelor's degree in Journalism, Communications, or a related field.",
+      "Proven experience as a journalist.",
+      "Excellent writing and research skills."
+    ],
+    "companyInfo": {
+      "name": "NewsNow",
+      "description": "NewsNow is a leading news organization in the Media industry.",
+      "employees": "1000-5000",
+      "industry": "Media",
+      "website": "https://newsnow.com"
+    },
+    "salary": "50000 - 70000",
+    "employeeType": "Full-time",
+    "ageLimit": null,
+    "experience": "3-5 years",
+    "education": "Bachelor's degree",
+    "preferredFaculties": ["Journalism", "Communications", "Political Science"]
+  },
+  {
+    "id": "60",
+    "position": "Film Director",
+    "company": "CineMagic",
+    "logo": "/cinemagic.png",
+    "level": "Senior Level",
+    "openings": 1,
+    "closingDate": "2026-03-10",
+    "location": "Los Angeles, USA",
+    "description": "We are looking for a visionary Film Director to join our team at CineMagic.",
+    "responsibilities": [
+      "Oversee all creative aspects of a film production.",
+      "Work with actors, crew, and producers to bring a script to life.",
+      "Make key decisions on casting, cinematography, and editing."
+    ],
+    "qualifications": [
+      "Proven experience as a film director.",
+      "Strong artistic vision and storytelling skills.",
+      "Excellent leadership and communication skills."
+    ],
+    "companyInfo": {
+      "name": "CineMagic",
+      "description": "CineMagic is a leading film studio in the Entertainment industry.",
+      "employees": "500-1000",
+      "industry": "Entertainment",
+      "website": "https://cinemagic.com"
+    },
+    "salary": "100000 - 500000",
+    "employeeType": "Contract",
+    "ageLimit": null,
+    "experience": "10+ years",
+    "education": "Bachelor's degree",
+    "preferredFaculties": ["Film Production", "Directing", "Fine Arts"]
+  },
+  {
+    "id": "61",
+    "position": "Actor",
+    "company": "CineMagic",
+    "logo": "/cinemagic.png",
+    "level": "Mid Level",
+    "openings": 5,
+    "closingDate": "2026-02-25",
+    "location": "Los Angeles, USA",
+    "description": "We are looking for talented Actors to join our upcoming productions at CineMagic.",
+    "responsibilities": [
+      "Portray characters in film, television, or theater.",
+      "Memorize lines and rehearse scenes.",
+      "Collaborate with directors and other actors."
+    ],
+    "qualifications": [
+      "Formal acting training or equivalent experience.",
+      "A strong portfolio or showreel.",
+      "Ability to take direction and work well with others."
+    ],
+    "companyInfo": {
+      "name": "CineMagic",
+      "description": "CineMagic is a leading film studio in the Entertainment industry.",
+      "employees": "500-1000",
+      "industry": "Entertainment",
+      "website": "https://cinemagic.com"
+    },
+    "salary": "Varies per project",
+    "employeeType": "Contract",
+    "ageLimit": null,
+    "experience": "3-5 years",
+    "education": "Vocational",
+    "preferredFaculties": ["Acting", "Theater Arts", "Drama"]
+  },
+  {
+    "id": "62",
+    "position": "Musician",
+    "company": "SoundWave",
+    "logo": "/soundwave.png",
+    "level": "Mid Level",
+    "openings": 3,
+    "closingDate": "2026-03-05",
+    "location": "Nashville, USA",
+    "description": "We are looking for skilled Musicians to join our roster at SoundWave.",
+    "responsibilities": [
+      "Perform music in various genres and settings.",
+      "Compose and arrange music.",
+      "Record in the studio and perform live."
+    ],
+    "qualifications": [
+      "Exceptional musical talent and proficiency on an instrument or vocals.",
+      "Experience performing and recording.",
+      "Ability to read music and improvise."
+    ],
+    "companyInfo": {
+      "name": "SoundWave",
+      "description": "SoundWave is a leading record label in the Music industry.",
+      "employees": "100-500",
+      "industry": "Music",
+      "website": "https://soundwave.com"
+    },
+    "salary": "Varies per project",
+    "employeeType": "Contract",
+    "ageLimit": null,
+    "experience": "3-5 years",
+    "education": "Vocational",
+    "preferredFaculties": ["Music Performance", "Composition", "Music Theory"]
+  },
+  {
+    "id": "63",
+    "position": "Photographer",
+    "company": "PixelPerfect",
+    "logo": "/pixelperfect.png",
+    "level": "Mid Level",
+    "openings": 2,
+    "closingDate": "2026-02-28",
+    "location": "New York, USA",
+    "description": "We are looking for a creative Photographer to join our team at PixelPerfect.",
+    "responsibilities": [
+      "Capture high-quality images for various clients and projects.",
+      "Edit and retouch photos to meet specifications.",
+      "Manage photo shoots and equipment."
+    ],
+    "qualifications": [
+      "Proven experience as a photographer.",
+      "A strong portfolio of work.",
+      "Proficiency in photo editing software like Adobe Photoshop and Lightroom."
+    ],
+    "companyInfo": {
+      "name": "PixelPerfect",
+      "description": "PixelPerfect is a leading photography studio in the Creative industry.",
+      "employees": "50-100",
+      "industry": "Creative",
+      "website": "https://pixelperfect.com"
+    },
+    "salary": "50000 - 70000",
+    "employeeType": "Full-time",
+    "ageLimit": null,
+    "experience": "3-5 years",
+    "education": "Bachelor's degree",
+    "preferredFaculties": ["Photography", "Fine Arts", "Visual Arts"]
+  },
+  {
+    "id": "64",
+    "position": "Veterinarian",
+    "company": "PetCare",
+    "logo": "/petcare.png",
+    "level": "Senior Level",
+    "openings": 2,
+    "closingDate": "2026-03-15",
+    "location": "Sydney, Australia",
+    "description": "We are looking for a compassionate Veterinarian to join our team at PetCare.",
+    "responsibilities": [
+      "Diagnose and treat medical conditions in animals.",
+      "Perform surgery and other medical procedures.",
+      "Advise pet owners on animal care and nutrition."
+    ],
+    "qualifications": [
+      "Doctor of Veterinary Medicine (DVM) degree.",
+      "Valid veterinary license to practice.",
+      "Experience in a clinical or hospital setting."
+    ],
+    "companyInfo": {
+      "name": "PetCare",
+      "description": "PetCare is a leading provider of veterinary services.",
+      "employees": "100-500",
+      "industry": "Veterinary",
+      "website": "https://petcare.com"
+    },
+    "salary": "90000 - 130000",
+    "employeeType": "Full-time",
+    "ageLimit": null,
+    "experience": "5-10 years",
+    "education": "PhD",
+    "preferredFaculties": ["Veterinary Medicine", "Animal Science"]
+  },
+  {
+    "id": "65",
+    "position": "Police Officer",
+    "company": "City Police Department",
+    "logo": "/citypolice.png",
+    "level": "Entry Level",
+    "openings": 20,
+    "closingDate": "2026-04-01",
+    "location": "New York, USA",
+    "description": "We are recruiting dedicated individuals to serve as Police Officers for the City Police Department.",
+    "responsibilities": [
+      "Enforce laws and ordinances.",
+      "Respond to emergency calls and patrol assigned areas.",
+      "Investigate crimes and make arrests."
+    ],
+    "qualifications": [
+      "High school diploma or equivalent.",
+      "Must be a U.S. citizen and at least 21 years old.",
+      "Successful completion of police academy training."
+    ],
+    "companyInfo": {
+      "name": "City Police Department",
+      "description": "The City Police Department is responsible for law enforcement within the city.",
+      "employees": "10000+",
+      "industry": "Public Safety",
+      "website": "https://citypolice.gov"
+    },
+    "salary": "60000 - 90000",
+    "employeeType": "Full-time",
+    "ageLimit": "21-35 years",
+    "experience": "0-2 years",
+    "education": "High School",
+    "preferredFaculties": ["Criminal Justice", "Law Enforcement"]
+  },
+  {
+    "id": "66",
+    "position": "Firefighter",
+    "company": "City Fire Department",
+    "logo": "/cityfire.png",
+    "level": "Entry Level",
+    "openings": 15,
+    "closingDate": "2026-03-20",
+    "location": "Los Angeles, USA",
+    "description": "We are seeking brave and dedicated individuals to join the City Fire Department as Firefighters.",
+    "responsibilities": [
+      "Respond to fires and other emergencies.",
+      "Provide medical assistance and perform rescues.",
+      "Maintain firefighting equipment and participate in training drills."
+    ],
+    "qualifications": [
+      "High school diploma or equivalent.",
+      "EMT certification is required.",
+      "Successful completion of fire academy training."
+    ],
+    "companyInfo": {
+      "name": "City Fire Department",
+      "description": "The City Fire Department provides fire protection and emergency medical services.",
+      "employees": "5000-10000",
+      "industry": "Public Safety",
+      "website": "https://cityfire.gov"
+    },
+    "salary": "65000 - 95000",
+    "employeeType": "Full-time",
+    "ageLimit": "18+",
+    "experience": "0-2 years",
+    "education": "High School",
+    "preferredFaculties": ["Fire Science", "Emergency Medical Services"]
+  },
+  {
+    "id": "67",
+    "position": "Lawyer",
+    "company": "Legal Eagles",
+    "logo": "/legaleagles.png",
+    "level": "Senior Level",
+    "openings": 3,
+    "closingDate": "2026-03-12",
+    "location": "London, UK",
+    "description": "We are looking for an experienced Lawyer to join our team at Legal Eagles.",
+    "responsibilities": [
+      "Advise clients on legal matters.",
+      "Represent clients in court and legal proceedings.",
+      "Draft legal documents and conduct legal research."
+    ],
+    "qualifications": [
+      "Juris Doctor (JD) degree.",
+      "Admission to the bar in the relevant jurisdiction.",
+      "Specialization in a particular area of law (e.g., corporate, criminal, family)."
+    ],
+    "companyInfo": {
+      "name": "Legal Eagles",
+      "description": "Legal Eagles is a top-tier law firm providing a wide range of legal services.",
+      "employees": "100-500",
+      "industry": "Legal",
+      "website": "https://legaleagles.com"
+    },
+    "salary": "120000 - 200000",
+    "employeeType": "Full-time",
+    "ageLimit": null,
+    "experience": "5-10 years",
+    "education": "PhD",
+    "preferredFaculties": ["Law", "Corporate Law", "Litigation"]
+  },
+  {
+    "id": "68",
+    "position": "Paralegal",
+    "company": "Legal Eagles",
+    "logo": "/legaleagles.png",
+    "level": "Mid Level",
+    "openings": 4,
+    "closingDate": "2026-03-01",
+    "location": "London, UK",
+    "description": "We are looking for a skilled Paralegal to support our legal team at Legal Eagles.",
+    "responsibilities": [
+      "Assist lawyers with legal research and case preparation.",
+      "Draft legal documents and correspondence.",
+      "Organize and maintain case files."
+    ],
+    "qualifications": [
+      "Paralegal certificate or associate's degree in paralegal studies.",
+      "Experience working in a law firm or legal department.",
+      "Strong organizational and research skills."
+    ],
+    "companyInfo": {
+      "name": "Legal Eagles",
+      "description": "Legal Eagles is a top-tier law firm providing a wide range of legal services.",
+      "employees": "100-500",
+      "industry": "Legal",
+      "website": "https://legaleagles.com"
+    },
+    "salary": "55000 - 75000",
+    "employeeType": "Full-time",
+    "ageLimit": null,
+    "experience": "3-5 years",
+    "education": "Associate's degree",
+    "preferredFaculties": ["Paralegal Studies", "Law", "Legal Studies"]
+  },
+  {
+    "id": "69",
+    "position": "Real Estate Agent",
+    "company": "HomeFinders",
+    "logo": "/homefinders.png",
+    "level": "Mid Level",
+    "openings": 10,
+    "closingDate": "2026-04-10",
+    "location": "Sydney, Australia",
+    "description": "We are looking for motivated Real Estate Agents to join our team at HomeFinders.",
+    "responsibilities": [
+      "Help clients buy, sell, and rent properties.",
+      "Show properties to potential buyers and tenants.",
+      "Negotiate contracts and close deals."
+    ],
+    "qualifications": [
+      "Real estate license in the relevant state.",
+      "Proven sales experience.",
+      "Excellent communication and negotiation skills."
+    ],
+    "companyInfo": {
+      "name": "HomeFinders",
+      "description": "HomeFinders is a leading real estate agency.",
+      "employees": "500-1000",
+      "industry": "Real Estate",
+      "website": "https://homefinders.com"
+    },
+    "salary": "Commission-based",
+    "employeeType": "Full-time",
+    "ageLimit": null,
+    "experience": "3-5 years",
+    "education": "High School",
+    "preferredFaculties": ["Real Estate", "Sales", "Marketing"]
+  },
+  {
+    "id": "70",
+    "position": "Travel Agent",
+    "company": "Wanderlust Travel",
+    "logo": "/wanderlust.png",
+    "level": "Entry Level",
+    "openings": 5,
+    "closingDate": "2026-03-25",
+    "location": "Paris, France",
+    "description": "We are looking for passionate Travel Agents to join our team at Wanderlust Travel.",
+    "responsibilities": [
+      "Plan and book travel arrangements for clients.",
+      "Provide advice on destinations, flights, and accommodations.",
+      "Handle customer inquiries and resolve any issues."
+    ],
+    "qualifications": [
+      "Experience in the travel industry is a plus.",
+      "Strong knowledge of popular travel destinations.",
+      "Excellent customer service and communication skills."
+    ],
+    "companyInfo": {
+      "name": "Wanderlust Travel",
+      "description": "Wanderlust Travel is a full-service travel agency.",
+      "employees": "50-100",
+      "industry": "Travel & Tourism",
+      "website": "https://wanderlust.com"
+    },
+    "salary": "40000 - 55000",
+    "employeeType": "Full-time",
+    "ageLimit": null,
+    "experience": "1-3 years",
+    "education": "High School",
+    "preferredFaculties": ["Hospitality", "Tourism", "Customer Service"]
+  },
+  {
+    "id": "71",
+    "position": "Event Planner",
+    "company": "EventMasters",
+    "logo": "/eventmasters.png",
+    "level": "Mid Level",
+    "openings": 3,
+    "closingDate": "2026-03-18",
+    "location": "New York, USA",
+    "description": "We are looking for a creative and organized Event Planner to join our team at EventMasters.",
+    "responsibilities": [
+      "Plan and execute events from start to finish.",
+      "Coordinate with vendors, venues, and clients.",
+      "Manage event budgets and timelines."
+    ],
+    "qualifications": [
+      "Proven experience as an event planner.",
+      "Strong project management and organizational skills.",
+      "Excellent communication and negotiation skills."
+    ],
+    "companyInfo": {
+      "name": "EventMasters",
+      "description": "EventMasters is a leading event planning company.",
+      "employees": "100-500",
+      "industry": "Events",
+      "website": "https://eventmasters.com"
+    },
+    "salary": "55000 - 75000",
+    "employeeType": "Full-time",
+    "ageLimit": null,
+    "experience": "3-5 years",
+    "education": "Bachelor's degree",
+    "preferredFaculties": [
+      "Hospitality Management",
+      "Marketing",
+      "Communications"
+    ]
+  },
+  {
+    "id": "72",
+    "position": "Personal Trainer",
+    "company": "FitLife Gym",
+    "logo": "/fitlife.png",
+    "level": "Entry Level",
+    "openings": 5,
+    "closingDate": "2026-04-05",
+    "location": "Los Angeles, USA",
+    "description": "We are looking for certified Personal Trainers to join our team at FitLife Gym.",
+    "responsibilities": [
+      "Develop personalized fitness plans for clients.",
+      "Provide one-on-one training and guidance.",
+      "Motivate and support clients in achieving their fitness goals."
+    ],
+    "qualifications": [
+      "Personal trainer certification (e.g., ACE, NASM, ACSM).",
+      "CPR and AED certification.",
+      "Excellent communication and motivational skills."
+    ],
+    "companyInfo": {
+      "name": "FitLife Gym",
+      "description": "FitLife Gym is a state-of-the-art fitness center.",
+      "employees": "50-100",
+      "industry": "Fitness",
+      "website": "https://fitlife.com"
+    },
+    "salary": "40000 - 60000",
+    "employeeType": "Full-time",
+    "ageLimit": null,
+    "experience": "1-3 years",
+    "education": "Vocational",
+    "preferredFaculties": [
+      "Kinesiology",
+      "Exercise Science",
+      "Physical Education"
+    ]
+  },
+  {
+    "id": "73",
+    "position": "Librarian",
+    "company": "City Library",
+    "logo": "/citylibrary.png",
+    "level": "Mid Level",
+    "openings": 2,
+    "closingDate": "2026-03-28",
+    "location": "Toronto, Canada",
+    "description": "We are looking for a knowledgeable and service-oriented Librarian to join our team at the City Library.",
+    "responsibilities": [
+      "Assist patrons with research and information needs.",
+      "Manage library collections and resources.",
+      "Develop and implement library programs and services."
+    ],
+    "qualifications": [
+      "Master of Library and Information Science (MLIS) degree.",
+      "Experience working in a library setting.",
+      "Strong research and customer service skills."
+    ],
+    "companyInfo": {
+      "name": "City Library",
+      "description": "The City Library provides free access to information, resources, and services.",
+      "employees": "100-500",
+      "industry": "Library",
+      "website": "https://citylibrary.org"
+    },
+    "salary": "50000 - 70000",
+    "employeeType": "Full-time",
+    "ageLimit": null,
+    "experience": "3-5 years",
+    "education": "Master's degree",
+    "preferredFaculties": ["Library Science", "Information Science"]
+  },
+  {
+    "id": "74",
+    "position": "Museum Curator",
+    "company": "National Museum",
+    "logo": "/nationalmuseum.png",
+    "level": "Senior Level",
+    "openings": 1,
+    "closingDate": "2026-04-15",
+    "location": "Washington D.C., USA",
+    "description": "We are looking for an experienced Museum Curator to join our team at the National Museum.",
+    "responsibilities": [
+      "Manage and develop museum collections.",
+      "Plan and organize exhibitions.",
+      "Conduct research and write scholarly articles."
+    ],
+    "qualifications": [
+      "Master's or PhD in a relevant field (e.g., Art History, History, Archaeology).",
+      "Proven experience as a curator.",
+      "Strong research and writing skills."
+    ],
+    "companyInfo": {
+      "name": "National Museum",
+      "description": "The National Museum is a leading cultural institution.",
+      "employees": "500-1000",
+      "industry": "Museums & Galleries",
+      "website": "https://nationalmuseum.org"
+    },
+    "salary": "70000 - 100000",
+    "employeeType": "Full-time",
+    "ageLimit": null,
+    "experience": "5-10 years",
+    "education": "PhD",
+    "preferredFaculties": ["Art History", "Museum Studies", "History"]
+  },
+  {
+    "id": "75",
+    "position": "Social Worker",
+    "company": "Community Support Services",
+    "logo": "/communitysupport.png",
+    "level": "Mid Level",
+    "openings": 4,
+    "closingDate": "2026-04-01",
+    "location": "Chicago, USA",
+    "description": "We are looking for a compassionate Social Worker to join our team at Community Support Services.",
+    "responsibilities": [
+      "Provide counseling and support to individuals and families.",
+      "Connect clients with community resources and services.",
+      "Advocate for clients' rights and well-being."
+    ],
+    "qualifications": [
+      "Master of Social Work (MSW) degree.",
+      "Licensed Clinical Social Worker (LCSW) is a plus.",
+      "Experience in a social work setting."
+    ],
+    "companyInfo": {
+      "name": "Community Support Services",
+      "description": "Community Support Services is a non-profit organization providing social services.",
+      "employees": "100-500",
+      "industry": "Social Services",
+      "website": "https://communitysupport.org"
+    },
+    "salary": "50000 - 70000",
+    "employeeType": "Full-time",
+    "ageLimit": null,
+    "experience": "3-5 years",
+    "education": "Master's degree",
+    "preferredFaculties": ["Social Work", "Psychology", "Sociology"]
+  },
+  {
+    "id": "76",
+    "position": "Psychologist",
+    "company": "MindWell Clinic",
+    "logo": "/mindwell.png",
+    "level": "Senior Level",
+    "openings": 2,
+    "closingDate": "2026-04-20",
+    "location": "San Francisco, USA",
+    "description": "We are looking for a licensed Psychologist to join our team at MindWell Clinic.",
+    "responsibilities": [
+      "Provide psychotherapy and counseling to clients.",
+      "Conduct psychological assessments and diagnose mental health conditions.",
+      "Develop and implement treatment plans."
+    ],
+    "qualifications": [
+      "Doctor of Psychology (PsyD) or PhD in Psychology.",
+      "Licensed to practice psychology in the relevant state.",
+      "Specialization in a particular area (e.g., clinical, counseling, school)."
+    ],
+    "companyInfo": {
+      "name": "MindWell Clinic",
+      "description": "MindWell Clinic provides comprehensive mental health services.",
+      "employees": "50-100",
+      "industry": "Mental Health",
+      "website": "https://mindwell.com"
+    },
+    "salary": "90000 - 130000",
+    "employeeType": "Full-time",
+    "ageLimit": null,
+    "experience": "5-10 years",
+    "education": "PhD",
+    "preferredFaculties": [
+      "Clinical Psychology",
+      "Counseling Psychology",
+      "Psychology"
+    ]
+  },
+  {
+    "id": "77",
+    "position": "Statistician",
+    "company": "Data Insights",
+    "logo": "/datainsights.png",
+    "level": "Mid Level",
+    "openings": 2,
+    "closingDate": "2026-04-12",
+    "location": "Boston, USA",
+    "description": "We are looking for a skilled Statistician to join our team at Data Insights.",
+    "responsibilities": [
+      "Design and analyze statistical studies and experiments.",
+      "Develop statistical models and algorithms.",
+      "Interpret and communicate statistical results to stakeholders."
+    ],
+    "qualifications": [
+      "Master's or PhD in Statistics or a related field.",
+      "Experience with statistical software like R, SAS, or SPSS.",
+      "Strong analytical and problem-solving skills."
+    ],
+    "companyInfo": {
+      "name": "Data Insights",
+      "description": "Data Insights is a data analytics and consulting firm.",
+      "employees": "100-500",
+      "industry": "Data Analytics",
+      "website": "https://datainsights.com"
+    },
+    "salary": "80000 - 110000",
+    "employeeType": "Full-time",
+    "ageLimit": null,
+    "experience": "3-5 years",
+    "education": "Master's degree",
+    "preferredFaculties": ["Statistics", "Mathematics", "Data Science"]
+  },
+  {
+    "id": "78",
+    "position": "Economist",
+    "company": "Global Finance",
+    "logo": "/globalfinance.png",
+    "level": "Senior Level",
+    "openings": 1,
+    "closingDate": "2026-05-01",
+    "location": "New York, USA",
+    "description": "We are looking for an experienced Economist to join our team at Global Finance.",
+    "responsibilities": [
+      "Analyze economic data and trends.",
+      "Develop economic forecasts and models.",
+      "Provide economic advice to clients and stakeholders."
+    ],
+    "qualifications": [
+      "PhD in Economics.",
+      "Proven experience as an economist in a financial or research institution.",
+      "Strong quantitative and analytical skills."
+    ],
+    "companyInfo": {
+      "name": "Global Finance",
+      "description": "Global Finance is a leading investment bank.",
+      "employees": "5000-10000",
+      "industry": "Finance",
+      "website": "https://globalfinance.com"
+    },
+    "salary": "130000 - 180000",
+    "employeeType": "Full-time",
+    "ageLimit": null,
+    "experience": "5-10 years",
+    "education": "PhD",
+    "preferredFaculties": ["Economics", "Finance", "Econometrics"]
+  },
+  {
+    "id": "79",
+    "position": "Geologist",
+    "company": "Terra Resources",
+    "logo": "/terraresources.png",
+    "level": "Mid Level",
+    "openings": 2,
+    "closingDate": "2026-04-25",
+    "location": "Houston, USA",
+    "description": "We are looking for a Geologist to join our team at Terra Resources.",
+    "responsibilities": [
+      "Explore and identify potential oil and gas reserves.",
+      "Analyze geological data and create maps and models.",
+      "Collaborate with engineers and other geoscientists."
+    ],
+    "qualifications": [
+      "Bachelor's or Master's degree in Geology or a related field.",
+      "Experience in the oil and gas industry.",
+      "Proficiency in geological software and tools."
+    ],
+    "companyInfo": {
+      "name": "Terra Resources",
+      "description": "Terra Resources is an oil and gas exploration and production company.",
+      "employees": "1000-5000",
+      "industry": "Energy",
+      "website": "https://terraresources.com"
+    },
+    "salary": "80000 - 110000",
+    "employeeType": "Full-time",
+    "ageLimit": null,
+    "experience": "3-5 years",
+    "education": "Master's degree",
+    "preferredFaculties": ["Geology", "Geophysics", "Petroleum Engineering"]
+  },
+  {
+    "id": "80",
+    "position": "Astronomer",
+    "company": "Space Exploration Institute",
+    "logo": "/spaceinstitute.png",
+    "level": "Senior Level",
+    "openings": 1,
+    "closingDate": "2026-05-10",
+    "location": "Pasadena, USA",
+    "description": "We are looking for a passionate Astronomer to join our team at the Space Exploration Institute.",
+    "responsibilities": [
+      "Conduct astronomical research and observations.",
+      "Analyze data from telescopes and spacecraft.",
+      "Publish research findings and present at conferences."
+    ],
+    "qualifications": [
+      "PhD in Astronomy or Astrophysics.",
+      "Proven track record of research and publications.",
+      "Experience with astronomical data analysis techniques."
+    ],
+    "companyInfo": {
+      "name": "Space Exploration Institute",
+      "description": "The Space Exploration Institute is a leading research institution dedicated to space science.",
+      "employees": "500-1000",
+      "industry": "Research",
+      "website": "https://spaceinstitute.org"
+    },
+    "salary": "90000 - 130000",
+    "employeeType": "Full-time",
+    "ageLimit": null,
+    "experience": "5-10 years",
+    "education": "PhD",
+    "preferredFaculties": ["Astronomy", "Astrophysics", "Physics"]
+  },
+  {
+    "id": "81",
+    "position": "Meteorologist",
+    "company": "Weather Watch",
+    "logo": "/weatherwatch.png",
+    "level": "Mid Level",
+    "openings": 2,
+    "closingDate": "2026-04-28",
+    "location": "Miami, USA",
+    "description": "We are looking for a skilled Meteorologist to join our team at Weather Watch.",
+    "responsibilities": [
+      "Analyze weather data and create forecasts.",
+      "Issue weather warnings and alerts.",
+      "Present weather information on television or other media."
+    ],
+    "qualifications": [
+      "Bachelor's or Master's degree in Meteorology or Atmospheric Science.",
+      "Experience in weather forecasting.",
+      "Strong communication and presentation skills."
+    ],
+    "companyInfo": {
+      "name": "Weather Watch",
+      "description": "Weather Watch is a leading provider of weather forecasting services.",
+      "employees": "100-500",
+      "industry": "Media",
+      "website": "https://weatherwatch.com"
+    },
+    "salary": "60000 - 80000",
+    "employeeType": "Full-time",
+    "ageLimit": null,
+    "experience": "3-5 years",
+    "education": "Bachelor's degree",
+    "preferredFaculties": ["Meteorology", "Atmospheric Science"]
+  },
+  {
+    "id": "82",
+    "position": "Marine Biologist",
+    "company": "Oceanic Institute",
+    "logo": "/oceanicinstitute.png",
+    "level": "Mid Level",
+    "openings": 2,
+    "closingDate": "2026-05-05",
+    "location": "San Diego, USA",
+    "description": "We are looking for a dedicated Marine Biologist to join our team at the Oceanic Institute.",
+    "responsibilities": [
+      "Conduct research on marine organisms and ecosystems.",
+      "Collect and analyze data from field studies.",
+      "Contribute to conservation and management efforts."
+    ],
+    "qualifications": [
+      "Master's or PhD in Marine Biology or a related field.",
+      "Experience with fieldwork and laboratory techniques.",
+      "Strong research and writing skills."
+    ],
+    "companyInfo": {
+      "name": "Oceanic Institute",
+      "description": "The Oceanic Institute is a research organization focused on marine science.",
+      "employees": "100-500",
+      "industry": "Research",
+      "website": "https://oceanicinstitute.org"
+    },
+    "salary": "65000 - 85000",
+    "employeeType": "Full-time",
+    "ageLimit": null,
+    "experience": "3-5 years",
+    "education": "Master's degree",
+    "preferredFaculties": ["Marine Biology", "Oceanography", "Biology"]
+  },
+  {
+    "id": "83",
+    "position": "Zoologist",
+    "company": "Wildlife Conservation Society",
+    "logo": "/wildlifeconservation.png",
+    "level": "Mid Level",
+    "openings": 2,
+    "closingDate": "2026-05-15",
+    "location": "New York, USA",
+    "description": "We are looking for a passionate Zoologist to join our team at the Wildlife Conservation Society.",
+    "responsibilities": [
+      "Study animal behavior, evolution, and ecology.",
+      "Conduct fieldwork and research in various habitats.",
+      "Contribute to conservation and wildlife management programs."
+    ],
+    "qualifications": [
+      "Master's or PhD in Zoology, Biology, or a related field.",
+      "Experience with wildlife research and conservation.",
+      "Strong analytical and communication skills."
+    ],
+    "companyInfo": {
+      "name": "Wildlife Conservation Society",
+      "description": "The Wildlife Conservation Society is a non-profit organization dedicated to wildlife conservation.",
+      "employees": "1000-5000",
+      "industry": "Conservation",
+      "website": "https://wcs.org"
+    },
+    "salary": "60000 - 80000",
+    "employeeType": "Full-time",
+    "ageLimit": null,
+    "experience": "3-5 years",
+    "education": "Master's degree",
+    "preferredFaculties": ["Zoology", "Biology", "Ecology"]
+  },
+  {
+    "id": "84",
+    "position": "Archaeologist",
+    "company": "Heritage Foundation",
+    "logo": "/heritagefoundation.png",
+    "level": "Mid Level",
+    "openings": 1,
+    "closingDate": "2026-05-20",
+    "location": "Rome, Italy",
+    "description": "We are looking for an experienced Archaeologist to join our team at the Heritage Foundation.",
+    "responsibilities": [
+      "Conduct archaeological excavations and surveys.",
+      "Analyze artifacts and other archaeological evidence.",
+      "Preserve and manage archaeological sites."
+    ],
+    "qualifications": [
+      "Master's or PhD in Archaeology or a related field.",
+      "Experience with archaeological fieldwork and research.",
+      "Knowledge of archaeological methods and theories."
+    ],
+    "companyInfo": {
+      "name": "Heritage Foundation",
+      "description": "The Heritage Foundation is dedicated to the preservation of cultural heritage.",
+      "employees": "100-500",
+      "industry": "Heritage",
+      "website": "https://heritagefoundation.org"
+    },
+    "salary": "55000 - 75000",
+    "employeeType": "Full-time",
+    "ageLimit": null,
+    "experience": "3-5 years",
+    "education": "Master's degree",
+    "preferredFaculties": ["Archaeology", "Anthropology", "History"]
+  },
+  {
+    "id": "85",
+    "position": "Historian",
+    "company": "National Archives",
+    "logo": "/nationalarchives.png",
+    "level": "Senior Level",
+    "openings": 1,
+    "closingDate": "2026-06-01",
+    "location": "Washington D.C., USA",
+    "description": "We are looking for a knowledgeable Historian to join our team at the National Archives.",
+    "responsibilities": [
+      "Conduct historical research and analysis.",
+      "Write scholarly articles, books, and reports.",
+      "Provide historical expertise and interpretation."
+    ],
+    "qualifications": [
+      "PhD in History.",
+      "Proven track record of historical research and publications.",
+      "Specialization in a particular historical period or region."
+    ],
+    "companyInfo": {
+      "name": "National Archives",
+      "description": "The National Archives is the nation's record keeper.",
+      "employees": "1000-5000",
+      "industry": "Government",
+      "website": "https://archives.gov"
+    },
+    "salary": "80000 - 110000",
+    "employeeType": "Full-time",
+    "ageLimit": null,
+    "experience": "5-10 years",
+    "education": "PhD",
+    "preferredFaculties": ["History", "Archival Science"]
+  },
+  {
+    "id": "86",
+    "position": "Political Scientist",
+    "company": "Global Policy Institute",
+    "logo": "/globalpolicy.png",
+    "level": "Senior Level",
+    "openings": 1,
+    "closingDate": "2026-05-25",
+    "location": "Washington D.C., USA",
+    "description": "We are looking for an experienced Political Scientist to join our team at the Global Policy Institute.",
+    "responsibilities": [
+      "Analyze political systems, policies, and trends.",
+      "Conduct research on domestic and international politics.",
+      "Provide policy recommendations and analysis."
+    ],
+    "qualifications": [
+      "PhD in Political Science or a related field.",
+      "Proven experience in political analysis and research.",
+      "Strong understanding of political theory and methodology."
+    ],
+    "companyInfo": {
+      "name": "Global Policy Institute",
+      "description": "The Global Policy Institute is a think tank focused on international affairs.",
+      "employees": "100-500",
+      "industry": "Policy",
+      "website": "https://globalpolicy.org"
+    },
+    "salary": "90000 - 130000",
+    "employeeType": "Full-time",
+    "ageLimit": null,
+    "experience": "5-10 years",
+    "education": "PhD",
+    "preferredFaculties": [
+      "Political Science",
+      "International Relations",
+      "Public Policy"
+    ]
+  },
+  {
+    "id": "87",
+    "position": "Sociologist",
+    "company": "Social Dynamics Research",
+    "logo": "/socialdynamics.png",
+    "level": "Mid Level",
+    "openings": 2,
+    "closingDate": "2026-05-18",
+    "location": "Chicago, USA",
+    "description": "We are looking for a skilled Sociologist to join our team at Social Dynamics Research.",
+    "responsibilities": [
+      "Study human society and social behavior.",
+      "Conduct research using qualitative and quantitative methods.",
+      "Analyze social trends and issues."
+    ],
+    "qualifications": [
+      "Master's or PhD in Sociology.",
+      "Experience with sociological research methods.",
+      "Strong analytical and critical thinking skills."
+    ],
+    "companyInfo": {
+      "name": "Social Dynamics Research",
+      "description": "Social Dynamics Research is a research organization focused on social issues.",
+      "employees": "50-100",
+      "industry": "Research",
+      "website": "https://socialdynamics.org"
+    },
+    "salary": "65000 - 85000",
+    "employeeType": "Full-time",
+    "ageLimit": null,
+    "experience": "3-5 years",
+    "education": "Master's degree",
+    "preferredFaculties": ["Sociology", "Social Research"]
+  },
+  {
+    "id": "88",
+    "position": "Urban Planner",
+    "company": "City Planning Department",
+    "logo": "/cityplanning.png",
+    "level": "Mid Level",
+    "openings": 3,
+    "closingDate": "2026-06-05",
+    "location": "Toronto, Canada",
+    "description": "We are looking for a creative Urban Planner to join our team at the City Planning Department.",
+    "responsibilities": [
+      "Develop plans and programs for the use of land and resources.",
+      "Analyze data on population, housing, and transportation.",
+      "Collaborate with community members and stakeholders."
+    ],
+    "qualifications": [
+      "Master's degree in Urban Planning or a related field.",
+      "Experience in urban planning and development.",
+      "Knowledge of zoning laws and land use regulations."
+    ],
+    "companyInfo": {
+      "name": "City Planning Department",
+      "description": "The City Planning Department is responsible for guiding the city's growth and development.",
+      "employees": "100-500",
+      "industry": "Government",
+      "website": "https://cityplanning.gov"
+    },
+    "salary": "70000 - 90000",
+    "employeeType": "Full-time",
+    "ageLimit": null,
+    "experience": "3-5 years",
+    "education": "Master's degree",
+    "preferredFaculties": ["Urban Planning", "Geography", "Architecture"]
+  },
+  {
+    "id": "89",
+    "position": "Cartographer",
+    "company": "GeoMapping Solutions",
+    "logo": "/geomapping.png",
+    "level": "Entry Level",
+    "openings": 2,
+    "closingDate": "2026-05-28",
+    "location": "Denver, USA",
+    "description": "We are looking for a detail-oriented Cartographer to join our team at GeoMapping Solutions.",
+    "responsibilities": [
+      "Create maps and other geographic information products.",
+      "Collect and analyze geographic data.",
+      "Use GIS software to design and produce maps."
+    ],
+    "qualifications": [
+      "Bachelor's degree in Geography, Cartography, or a related field.",
+      "Experience with GIS software (e.g., ArcGIS, QGIS).",
+      "Strong attention to detail and accuracy."
+    ],
+    "companyInfo": {
+      "name": "GeoMapping Solutions",
+      "description": "GeoMapping Solutions provides mapping and GIS services.",
+      "employees": "50-100",
+      "industry": "Geospatial",
+      "website": "https://geomapping.com"
+    },
+    "salary": "50000 - 65000",
+    "employeeType": "Full-time",
+    "ageLimit": null,
+    "experience": "1-3 years",
+    "education": "Bachelor's degree",
+    "preferredFaculties": ["Cartography", "Geography", "GIS"]
+  },
+  {
+    "id": "90",
+    "position": "Technical Writer",
+    "company": "Tech Corp",
+    "logo": "/techcorp.png",
+    "level": "Mid Level",
+    "openings": 3,
+    "closingDate": "2026-06-10",
+    "location": "Austin, USA",
+    "description": "We are looking for a clear and concise Technical Writer to join our team at Tech Corp.",
+    "responsibilities": [
+      "Create and maintain technical documentation, including user manuals, API documentation, and online help.",
+      "Collaborate with engineers and product managers to understand technical concepts.",
+      "Ensure documentation is accurate, complete, and easy to understand."
+    ],
+    "qualifications": [
+      "Bachelor's degree in Technical Communication, English, or a related field.",
+      "Proven experience as a technical writer.",
+      "Excellent writing and communication skills."
+    ],
+    "companyInfo": {
+      "name": "Tech Corp",
+      "description": "Tech Corp is a leader in the Technology industry.",
+      "employees": "1000-5000",
+      "industry": "Technology",
+      "website": "https://techcorp.com"
+    },
+    "salary": "65000 - 85000",
+    "employeeType": "Full-time",
+    "ageLimit": null,
+    "experience": "3-5 years",
+    "education": "Bachelor's degree",
+    "preferredFaculties": [
+      "Technical Communication",
+      "English",
+      "Computer Science"
+    ]
+  },
+  {
+    "id": "91",
+    "position": "UX Researcher",
+    "company": "DesignHub",
+    "logo": "/designhub.png",
+    "level": "Mid Level",
+    "openings": 2,
+    "closingDate": "2026-06-15",
+    "location": "San Francisco, USA",
+    "description": "We are looking for a curious and empathetic UX Researcher to join our team at DesignHub.",
+    "responsibilities": [
+      "Plan and conduct user research studies, including interviews, surveys, and usability tests.",
+      "Analyze research data and generate insights to inform product design.",
+      "Collaborate with designers, product managers, and engineers."
+    ],
+    "qualifications": [
+      "Master's or PhD in Human-Computer Interaction (HCI), Psychology, or a related field.",
+      "Experience with a variety of user research methods.",
+      "Strong analytical and communication skills."
+    ],
+    "companyInfo": {
+      "name": "DesignHub",
+      "description": "DesignHub is a leader in the Creative industry.",
+      "employees": "500-1000",
+      "industry": "Creative",
+      "website": "https://designhub.com"
+    },
+    "salary": "90000 - 120000",
+    "employeeType": "Full-time",
+    "ageLimit": null,
+    "experience": "3-5 years",
+    "education": "Master's degree",
+    "preferredFaculties": [
+      "Human-Computer Interaction",
+      "Psychology",
+      "Sociology"
+    ]
+  },
+  {
+    "id": "92",
+    "position": "Sound Designer",
+    "company": "CineMagic",
+    "logo": "/cinemagic.png",
+    "level": "Mid Level",
+    "openings": 1,
+    "closingDate": "2026-06-20",
+    "location": "Los Angeles, USA",
+    "description": "We are looking for a creative Sound Designer to join our team at CineMagic.",
+    "responsibilities": [
+      "Create and edit sound effects, Foley, and ambient sound for film and television.",
+      "Collaborate with directors and editors to create the desired soundscape.",
+      "Mix and master audio tracks."
+    ],
+    "qualifications": [
+      "Bachelor's degree in Audio Engineering, Sound Design, or a related field.",
+      "Proven experience as a sound designer.",
+      "Proficiency in digital audio workstations (DAWs) like Pro Tools or Logic Pro."
+    ],
+    "companyInfo": {
+      "name": "CineMagic",
+      "description": "CineMagic is a leading film studio in the Entertainment industry.",
+      "employees": "500-1000",
+      "industry": "Entertainment",
+      "website": "https://cinemagic.com"
+    },
+    "salary": "60000 - 80000",
+    "employeeType": "Contract",
+    "ageLimit": null,
+    "experience": "3-5 years",
+    "education": "Bachelor's degree",
+    "preferredFaculties": [
+      "Sound Design",
+      "Audio Engineering",
+      "Music Production"
+    ]
+  },
+  {
+    "id": "93",
+    "position": "Animator",
+    "company": "PixelPerfect",
+    "logo": "/pixelperfect.png",
+    "level": "Mid Level",
+    "openings": 3,
+    "closingDate": "2026-06-25",
+    "location": "Burbank, USA",
+    "description": "We are looking for a talented Animator to join our team at PixelPerfect.",
+    "responsibilities": [
+      "Create 2D or 3D animations for various projects, including films, television shows, and video games.",
+      "Collaborate with directors, artists, and other animators.",
+      "Bring characters and objects to life through movement."
+    ],
+    "qualifications": [
+      "Bachelor's degree in Animation, Fine Arts, or a related field.",
+      "A strong portfolio or demo reel showcasing your animation skills.",
+      "Proficiency in animation software like Maya, 3ds Max, or Toon Boom Harmony."
+    ],
+    "companyInfo": {
+      "name": "PixelPerfect",
+      "description": "PixelPerfect is a leading animation studio.",
+      "employees": "100-500",
+      "industry": "Animation",
+      "website": "https://pixelperfect.com"
+    },
+    "salary": "65000 - 85000",
+    "employeeType": "Full-time",
+    "ageLimit": null,
+    "experience": "3-5 years",
+    "education": "Bachelor's degree",
+    "preferredFaculties": ["Animation", "Fine Arts", "Computer Graphics"]
+  },
+  {
+    "id": "94",
+    "position": "Illustrator",
+    "company": "DesignHub",
+    "logo": "/designhub.png",
+    "level": "Entry Level",
+    "openings": 2,
+    "closingDate": "2026-07-01",
+    "location": "New York, USA",
+    "description": "We are looking for a creative Illustrator to join our team at DesignHub.",
+    "responsibilities": [
+      "Create original illustrations for various media, including books, magazines, and websites.",
+      "Collaborate with clients and art directors to meet project requirements.",
+      "Use a variety of traditional and digital tools to create artwork."
+    ],
+    "qualifications": [
+      "A strong portfolio of illustration work.",
+      "Proficiency in illustration software like Adobe Illustrator and Photoshop.",
+      "Excellent drawing and artistic skills."
+    ],
+    "companyInfo": {
+      "name": "DesignHub",
+      "description": "DesignHub is a leader in the Creative industry.",
+      "employees": "500-1000",
+      "industry": "Creative",
+      "website": "https://designhub.com"
+    },
+    "salary": "45000 - 60000",
+    "employeeType": "Full-time",
+    "ageLimit": null,
+    "experience": "1-3 years",
+    "education": "Bachelor's degree",
+    "preferredFaculties": ["Illustration", "Fine Arts", "Graphic Design"]
+  },
+  {
+    "id": "95",
+    "position": "Public Relations Specialist",
+    "company": "NewsNow",
+    "logo": "/newsnow.png",
+    "level": "Mid Level",
+    "openings": 2,
+    "closingDate": "2026-07-05",
+    "location": "London, UK",
+    "description": "We are looking for a strategic Public Relations Specialist to join our team at NewsNow.",
+    "responsibilities": [
+      "Develop and implement public relations campaigns.",
+      "Build and maintain relationships with media and influencers.",
+      "Manage the public image and reputation of clients or the organization."
+    ],
+    "qualifications": [
+      "Bachelor's degree in Public Relations, Communications, or a related field.",
+      "Proven experience in public relations.",
+      "Excellent writing and communication skills."
+    ],
+    "companyInfo": {
+      "name": "NewsNow",
+      "description": "NewsNow is a leading news organization in the Media industry.",
+      "employees": "1000-5000",
+      "industry": "Media",
+      "website": "https://newsnow.com"
+    },
+    "salary": "55000 - 75000",
+    "employeeType": "Full-time",
+    "ageLimit": null,
+    "experience": "3-5 years",
+    "education": "Bachelor's degree",
+    "preferredFaculties": ["Public Relations", "Communications", "Journalism"]
+  },
+  {
+    "id": "96",
+    "position": "Insurance Underwriter",
+    "company": "SecureInsure",
+    "logo": "/secureinsure.png",
+    "level": "Mid Level",
+    "openings": 3,
+    "closingDate": "2026-07-10",
+    "location": "Chicago, USA",
+    "description": "We are looking for a detail-oriented Insurance Underwriter to join our team at SecureInsure.",
+    "responsibilities": [
+      "Evaluate insurance applications and assess risks.",
+      "Determine policy terms and premiums.",
+      "Collaborate with insurance agents and brokers."
+    ],
+    "qualifications": [
+      "Bachelor's degree in Business, Finance, or a related field.",
+      "Experience in insurance underwriting.",
+      "Strong analytical and decision-making skills."
+    ],
+    "companyInfo": {
+      "name": "SecureInsure",
+      "description": "SecureInsure is a leading provider of insurance products.",
+      "employees": "1000-5000",
+      "industry": "Insurance",
+      "website": "https://secureinsure.com"
+    },
+    "salary": "60000 - 80000",
+    "employeeType": "Full-time",
+    "ageLimit": null,
+    "experience": "3-5 years",
+    "education": "Bachelor's degree",
+    "preferredFaculties": [
+      "Finance",
+      "Business Administration",
+      "Risk Management"
+    ]
+  },
+  {
+    "id": "97",
+    "position": "Actuary",
+    "company": "SecureInsure",
+    "logo": "/secureinsure.png",
+    "level": "Senior Level",
+    "openings": 1,
+    "closingDate": "2026-07-15",
+    "location": "New York, USA",
+    "description": "We are looking for an experienced Actuary to join our team at SecureInsure.",
+    "responsibilities": [
+      "Analyze the financial costs of risk and uncertainty.",
+      "Develop and price insurance products.",
+      "Use mathematics, statistics, and financial theory to assess risk."
+    ],
+    "qualifications": [
+      "Bachelor's degree in Actuarial Science, Mathematics, or a related field.",
+      "Fellow of the Society of Actuaries (FSA) or Casualty Actuarial Society (FCAS).",
+      "Proven experience as an actuary."
+    ],
+    "companyInfo": {
+      "name": "SecureInsure",
+      "description": "SecureInsure is a leading provider of insurance products.",
+      "employees": "1000-5000",
+      "industry": "Insurance",
+      "website": "https://secureinsure.com"
+    },
+    "salary": "120000 - 180000",
+    "employeeType": "Full-time",
+    "ageLimit": null,
+    "experience": "5-10 years",
+    "education": "Bachelor's degree",
+    "preferredFaculties": ["Actuarial Science", "Mathematics", "Statistics"]
+  },
+  {
+    "id": "98",
+    "position": "Investment Banker",
+    "company": "Global Finance",
+    "logo": "/globalfinance.png",
+    "level": "Mid Level",
+    "openings": 4,
+    "closingDate": "2026-07-20",
+    "location": "New York, USA",
+    "description": "We are looking for ambitious Investment Bankers to join our team at Global Finance.",
+    "responsibilities": [
+      "Advise clients on mergers and acquisitions, capital raising, and other financial transactions.",
+      "Build financial models and perform valuation analysis.",
+      "Prepare client presentations and marketing materials."
+    ],
+    "qualifications": [
+      "Bachelor's degree in Finance, Economics, or a related field.",
+      "Experience in investment banking or a related field.",
+      "Strong analytical and quantitative skills."
+    ],
+    "companyInfo": {
+      "name": "Global Finance",
+      "description": "Global Finance is a leading investment bank.",
+      "employees": "5000-10000",
+      "industry": "Finance",
+      "website": "https://globalfinance.com"
+    },
+    "salary": "100000 - 150000",
+    "employeeType": "Full-time",
+    "ageLimit": null,
+    "experience": "3-5 years",
+    "education": "Bachelor's degree",
+    "preferredFaculties": ["Finance", "Economics", "Business Administration"]
+  },
+  {
+    "id": "99",
+    "position": "Management Consultant",
+    "company": "Strategy Solutions",
+    "logo": "/strategysolutions.png",
+    "level": "Entry Level",
+    "openings": 10,
+    "closingDate": "2026-08-01",
+    "location": "Boston, USA",
+    "description": "We are looking for bright and analytical Management Consultants to join our team at Strategy Solutions.",
+    "responsibilities": [
+      "Help organizations improve their performance and solve complex business problems.",
+      "Conduct research, analyze data, and develop recommendations.",
+      "Work closely with clients to implement solutions."
+    ],
+    "qualifications": [
+      "Bachelor's or Master's degree from a top university.",
+      "Strong problem-solving and analytical skills.",
+      "Excellent communication and interpersonal skills."
+    ],
+    "companyInfo": {
+      "name": "Strategy Solutions",
+      "description": "Strategy Solutions is a leading management consulting firm.",
+      "employees": "1000-5000",
+      "industry": "Consulting",
+      "website": "https://strategysolutions.com"
+    },
+    "salary": "80000 - 100000",
+    "employeeType": "Full-time",
+    "ageLimit": null,
+    "experience": "0-2 years",
+    "education": "Bachelor's degree",
+    "preferredFaculties": [
+      "Business Administration",
+      "Economics",
+      "Engineering"
+    ]
+  },
+  {
+    "id": "100",
+    "position": "Venture Capitalist",
+    "company": "Future Ventures",
+    "logo": "/futureventures.png",
+    "level": "Senior Level",
+    "openings": 2,
+    "closingDate": "2026-08-10",
+    "location": "Palo Alto, USA",
+    "description": "We are looking for experienced Venture Capitalists to join our team at Future Ventures.",
+    "responsibilities": [
+      "Identify and invest in promising early-stage companies.",
+      "Conduct due diligence and negotiate investment terms.",
+      "Provide strategic guidance and support to portfolio companies."
+    ],
+    "qualifications": [
+      "MBA or other advanced degree is a plus.",
+      "Proven experience in venture capital, investment banking, or entrepreneurship.",
+      "Strong network and understanding of the startup ecosystem."
+    ],
+    "companyInfo": {
+      "name": "Future Ventures",
+      "description": "Future Ventures is a venture capital firm that invests in disruptive technologies.",
+      "employees": "50-100",
+      "industry": "Venture Capital",
+      "website": "https://futureventures.com"
+    },
+    "salary": "150000 - 250000 + carry",
+    "employeeType": "Full-time",
+    "ageLimit": null,
+    "experience": "5-10 years",
+    "education": "Master's degree",
+    "preferredFaculties": [
+      "Finance",
+      "Business Administration",
+      "Entrepreneurship"
+    ]
+  }
+]
