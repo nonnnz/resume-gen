@@ -3562,5 +3562,1025 @@
       "Business Administration",
       "Entrepreneurship"
     ]
+  },
+  {
+    "id": "101",
+    "position": "Software Developer",
+    "company": "Bangkok Byteworks",
+    "logo": "/bangkokbyteworks.png",
+    "level": "Mid Level",
+    "openings": 3,
+    "closingDate": "2025-12-15",
+    "location": "Bangkok, Thailand",
+    "description": "Join our growing team to build innovative software solutions for local and international clients.",
+    "responsibilities": [
+      "Develop and maintain web applications.",
+      "Collaborate with cross-functional teams.",
+      "Participate in code reviews and agile ceremonies."
+    ],
+    "qualifications": [
+      "Bachelor's degree in Computer Science or related field.",
+      "2+ years of experience in software development.",
+      "Familiarity with modern frameworks (React, Node.js, etc.)."
+    ],
+    "companyInfo": {
+      "name": "Bangkok Byteworks",
+      "description": "A fast-growing tech startup in the heart of Bangkok.",
+      "employees": "50-200",
+      "industry": "Technology",
+      "website": "https://bangkokbyteworks.co.th"
+    },
+    "salary": "480000 - 900000",
+    "employeeType": "Full-time",
+    "ageLimit": "22-35 years",
+    "experience": "2-5 years",
+    "education": "Bachelor's degree",
+    "preferredFaculties": ["Computer Science", "Software Engineering"]
+  },
+  {
+    "id": "102",
+    "position": "Digital Marketing Specialist",
+    "company": "Siam Digital Solutions",
+    "logo": "/siamdigital.png",
+    "level": "Entry Level",
+    "openings": 2,
+    "closingDate": "2025-11-30",
+    "location": "Chiang Mai, Thailand",
+    "description": "Drive online campaigns and brand awareness for local and regional clients.",
+    "responsibilities": [
+      "Plan and execute digital marketing campaigns.",
+      "Analyze campaign performance and optimize strategies.",
+      "Manage social media accounts."
+    ],
+    "qualifications": [
+      "Bachelor's degree in Marketing or related field.",
+      "Strong communication and analytical skills.",
+      "Experience with Google Ads and Facebook Business Suite is a plus."
+    ],
+    "companyInfo": {
+      "name": "Siam Digital Solutions",
+      "description": "A creative digital agency serving SMEs across Thailand.",
+      "employees": "20-50",
+      "industry": "Marketing",
+      "website": "https://siamdigital.co.th"
+    },
+    "salary": "300000 - 600000",
+    "employeeType": "Full-time",
+    "ageLimit": "21-30 years",
+    "experience": "0-2 years",
+    "education": "Bachelor's degree",
+    "preferredFaculties": ["Marketing", "Business Administration"]
+  },
+  {
+    "id": "103",
+    "position": "Accountant",
+    "company": "Thai Ledger Co., Ltd.",
+    "logo": "/thailedger.png",
+    "level": "Mid Level",
+    "openings": 1,
+    "closingDate": "2025-10-20",
+    "location": "Bangkok, Thailand",
+    "description": "Manage financial records and ensure compliance with Thai accounting standards.",
+    "responsibilities": [
+      "Prepare monthly and annual financial statements.",
+      "Handle tax filings and audits.",
+      "Support budgeting and forecasting."
+    ],
+    "qualifications": [
+      "Bachelor's degree in Accounting or Finance.",
+      "3+ years of experience in accounting.",
+      "CPA is a plus."
+    ],
+    "companyInfo": {
+      "name": "Thai Ledger Co., Ltd.",
+      "description": "A trusted accounting firm serving Thai businesses.",
+      "employees": "10-30",
+      "industry": "Accounting",
+      "website": "https://thailedger.co.th"
+    },
+    "salary": "420000 - 720000",
+    "employeeType": "Full-time",
+    "ageLimit": "25-40 years",
+    "experience": "3-5 years",
+    "education": "Bachelor's degree",
+    "preferredFaculties": ["Accounting", "Finance"]
+  },
+  {
+    "id": "104",
+    "position": "Sales Executive",
+    "company": "Bangkok BizConnect",
+    "logo": "/bizconnect.png",
+    "level": "Entry Level",
+    "openings": 4,
+    "closingDate": "2025-12-10",
+    "location": "Bangkok, Thailand",
+    "description": "Expand our client base and drive revenue growth in the B2B sector.",
+    "responsibilities": [
+      "Identify and approach potential clients.",
+      "Present products and services to prospects.",
+      "Negotiate and close sales deals."
+    ],
+    "qualifications": [
+      "Bachelor's degree in Business or related field.",
+      "Excellent communication and negotiation skills.",
+      "Sales experience is a plus."
+    ],
+    "companyInfo": {
+      "name": "Bangkok BizConnect",
+      "description": "A B2B solutions provider for Thai enterprises.",
+      "employees": "30-100",
+      "industry": "Business Services",
+      "website": "https://bizconnect.co.th"
+    },
+    "salary": "360000 - 700000",
+    "employeeType": "Full-time",
+    "ageLimit": "22-35 years",
+    "experience": "1-3 years",
+    "education": "Bachelor's degree",
+    "preferredFaculties": ["Business Administration", "Marketing"]
+  },
+  {
+    "id": "105",
+    "position": "Graphic Designer",
+    "company": "Chiang Mai Creatives",
+    "logo": "/cmcreatives.png",
+    "level": "Entry Level",
+    "openings": 2,
+    "closingDate": "2025-11-25",
+    "location": "Chiang Mai, Thailand",
+    "description": "Design marketing materials and digital assets for a variety of clients.",
+    "responsibilities": [
+      "Create graphics for web and print.",
+      "Work with marketing and content teams.",
+      "Maintain brand consistency."
+    ],
+    "qualifications": [
+      "Bachelor's degree in Graphic Design or related field.",
+      "Proficiency in Adobe Creative Suite.",
+      "Portfolio required."
+    ],
+    "companyInfo": {
+      "name": "Chiang Mai Creatives",
+      "description": "A boutique design agency in Chiang Mai.",
+      "employees": "10-20",
+      "industry": "Design",
+      "website": "https://cmcreatives.co.th"
+    },
+    "salary": "300000 - 540000",
+    "employeeType": "Full-time",
+    "ageLimit": "21-30 years",
+    "experience": "0-2 years",
+    "education": "Bachelor's degree",
+    "preferredFaculties": ["Graphic Design", "Visual Arts"]
+  },
+  {
+    "id": "106",
+    "position": "Customer Service Representative",
+    "company": "Phuket Service Hub",
+    "logo": "/phuketservicehub.png",
+    "level": "Entry Level",
+    "openings": 5,
+    "closingDate": "2025-12-05",
+    "location": "Phuket, Thailand",
+    "description": "Provide excellent customer support for our hospitality clients.",
+    "responsibilities": [
+      "Handle customer inquiries via phone and email.",
+      "Resolve issues and escalate as needed.",
+      "Document customer interactions."
+    ],
+    "qualifications": [
+      "Diploma or Bachelor's degree.",
+      "Strong communication skills in Thai and English.",
+      "Experience in hospitality is a plus."
+    ],
+    "companyInfo": {
+      "name": "Phuket Service Hub",
+      "description": "A leading customer service provider for the tourism industry.",
+      "employees": "50-150",
+      "industry": "Hospitality",
+      "website": "https://phuketservicehub.co.th"
+    },
+    "salary": "240000 - 420000",
+    "employeeType": "Full-time",
+    "ageLimit": "20-30 years",
+    "experience": "0-2 years",
+    "education": "Diploma or Bachelor's degree",
+    "preferredFaculties": ["Hospitality", "Tourism"]
+  },
+  {
+    "id": "107",
+    "position": "Human Resources Officer",
+    "company": "Thai Talent Partners",
+    "logo": "/thaitalent.png",
+    "level": "Mid Level",
+    "openings": 1,
+    "closingDate": "2025-11-20",
+    "location": "Bangkok, Thailand",
+    "description": "Manage recruitment, employee relations, and HR administration.",
+    "responsibilities": [
+      "Handle the full recruitment cycle.",
+      "Administer compensation and benefits.",
+      "Ensure compliance with Thai labor laws."
+    ],
+    "qualifications": [
+      "Bachelor's degree in Human Resources or related field.",
+      "3+ years of HR experience.",
+      "Good knowledge of Thai labor law."
+    ],
+    "companyInfo": {
+      "name": "Thai Talent Partners",
+      "description": "An HR consultancy firm for businesses in Thailand.",
+      "employees": "20-50",
+      "industry": "Human Resources",
+      "website": "https://thaitalent.co.th"
+    },
+    "salary": "480000 - 840000",
+    "employeeType": "Full-time",
+    "ageLimit": "25-40 years",
+    "experience": "3-5 years",
+    "education": "Bachelor's degree",
+    "preferredFaculties": ["Human Resources", "Business Administration"]
+  },
+  {
+    "id": "108",
+    "position": "Logistics Coordinator",
+    "company": "Siam Shipping Solutions",
+    "logo": "/siamshipping.png",
+    "level": "Entry Level",
+    "openings": 3,
+    "closingDate": "2025-12-01",
+    "location": "Chonburi, Thailand",
+    "description": "Coordinate import/export shipments and manage logistics operations.",
+    "responsibilities": [
+      "Prepare shipping documents.",
+      "Track shipments and update clients.",
+      "Liaise with customs brokers and freight forwarders."
+    ],
+    "qualifications": [
+      "Bachelor's degree in Logistics, Supply Chain Management, or related field.",
+      "Good command of English.",
+      "Detail-oriented and able to work under pressure."
+    ],
+    "companyInfo": {
+      "name": "Siam Shipping Solutions",
+      "description": "A logistics and freight forwarding company based in the Eastern Seaboard.",
+      "employees": "50-200",
+      "industry": "Logistics",
+      "website": "https://siamshipping.co.th"
+    },
+    "salary": "300000 - 540000",
+    "employeeType": "Full-time",
+    "ageLimit": "22-35 years",
+    "experience": "1-3 years",
+    "education": "Bachelor's degree",
+    "preferredFaculties": ["Logistics", "Supply Chain Management"]
+  },
+  {
+    "id": "109",
+    "position": "IT Support Technician",
+    "company": "Bangkok Tech Support",
+    "logo": "/bktechsupport.png",
+    "level": "Entry Level",
+    "openings": 4,
+    "closingDate": "2025-11-15",
+    "location": "Bangkok, Thailand",
+    "description": "Provide technical assistance and support to our corporate clients.",
+    "responsibilities": [
+      "Troubleshoot hardware and software issues.",
+      "Install and configure computer systems.",
+      "Provide helpdesk support."
+    ],
+    "qualifications": [
+      "Diploma or Bachelor's degree in IT or related field.",
+      "Good knowledge of computer systems and networks.",
+      "Strong problem-solving skills."
+    ],
+    "companyInfo": {
+      "name": "Bangkok Tech Support",
+      "description": "An IT services and support company for SMEs in Bangkok.",
+      "employees": "30-100",
+      "industry": "IT Services",
+      "website": "https://bktechsupport.co.th"
+    },
+    "salary": "280000 - 480000",
+    "employeeType": "Full-time",
+    "ageLimit": "21-30 years",
+    "experience": "0-2 years",
+    "education": "Bachelor's degree",
+    "preferredFaculties": ["Information Technology", "Computer Science"]
+  },
+  {
+    "id": "110",
+    "position": "Hotel Manager",
+    "company": "Phuket Paradise Resorts",
+    "logo": "/phuketparadise.png",
+    "level": "Senior Level",
+    "openings": 1,
+    "closingDate": "2026-01-10",
+    "location": "Phuket, Thailand",
+    "description": "Oversee all operations of our luxury beach resort.",
+    "responsibilities": [
+      "Manage hotel staff and departments.",
+      "Ensure excellent guest services.",
+      "Handle budgeting and financial management."
+    ],
+    "qualifications": [
+      "Bachelor's degree in Hospitality Management or related field.",
+      "5+ years of experience in hotel management.",
+      "Strong leadership and communication skills."
+    ],
+    "companyInfo": {
+      "name": "Phuket Paradise Resorts",
+      "description": "A chain of luxury resorts in Phuket.",
+      "employees": "200-500",
+      "industry": "Hospitality",
+      "website": "https://phuketparadise.co.th"
+    },
+    "salary": "960000 - 2400000",
+    "employeeType": "Full-time",
+    "ageLimit": "35-55 years",
+    "experience": "5-10 years",
+    "education": "Bachelor's degree",
+    "preferredFaculties": ["Hospitality Management", "Tourism"]
+  },
+  {
+    "id": "111",
+    "position": "Chef de Partie",
+    "company": "Bangkok Fine Dining",
+    "logo": "/bkfinedining.png",
+    "level": "Mid Level",
+    "openings": 2,
+    "closingDate": "2025-11-28",
+    "location": "Bangkok, Thailand",
+    "description": "Join our culinary team and contribute to our award-winning restaurant.",
+    "responsibilities": [
+      "Manage a specific section of the kitchen.",
+      "Prepare and cook high-quality dishes.",
+      "Train and supervise junior chefs."
+    ],
+    "qualifications": [
+      "Culinary school diploma or equivalent.",
+      "3+ years of experience in a fine dining kitchen.",
+      "Passion for food and creativity."
+    ],
+    "companyInfo": {
+      "name": "Bangkok Fine Dining",
+      "description": "A Michelin-starred restaurant in Bangkok.",
+      "employees": "50-100",
+      "industry": "Food & Beverage",
+      "website": "https://bkfinedining.co.th"
+    },
+    "salary": "420000 - 720000",
+    "employeeType": "Full-time",
+    "ageLimit": "24-40 years",
+    "experience": "3-5 years",
+    "education": "Vocational",
+    "preferredFaculties": ["Culinary Arts"]
+  },
+  {
+    "id": "112",
+    "position": "Real Estate Agent",
+    "company": "Pattaya Property Group",
+    "logo": "/pattayaproperty.png",
+    "level": "Mid Level",
+    "openings": 5,
+    "closingDate": "2025-12-20",
+    "location": "Pattaya, Thailand",
+    "description": "Assist clients in buying, selling, and renting properties in the Pattaya area.",
+    "responsibilities": [
+      "List and market properties.",
+      "Advise clients on market conditions.",
+      "Negotiate and close deals."
+    ],
+    "qualifications": [
+      "Real estate license preferred.",
+      "Proven sales experience.",
+      "Excellent communication and interpersonal skills."
+    ],
+    "companyInfo": {
+      "name": "Pattaya Property Group",
+      "description": "A leading real estate agency in Pattaya.",
+      "employees": "20-50",
+      "industry": "Real Estate",
+      "website": "https://pattayaproperty.co.th"
+    },
+    "salary": "Commission-based",
+    "employeeType": "Full-time",
+    "ageLimit": null,
+    "experience": "1-3 years",
+    "education": "High School",
+    "preferredFaculties": ["Real Estate", "Sales"]
+  },
+  {
+    "id": "113",
+    "position": "English Teacher",
+    "company": "Thai Language Institute",
+    "logo": "/thailanguageinstitute.png",
+    "level": "Entry Level",
+    "openings": 10,
+    "closingDate": "2025-10-31",
+    "location": "Bangkok, Thailand",
+    "description": "Teach English to students of all ages and levels.",
+    "responsibilities": [
+      "Plan and deliver engaging English lessons.",
+      "Assess student progress.",
+      "Create a positive learning environment."
+    ],
+    "qualifications": [
+      "Bachelor's degree.",
+      "TEFL/TESOL certification.",
+      "Native English speaker or fluent with a neutral accent."
+    ],
+    "companyInfo": {
+      "name": "Thai Language Institute",
+      "description": "A well-known language school in Thailand.",
+      "employees": "100-300",
+      "industry": "Education",
+      "website": "https://thailanguageinstitute.co.th"
+    },
+    "salary": "360000 - 600000",
+    "employeeType": "Contract",
+    "ageLimit": null,
+    "experience": "0-2 years",
+    "education": "Bachelor's degree",
+    "preferredFaculties": ["Education", "English"]
+  },
+  {
+    "id": "114",
+    "position": "Web Developer",
+    "company": "Chiang Mai Web Solutions",
+    "logo": "/cmwebsolutions.png",
+    "level": "Mid Level",
+    "openings": 2,
+    "closingDate": "2025-12-12",
+    "location": "Chiang Mai, Thailand",
+    "description": "Develop and maintain websites and web applications for our clients.",
+    "responsibilities": [
+      "Write clean, well-designed code.",
+      "Collaborate with designers and project managers.",
+      "Troubleshoot and debug applications."
+    ],
+    "qualifications": [
+      "Bachelor's degree in Computer Science or related field.",
+      "2+ years of experience in web development.",
+      "Proficiency in PHP, JavaScript, and MySQL."
+    ],
+    "companyInfo": {
+      "name": "Chiang Mai Web Solutions",
+      "description": "A web development agency based in Chiang Mai.",
+      "employees": "10-30",
+      "industry": "Technology",
+      "website": "https://cmwebsolutions.co.th"
+    },
+    "salary": "420000 - 780000",
+    "employeeType": "Full-time",
+    "ageLimit": "24-38 years",
+    "experience": "2-5 years",
+    "education": "Bachelor's degree",
+    "preferredFaculties": ["Computer Science", "Software Engineering"]
+  },
+  {
+    "id": "115",
+    "position": "Data Analyst",
+    "company": "Bangkok Data Insights",
+    "logo": "/bkdatainsights.png",
+    "level": "Mid Level",
+    "openings": 2,
+    "closingDate": "2025-12-18",
+    "location": "Bangkok, Thailand",
+    "description": "Analyze large datasets to provide actionable insights for our clients.",
+    "responsibilities": [
+      "Interpret data and analyze results using statistical techniques.",
+      "Develop and implement data analyses, data collection systems and other strategies.",
+      "Create reports and visualizations."
+    ],
+    "qualifications": [
+      "Bachelor's degree in a quantitative field (Statistics, Mathematics, Computer Science, etc.).",
+      "2+ years of experience as a data analyst.",
+      "Proficiency in SQL and a data visualization tool (e.g., Tableau, Power BI)."
+    ],
+    "companyInfo": {
+      "name": "Bangkok Data Insights",
+      "description": "A data analytics consulting firm in Bangkok.",
+      "employees": "20-50",
+      "industry": "Data Analytics",
+      "website": "https://bkdatainsights.co.th"
+    },
+    "salary": "600000 - 1200000",
+    "employeeType": "Full-time",
+    "ageLimit": "25-40 years",
+    "experience": "2-5 years",
+    "education": "Bachelor's degree",
+    "preferredFaculties": ["Statistics", "Data Science", "Computer Science"]
+  },
+  {
+    "id": "116",
+    "position": "Mechanical Engineer",
+    "company": "Rayong Industrial Solutions",
+    "logo": "/rayongindustrial.png",
+    "level": "Mid Level",
+    "openings": 3,
+    "closingDate": "2025-11-22",
+    "location": "Rayong, Thailand",
+    "description": "Design and develop mechanical systems for industrial applications.",
+    "responsibilities": [
+      "Create and test mechanical designs.",
+      "Collaborate with cross-functional engineering teams.",
+      "Ensure compliance with safety and quality standards."
+    ],
+    "qualifications": [
+      "Bachelor's degree in Mechanical Engineering.",
+      "3+ years of experience in a related field.",
+      "Proficiency in CAD software."
+    ],
+    "companyInfo": {
+      "name": "Rayong Industrial Solutions",
+      "description": "An engineering firm serving the industrial sector in the Eastern Economic Corridor.",
+      "employees": "100-300",
+      "industry": "Engineering",
+      "website": "https://rayongindustrial.co.th"
+    },
+    "salary": "540000 - 960000",
+    "employeeType": "Full-time",
+    "ageLimit": "25-45 years",
+    "experience": "3-5 years",
+    "education": "Bachelor's degree",
+    "preferredFaculties": ["Mechanical Engineering"]
+  },
+  {
+    "id": "117",
+    "position": "Architect",
+    "company": "Siam Design Studio",
+    "logo": "/siamdesignstudio.png",
+    "level": "Mid Level",
+    "openings": 2,
+    "closingDate": "2025-12-08",
+    "location": "Bangkok, Thailand",
+    "description": "Design and manage architectural projects from concept to completion.",
+    "responsibilities": [
+      "Create architectural drawings and models.",
+      "Collaborate with clients and engineers.",
+      "Ensure compliance with building codes and regulations."
+    ],
+    "qualifications": [
+      "Bachelor's or Master's degree in Architecture.",
+      "3+ years of experience as an architect.",
+      "Licensed architect in Thailand is a plus."
+    ],
+    "companyInfo": {
+      "name": "Siam Design Studio",
+      "description": "A modern architectural firm in Bangkok.",
+      "employees": "20-50",
+      "industry": "Architecture",
+      "website": "https://siamdesignstudio.co.th"
+    },
+    "salary": "600000 - 1200000",
+    "employeeType": "Full-time",
+    "ageLimit": "28-45 years",
+    "experience": "3-5 years",
+    "education": "Master's degree",
+    "preferredFaculties": ["Architecture"]
+  },
+  {
+    "id": "118",
+    "position": "Pharmacist",
+    "company": "Thai Wellness Pharmacies",
+    "logo": "/thaiwellness.png",
+    "level": "Mid Level",
+    "openings": 4,
+    "closingDate": "2025-11-18",
+    "location": "Bangkok, Thailand",
+    "description": "Dispense medications and provide pharmaceutical care to patients.",
+    "responsibilities": [
+      "Review and fill prescriptions.",
+      "Counsel patients on medication use.",
+      "Manage pharmacy inventory."
+    ],
+    "qualifications": [
+      "Bachelor's degree in Pharmacy.",
+      "Licensed pharmacist in Thailand.",
+      "Good communication and interpersonal skills."
+    ],
+    "companyInfo": {
+      "name": "Thai Wellness Pharmacies",
+      "description": "A chain of community pharmacies in Thailand.",
+      "employees": "100-300",
+      "industry": "Healthcare",
+      "website": "https://thaiwellness.co.th"
+    },
+    "salary": "480000 - 840000",
+    "employeeType": "Full-time",
+    "ageLimit": null,
+    "experience": "1-3 years",
+    "education": "Bachelor's degree",
+    "preferredFaculties": ["Pharmacy"]
+  },
+  {
+    "id": "119",
+    "position": "Legal Counsel",
+    "company": "Bangkok Legal Advisors",
+    "logo": "/bklegaladvisors.png",
+    "level": "Senior Level",
+    "openings": 1,
+    "closingDate": "2026-01-05",
+    "location": "Bangkok, Thailand",
+    "description": "Provide legal advice and support to our corporate clients.",
+    "responsibilities": [
+      "Draft and review legal documents and contracts.",
+      "Advise on corporate and commercial law.",
+      "Represent clients in negotiations."
+    ],
+    "qualifications": [
+      "Master of Laws (LL.M.) degree.",
+      "5+ years of experience in a law firm or in-house legal department.",
+      "Thai lawyer's license."
+    ],
+    "companyInfo": {
+      "name": "Bangkok Legal Advisors",
+      "description": "A boutique law firm specializing in corporate law.",
+      "employees": "10-30",
+      "industry": "Legal",
+      "website": "https://bklegaladvisors.co.th"
+    },
+    "salary": "1200000 - 2400000",
+    "employeeType": "Full-time",
+    "ageLimit": null,
+    "experience": "5-10 years",
+    "education": "Master's degree",
+    "preferredFaculties": ["Law", "Corporate Law"]
+  },
+  {
+    "id": "120",
+    "position": "Event Coordinator",
+    "company": "Pattaya Event Planners",
+    "logo": "/pattayaevents.png",
+    "level": "Entry Level",
+    "openings": 2,
+    "closingDate": "2025-11-25",
+    "location": "Pattaya, Thailand",
+    "description": "Assist in planning and executing corporate and private events.",
+    "responsibilities": [
+      "Coordinate with vendors and suppliers.",
+      "Assist with on-site event management.",
+      "Handle administrative tasks."
+    ],
+    "qualifications": [
+      "Bachelor's degree in Event Management, Hospitality, or related field.",
+      "Strong organizational and communication skills.",
+      "Able to work flexible hours."
+    ],
+    "companyInfo": {
+      "name": "Pattaya Event Planners",
+      "description": "An event management company specializing in events in the Pattaya area.",
+      "employees": "10-20",
+      "industry": "Events",
+      "website": "https://pattayaevents.co.th"
+    },
+    "salary": "300000 - 480000",
+    "employeeType": "Full-time",
+    "ageLimit": "22-30 years",
+    "experience": "0-2 years",
+    "education": "Bachelor's degree",
+    "preferredFaculties": ["Event Management", "Hospitality"]
+  },
+  {
+    "id": "121",
+    "position": "UX/UI Designer",
+    "company": "Bangkok App Studio",
+    "logo": "/bkappstudio.png",
+    "level": "Mid Level",
+    "openings": 2,
+    "closingDate": "2025-12-22",
+    "location": "Bangkok, Thailand",
+    "description": "Design intuitive and engaging user experiences for mobile and web applications.",
+    "responsibilities": [
+      "Create wireframes, mockups, and prototypes.",
+      "Conduct user research and usability testing.",
+      "Collaborate with developers and product managers."
+    ],
+    "qualifications": [
+      "Bachelor's degree in Design, HCI, or related field.",
+      "3+ years of experience in UX/UI design.",
+      "A strong portfolio of design work."
+    ],
+    "companyInfo": {
+      "name": "Bangkok App Studio",
+      "description": "A mobile app development company in Bangkok.",
+      "employees": "30-100",
+      "industry": "Technology",
+      "website": "https://bkappstudio.co.th"
+    },
+    "salary": "600000 - 1200000",
+    "employeeType": "Full-time",
+    "ageLimit": "25-40 years",
+    "experience": "3-5 years",
+    "education": "Bachelor's degree",
+    "preferredFaculties": ["Design", "Human-Computer Interaction"]
+  },
+  {
+    "id": "122",
+    "position": "Content Creator",
+    "company": "Siam Social Hub",
+    "logo": "/siamsocialhub.png",
+    "level": "Entry Level",
+    "openings": 3,
+    "closingDate": "2025-11-28",
+    "location": "Bangkok, Thailand",
+    "description": "Create engaging content for social media platforms.",
+    "responsibilities": [
+      "Write, shoot, and edit short-form videos and other content.",
+      "Develop content calendars and strategies.",
+      "Monitor social media trends."
+    ],
+    "qualifications": [
+      "Bachelor's degree in Communications, Marketing, or related field.",
+      "Experience with video editing and graphic design tools.",
+      "Creative and able to work independently."
+    ],
+    "companyInfo": {
+      "name": "Siam Social Hub",
+      "description": "A social media marketing agency.",
+      "employees": "20-50",
+      "industry": "Marketing",
+      "website": "https://siamsocialhub.co.th"
+    },
+    "salary": "360000 - 600000",
+    "employeeType": "Full-time",
+    "ageLimit": "21-30 years",
+    "experience": "1-3 years",
+    "education": "Bachelor's degree",
+    "preferredFaculties": ["Communications", "Marketing"]
+  },
+  {
+    "id": "123",
+    "position": "Business Development Manager",
+    "company": "Thai Growth Partners",
+    "logo": "/thaigrowth.png",
+    "level": "Senior Level",
+    "openings": 1,
+    "closingDate": "2026-01-20",
+    "location": "Bangkok, Thailand",
+    "description": "Identify and develop new business opportunities to drive growth.",
+    "responsibilities": [
+      "Build and maintain relationships with key partners.",
+      "Develop and execute business development strategies.",
+      "Negotiate and close strategic partnerships."
+    ],
+    "qualifications": [
+      "Bachelor's or Master's degree in Business Administration or related field.",
+      "5+ years of experience in business development or a related role.",
+      "Proven track record of success."
+    ],
+    "companyInfo": {
+      "name": "Thai Growth Partners",
+      "description": "A business consulting firm focused on market expansion.",
+      "employees": "30-100",
+      "industry": "Consulting",
+      "website": "https://thaigrowth.co.th"
+    },
+    "salary": "1200000 - 2400000",
+    "employeeType": "Full-time",
+    "ageLimit": null,
+    "experience": "5-10 years",
+    "education": "Master's degree",
+    "preferredFaculties": ["Business Administration", "Marketing"]
+  },
+  {
+    "id": "124",
+    "position": "Supply Chain Analyst",
+    "company": "Ayutthaya Logistics",
+    "logo": "/ayutthayalogistics.png",
+    "level": "Mid Level",
+    "openings": 2,
+    "closingDate": "2025-12-15",
+    "location": "Ayutthaya, Thailand",
+    "description": "Analyze and optimize supply chain processes for our manufacturing clients.",
+    "responsibilities": [
+      "Collect and analyze supply chain data.",
+      "Identify areas for improvement and cost reduction.",
+      "Develop and implement supply chain solutions."
+    ],
+    "qualifications": [
+      "Bachelor's degree in Supply Chain Management, Logistics, or a related field.",
+      "2+ years of experience in a similar role.",
+      "Strong analytical and problem-solving skills."
+    ],
+    "companyInfo": {
+      "name": "Ayutthaya Logistics",
+      "description": "A logistics and supply chain consulting firm.",
+      "employees": "50-150",
+      "industry": "Logistics",
+      "website": "https://ayutthayalogistics.co.th"
+    },
+    "salary": "480000 - 840000",
+    "employeeType": "Full-time",
+    "ageLimit": "24-38 years",
+    "experience": "2-5 years",
+    "education": "Bachelor's degree",
+    "preferredFaculties": ["Supply Chain Management", "Logistics"]
+  },
+  {
+    "id": "125",
+    "position": "Quality Assurance Engineer",
+    "company": "Thai Software Testing",
+    "logo": "/thaisoftwaretesting.png",
+    "level": "Mid Level",
+    "openings": 3,
+    "closingDate": "2025-12-25",
+    "location": "Bangkok, Thailand",
+    "description": "Ensure the quality of our software products through manual and automated testing.",
+    "responsibilities": [
+      "Create and execute test plans and test cases.",
+      "Identify and report bugs and issues.",
+      "Collaborate with developers to resolve issues."
+    ],
+    "qualifications": [
+      "Bachelor's degree in Computer Science or related field.",
+      "2+ years of experience in software quality assurance.",
+      "Experience with automated testing tools is a plus."
+    ],
+    "companyInfo": {
+      "name": "Thai Software Testing",
+      "description": "A software testing and QA services company.",
+      "employees": "30-100",
+      "industry": "Technology",
+      "website": "https://thaisoftwaretesting.co.th"
+    },
+    "salary": "480000 - 900000",
+    "employeeType": "Full-time",
+    "ageLimit": "24-40 years",
+    "experience": "2-5 years",
+    "education": "Bachelor's degree",
+    "preferredFaculties": ["Computer Science", "Software Engineering"]
+  },
+  {
+    "id": "126",
+    "position": "Recruiter",
+    "company": "Bangkok Recruitment Agency",
+    "logo": "/bkrecruitment.png",
+    "level": "Mid Level",
+    "openings": 3,
+    "closingDate": "2025-12-05",
+    "location": "Bangkok, Thailand",
+    "description": "Source and recruit candidates for our clients in various industries.",
+    "responsibilities": [
+      "Manage the end-to-end recruitment process.",
+      "Source candidates through various channels.",
+      "Conduct interviews and assess candidates."
+    ],
+    "qualifications": [
+      "Bachelor's degree.",
+      "2+ years of experience in recruitment.",
+      "Excellent communication and interpersonal skills."
+    ],
+    "companyInfo": {
+      "name": "Bangkok Recruitment Agency",
+      "description": "A leading recruitment agency in Bangkok.",
+      "employees": "20-50",
+      "industry": "Human Resources",
+      "website": "https://bkrecruitment.co.th"
+    },
+    "salary": "420000 - 780000",
+    "employeeType": "Full-time",
+    "ageLimit": null,
+    "experience": "2-5 years",
+    "education": "Bachelor's degree",
+    "preferredFaculties": ["Human Resources", "Business Administration"]
+  },
+  {
+    "id": "127",
+    "position": "Financial Controller",
+    "company": "Thai Capital Management",
+    "logo": "/thaicapital.png",
+    "level": "Senior Level",
+    "openings": 1,
+    "closingDate": "2026-01-25",
+    "location": "Bangkok, Thailand",
+    "description": "Oversee all aspects of financial management and reporting.",
+    "responsibilities": [
+      "Manage accounting and financial operations.",
+      "Prepare financial statements and reports.",
+      "Ensure compliance with financial regulations."
+    ],
+    "qualifications": [
+      "Bachelor's or Master's degree in Accounting or Finance.",
+      "CPA or equivalent qualification.",
+      "7+ years of experience in a senior finance role."
+    ],
+    "companyInfo": {
+      "name": "Thai Capital Management",
+      "description": "An investment and asset management firm.",
+      "employees": "50-150",
+      "industry": "Finance",
+      "website": "https://thaicapital.co.th"
+    },
+    "salary": "1800000 - 3600000",
+    "employeeType": "Full-time",
+    "ageLimit": null,
+    "experience": "7-10 years",
+    "education": "Master's degree",
+    "preferredFaculties": ["Finance", "Accounting"]
+  },
+  {
+    "id": "128",
+    "position": "DevOps Engineer",
+    "company": "Siam Cloud Solutions",
+    "logo": "/siamcloud.png",
+    "level": "Mid Level",
+    "openings": 2,
+    "closingDate": "2025-12-30",
+    "location": "Bangkok, Thailand",
+    "description": "Build and maintain our cloud infrastructure and CI/CD pipelines.",
+    "responsibilities": [
+      "Manage and automate our cloud infrastructure (AWS, GCP).",
+      "Develop and maintain CI/CD pipelines.",
+      "Monitor system performance and reliability."
+    ],
+    "qualifications": [
+      "Bachelor's degree in Computer Science or related field.",
+      "3+ years of experience in a DevOps or SRE role.",
+      "Experience with containerization and orchestration (Docker, Kubernetes)."
+    ],
+    "companyInfo": {
+      "name": "Siam Cloud Solutions",
+      "description": "A cloud consulting and managed services provider.",
+      "employees": "30-100",
+      "industry": "Technology",
+      "website": "https://siamcloud.co.th"
+    },
+    "salary": "900000 - 1800000",
+    "employeeType": "Full-time",
+    "ageLimit": null,
+    "experience": "3-5 years",
+    "education": "Bachelor's degree",
+    "preferredFaculties": ["Computer Science", "Software Engineering"]
+  },
+  {
+    "id": "129",
+    "position": "Medical Representative",
+    "company": "Thai Pharma Group",
+    "logo": "/thaipharma.png",
+    "level": "Entry Level",
+    "openings": 5,
+    "closingDate": "2025-11-30",
+    "location": "Bangkok, Thailand",
+    "description": "Promote and sell our pharmaceutical products to healthcare professionals.",
+    "responsibilities": [
+      "Visit hospitals and clinics to meet with doctors and pharmacists.",
+      "Provide product information and samples.",
+      "Achieve sales targets."
+    ],
+    "qualifications": [
+      "Bachelor's degree in a science-related field (Pharmacy, Biology, etc.).",
+      "Excellent communication and sales skills.",
+      "Own car and driver's license."
+    ],
+    "companyInfo": {
+      "name": "Thai Pharma Group",
+      "description": "A leading pharmaceutical company in Thailand.",
+      "employees": "200-500",
+      "industry": "Pharmaceuticals",
+      "website": "https://thaipharma.co.th"
+    },
+    "salary": "360000 - 720000 + commission",
+    "employeeType": "Full-time",
+    "ageLimit": "22-35 years",
+    "experience": "0-2 years",
+    "education": "Bachelor's degree",
+    "preferredFaculties": ["Pharmacy", "Medical Science"]
+  },
+  {
+    "id": "130",
+    "position": "Project Manager",
+    "company": "Eastern Innovators",
+    "logo": "/easterninnovators.png",
+    "level": "Senior Level",
+    "openings": 1,
+    "closingDate": "2026-01-15",
+    "location": "Rayong, Thailand",
+    "description": "Lead cross-functional teams to deliver industrial projects on time and within budget.",
+    "responsibilities": [
+      "Oversee project planning and execution.",
+      "Manage budgets and timelines.",
+      "Coordinate with clients and stakeholders."
+    ],
+    "qualifications": [
+      "Bachelor's or Master's degree in Engineering or related field.",
+      "7+ years of project management experience.",
+      "PMP certification preferred."
+    ],
+    "companyInfo": {
+      "name": "Eastern Innovators",
+      "description": "A leader in industrial project management in Eastern Thailand.",
+      "employees": "200-500",
+      "industry": "Engineering",
+      "website": "https://easterninnovators.co.th"
+    },
+    "salary": "900000 - 1800000",
+    "employeeType": "Full-time",
+    "ageLimit": "30-50 years",
+    "experience": "7-10 years",
+    "education": "Master's degree",
+    "preferredFaculties": ["Engineering", "Project Management"]
   }
 ]

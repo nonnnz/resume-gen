@@ -51,6 +51,7 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
+    <li><a href="#disclaimer">Disclaimer</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -136,6 +137,13 @@ python resume_pdf-gpt-refactored.py --data resume_all_extended.json --theme mode
 - `--outdir`: The directory to save the generated PDF files.
 
 _For more examples, please refer to the [sample JSON files](https://github.com/nonnnz/resume-gen) like `resume_all_extended.json` and `resume_all_extended_th.json`._
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- DISCLAIMER -->
+## Disclaimer
+
+The `example-job/jobs_dataset.json` file contains synthetically generated data for demonstration purposes only. The companies, job positions, and other details are entirely fictional and created with the help of AI. Any resemblance to real companies or individuals is purely coincidental. This dataset should not be used for any purpose other than testing and showcasing the functionality of this project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
